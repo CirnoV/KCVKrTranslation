@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Ships Version="1.0.56">
+<Ships Version="1.0.57">
 	<Ship>
 		<JP-Name>U-511</JP-Name>
 		<TR-Name>U-511</TR-Name>
@@ -2079,5 +2079,9 @@
   <Ship>
     <JP-Name>駆逐古姫</JP-Name>
     <TR-Name>구축고희</TR-Name>
+  </Ship>
+  <Ship>
+    <JP-Name>朝潮改二</JP-Name>
+    <TR-Name>아사시오改2</TR-Name>
   </Ship>
 </Ships>
