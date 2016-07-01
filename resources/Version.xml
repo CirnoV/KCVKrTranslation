@@ -8,8 +8,8 @@
   	</Item>
 	<Item>
   		<Name>Updater</Name>
- 		<Version>1.0.10.0</Version>
-  		<URL>https://github.com/CirnoV/KCVAutoUpdater/releases/download/1.0.10.0/AutoUpdater.zip</URL>
+ 		<Version>1.0.11.0</Version>
+  		<URL>https://github.com/CirnoV/KCVAutoUpdater/releases/download/1.0.11.0/AutoUpdater.zip</URL>
   	</Item>
 	<Item>
 		<Name>Equipment</Name>
@@ -28,7 +28,7 @@
 	</Item>
 	<Item>
 		<Name>Ships</Name>
-		<Version>1.0.56</Version>
+		<Version>1.0.57</Version>
 		<URL>https://raw.github.com/CirnoV/KCVKrTranslation/master/resources/Translations/Ships.xml</URL>
 	</Item>
 	<Item>
