@@ -1,5 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.2.31">
+<Quests Version="1.2.32">
+	<Quest>
+		<ID>SF</ID>
+		<JP-Name>初夏の整理整頓</JP-Name>
+		<TR-Name>초여름의 정리정돈</TR-Name>
+		<JP-Detail>不要な装備を複数「廃棄」して、夏を迎える準備をしましょう！</JP-Detail>
+		<TR-Detail>장비 5개 폐기</TR-Detail>
+	</Quest>
 	<Quest>
 		<ID>WF01</ID>
 		<JP-Name>式の準備！(その壱)</JP-Name>
@@ -127,53 +134,18 @@
 		<TR-Detail>5-2보스함대에서 2회 S승리</TR-Detail>
 	</Quest>
 	<Quest>
-		<ID>B9</ID>
-		<JP-Name>「空母機動部隊」出撃せよ！</JP-Name>
-		<TR-Name>공모기동부대 출격</TR-Name>
-		<JP-Detail>空母1隻とその護衛艦艇で構成した空母機動部隊を出撃させよ！</JP-Detail>
-		<TR-Detail>정규공모나 경공모 1척과 구축함 3대를 함대 배치 후 승패과 관계 없이 전투 1회 수행</TR-Detail>
+		<ID>B71</ID>
+		<JP-Name>鎮守府近海航路の安全確保を強化せよ！</JP-Name>
+		<TR-Name>진수부근해항로의 안전을 확보하라!</TR-Name>
+		<JP-Detail>水雷戦隊を含む新編戦隊を鎮守府近海航路に出撃させ、同航路の安全確保に努めよ！</JP-Detail>
+		<TR-Detail>경순양함을 기함으로한 수뢰전대(구축함 4척)로 1-6 클리어</TR-Detail>
 	</Quest>
 	<Quest>
-		<ID>B8</ID>
-		<JP-Name>「戦艦」を出撃させよ！</JP-Name>
-		<TR-Name>전함 출격</TR-Name>
-		<JP-Detail>海上の覇者、戦艦を旗艦とした艦隊を編成、これを出撃させよ！</JP-Detail>
-		<TR-Detail>기함을 전함으로 배치, 승패와 관계 없이 전투 1회 수행</TR-Detail>
-	</Quest>
-	<Quest>
-		<ID>B7</ID>
-		<JP-Name>「重巡洋艦」を出撃させよ！</JP-Name>
-		<TR-Name>중순양함 출격</TR-Name>
-		<JP-Detail>重巡洋艦を旗艦とした艦隊を編成、これを出撃させよ！</JP-Detail>
-		<TR-Detail>기함을 중순양함으로 배치, 승패와 관계 없이 전투 1회 수행</TR-Detail>
-	</Quest>
-	<Quest>
-		<ID>B6</ID>
-		<JP-Name>「水雷戦隊」で出撃せよ！</JP-Name>
-		<TR-Name>수뢰전대 출격</TR-Name>
-		<JP-Detail>軽巡洋艦1隻を旗艦とし、複数の駆逐艦からなる水雷戦隊で出撃せよ！</JP-Detail>
-		<TR-Detail>기함을 경순양함으로 배치 후 구축함 2~5대를 포함, 승패와 관계없이 전투 1회 수행</TR-Detail>
-	</Quest>
-	<Quest>
-		<ID>B5</ID>
-		<JP-Name>接近する「敵前衛艦隊」を迎撃せよ！</JP-Name>
-		<TR-Name>접근하는 적 전위함대 요격</TR-Name>
-		<JP-Detail>南西諸島沖に接近する「敵前衛艦隊」を捕捉、これを撃滅せよ！</JP-Detail>
-		<TR-Detail>1-2 해역 보스전에서 1회 승리</TR-Detail>
-	</Quest>
-	<Quest>
-		<ID>B4</ID>
-		<JP-Name>南西諸島沖に出撃せよ！</JP-Name>
-		<TR-Name>남서제도 앞바다 출격</TR-Name>
-		<JP-Detail>南西諸島沖に艦隊を出撃させ、敵艦隊と交戦せよ！</JP-Detail>
-		<TR-Detail>1-2 해역에서 승패와 관계 없이 전투 1회 수행</TR-Detail>
-	</Quest>
-	<Quest>
-		<ID>B3</ID>
-		<JP-Name>第2艦隊、出撃せよ！</JP-Name>
-		<TR-Name>제2함대 출격</TR-Name>
-		<JP-Detail>新たに編成した「第2艦隊」を出撃せよ！</JP-Detail>
-		<TR-Detail>승패와 관계 없이 2함대로 전투 1회 수행</TR-Detail>
+		<ID>B70</ID>
+		<JP-Name>新編艦隊、南西諸島防衛線へ急行せよ！</JP-Name>
+		<TR-Name>신편 함대, 남서제독방위선으로 급행하라!</TR-Name>
+		<JP-Detail>水雷戦隊を含む新編艦隊を南西諸島防衛線に展開、同方面に来襲する敵艦隊を撃破せよ！</JP-Detail>
+		<TR-Detail>경순양함을 기함으로한 수뢰전대(구축함 4척)로 1-4보스전 A승리</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>B22</ID>
@@ -267,6 +239,55 @@
 		<TR-Detail>정규공모 또는 경공모가 포함된 적 함대 격파(함대에 항모가 "없어도" 아카기 획득 가능)</TR-Detail>
 	</Quest>
 	<Quest>
+		<ID>B9</ID>
+		<JP-Name>「空母機動部隊」出撃せよ！</JP-Name>
+		<TR-Name>공모기동부대 출격</TR-Name>
+		<JP-Detail>空母1隻とその護衛艦艇で構成した空母機動部隊を出撃させよ！</JP-Detail>
+		<TR-Detail>정규공모나 경공모 1척과 구축함 3대를 함대 배치 후 승패과 관계 없이 전투 1회 수행</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>B8</ID>
+		<JP-Name>「戦艦」を出撃させよ！</JP-Name>
+		<TR-Name>전함 출격</TR-Name>
+		<JP-Detail>海上の覇者、戦艦を旗艦とした艦隊を編成、これを出撃させよ！</JP-Detail>
+		<TR-Detail>기함을 전함으로 배치, 승패와 관계 없이 전투 1회 수행</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>B7</ID>
+		<JP-Name>「重巡洋艦」を出撃させよ！</JP-Name>
+		<TR-Name>중순양함 출격</TR-Name>
+		<JP-Detail>重巡洋艦を旗艦とした艦隊を編成、これを出撃させよ！</JP-Detail>
+		<TR-Detail>기함을 중순양함으로 배치, 승패와 관계 없이 전투 1회 수행</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>B6</ID>
+		<JP-Name>「水雷戦隊」で出撃せよ！</JP-Name>
+		<TR-Name>수뢰전대 출격</TR-Name>
+		<JP-Detail>軽巡洋艦1隻を旗艦とし、複数の駆逐艦からなる水雷戦隊で出撃せよ！</JP-Detail>
+		<TR-Detail>기함을 경순양함으로 배치 후 구축함 2~5대를 포함, 승패와 관계없이 전투 1회 수행</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>B5</ID>
+		<JP-Name>接近する「敵前衛艦隊」を迎撃せよ！</JP-Name>
+		<TR-Name>접근하는 적 전위함대 요격</TR-Name>
+		<JP-Detail>南西諸島沖に接近する「敵前衛艦隊」を捕捉、これを撃滅せよ！</JP-Detail>
+		<TR-Detail>1-2 해역 보스전에서 1회 승리</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>B4</ID>
+		<JP-Name>南西諸島沖に出撃せよ！</JP-Name>
+		<TR-Name>남서제도 앞바다 출격</TR-Name>
+		<JP-Detail>南西諸島沖に艦隊を出撃させ、敵艦隊と交戦せよ！</JP-Detail>
+		<TR-Detail>1-2 해역에서 승패와 관계 없이 전투 1회 수행</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>B3</ID>
+		<JP-Name>第2艦隊、出撃せよ！</JP-Name>
+		<TR-Name>제2함대 출격</TR-Name>
+		<JP-Detail>新たに編成した「第2艦隊」を出撃せよ！</JP-Detail>
+		<TR-Detail>승패와 관계 없이 2함대로 전투 1회 수행</TR-Detail>
+	</Quest>
+	<Quest>
 		<ID>B1</ID>
 		<JP-Name>はじめての「出撃」！</JP-Name>
 		<TR-Name>첫 출격!</TR-Name>
@@ -274,39 +295,11 @@
 		<TR-Detail>승패와 관계 없이 전투 1회 수행</TR-Detail>
 	</Quest>
 	<Quest>
-		<ID>A8</ID>
-		<JP-Name>「天龍」型軽巡姉妹の全2艦を編成せよ！</JP-Name>
-		<TR-Name>텐류급 경순양함 2척 편성</TR-Name>
-		<JP-Detail>天龍型軽巡洋艦「天龍」「龍田」を同一艦隊に配属せよ！</JP-Detail>
-		<TR-Detail>텐류와 타츠타를 같은 함대에 배치</TR-Detail>
-	</Quest>
-	<Quest>
-		<ID>A7</ID>
-		<JP-Name>「重巡戦隊」を編成せよ！</JP-Name>
-		<TR-Name>중순양함 편성</TR-Name>
-		<JP-Detail>重巡洋艦２隻を擁する重巡艦隊を編成せよ！</JP-Detail>
-		<TR-Detail>중순양함 2척을 넣은 함대 편성</TR-Detail>
-	</Quest>
-	<Quest>
-		<ID>A6</ID>
-		<JP-Name>第2艦隊を編成せよ！</JP-Name>
-		<TR-Name>제2함대 배치</TR-Name>
-		<JP-Detail>二つ目の艦隊、第2艦隊の旗艦を指定して、第2艦隊を編成せよ！</JP-Detail>
-		<TR-Detail>종류에 관계 없이 2함대 편성</TR-Detail>
-	</Quest>
-	<Quest>
-		<ID>A5</ID>
-		<JP-Name>軽巡2隻を擁する隊を編成せよ！</JP-Name>
-		<TR-Name>경순양함 배치</TR-Name>
-		<JP-Detail>軽巡洋艦2隻を擁する高速艦隊を編成せよ！</JP-Detail>
-		<TR-Detail>경순양함 2척 함대 배치</TR-Detail>
-	</Quest>
-	<Quest>
-		<ID>A4</ID>
-		<JP-Name>6隻編成の艦隊を編成せよ！</JP-Name>
-		<TR-Name>6척 편성</TR-Name>
-		<JP-Detail>全6隻で構成される主力艦隊を編成せよ！</JP-Detail>
-		<TR-Detail>함대에 종류 상관없이 군함 6척 배치</TR-Detail>
+		<ID>A69</ID>
+		<JP-Name>新編「水雷戦隊」を含む艦隊を再編成せよ！</JP-Name>
+		<TR-Name>신편 수뢰전대를 포함한 함대를 재편성하라!</TR-Name>
+		<JP-Detail>경순양함을 기함으로한 수뢰전대(구축함 4척)를 편성</JP-Detail>
+		<TR-Detail></TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>A33</ID>
@@ -328,13 +321,6 @@
 		<TR-Name>제8구축함대 편성</TR-Name>
 		<JP-Detail>「朝潮」「満潮」「大潮」「荒潮」4隻による第八駆逐隊を編成せよ！</JP-Detail>
 		<TR-Detail>아사시오, 미치시오, 오오시오, 아라시오를 함대에 배치</TR-Detail>
-	</Quest>
-	<Quest>
-		<ID>A3</ID>
-		<JP-Name>「水雷戦隊」を編成せよ！</JP-Name>
-		<TR-Name>수뢰전대 편성</TR-Name>
-		<JP-Detail>軽巡洋艦を旗艦とし、数隻の駆逐艦で構成される「水雷戦隊」を編成せよ！</JP-Detail>
-		<TR-Detail>기함을 경순양함으로 하고 구축함 1~5척을 넣어 배치</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>A28</ID>
@@ -454,6 +440,48 @@
 		<TR-Name>제6구축함대 편성</TR-Name>
 		<JP-Detail>「暁」「響」「雷」「電」4隻による第六駆逐隊を編成せよ！</JP-Detail>
 		<TR-Detail>아카츠키, 히비키, 이카즈치, 이나즈마 4척으로 함대를 편성</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>A8</ID>
+		<JP-Name>「天龍」型軽巡姉妹の全2艦を編成せよ！</JP-Name>
+		<TR-Name>텐류급 경순양함 2척 편성</TR-Name>
+		<JP-Detail>天龍型軽巡洋艦「天龍」「龍田」を同一艦隊に配属せよ！</JP-Detail>
+		<TR-Detail>텐류와 타츠타를 같은 함대에 배치</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>A7</ID>
+		<JP-Name>「重巡戦隊」を編成せよ！</JP-Name>
+		<TR-Name>중순양함 편성</TR-Name>
+		<JP-Detail>重巡洋艦２隻を擁する重巡艦隊を編成せよ！</JP-Detail>
+		<TR-Detail>중순양함 2척을 넣은 함대 편성</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>A6</ID>
+		<JP-Name>第2艦隊を編成せよ！</JP-Name>
+		<TR-Name>제2함대 배치</TR-Name>
+		<JP-Detail>二つ目の艦隊、第2艦隊の旗艦を指定して、第2艦隊を編成せよ！</JP-Detail>
+		<TR-Detail>종류에 관계 없이 2함대 편성</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>A5</ID>
+		<JP-Name>軽巡2隻を擁する隊を編成せよ！</JP-Name>
+		<TR-Name>경순양함 배치</TR-Name>
+		<JP-Detail>軽巡洋艦2隻を擁する高速艦隊を編成せよ！</JP-Detail>
+		<TR-Detail>경순양함 2척 함대 배치</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>A4</ID>
+		<JP-Name>6隻編成の艦隊を編成せよ！</JP-Name>
+		<TR-Name>6척 편성</TR-Name>
+		<JP-Detail>全6隻で構成される主力艦隊を編成せよ！</JP-Detail>
+		<TR-Detail>함대에 종류 상관없이 군함 6척 배치</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>A3</ID>
+		<JP-Name>「水雷戦隊」を編成せよ！</JP-Name>
+		<TR-Name>수뢰전대 편성</TR-Name>
+		<JP-Detail>軽巡洋艦を旗艦とし、数隻の駆逐艦で構成される「水雷戦隊」を編成せよ！</JP-Detail>
+		<TR-Detail>기함을 경순양함으로 하고 구축함 1~5척을 넣어 배치</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>809</ID>
