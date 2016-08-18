@@ -883,28 +883,28 @@
 	<Item>
 		<JP-Name>Ro.44水上戦闘機</JP-Name>
 		<TR-Name>Ro.44 수상전투기</TR-Name>
-	</Item>   
+	</Item>
 	<Item>
 		<JP-Name>二式水戦改</JP-Name>
 		<TR-Name>2식 수상전투기改</TR-Name>
-	</Item>   
+	</Item>
 	<Item>
 		<JP-Name>特二式内火艇</JP-Name>
 		<TR-Name>특2식 내화정</TR-Name>
 	</Item>
-  	<Item>
+	<Item>
 		<JP-Name>九六式陸攻</JP-Name>
 		<TR-Name>96식 육상공격기</TR-Name>
- 	</Item>
-  	<Item>
+	</Item>
+	<Item>
 		<JP-Name>一式陸攻</JP-Name>
 		<TR-Name>1식 육상공격기</TR-Name>
- 	</Item>
+	</Item>
 	<Item>
 		<JP-Name>Bofors 40mm四連装機関砲</JP-Name>
 		<TR-Name>Bofors 40mm 4연장기관포</TR-Name>
 	</Item>
- 	<Item>
+	<Item>
 		<JP-Name>一式陸攻(野中隊)</JP-Name>
 		<TR-Name>1식 육상공격기(노나카대)</TR-Name>
 	</Item>
@@ -979,5 +979,73 @@
 	<Item>
 		<JP-Name>16inch三連装砲 Mk.7＋GFCS</JP-Name>
 		<TR-Name>16inch 3연장포 Mk.7＋GFCS</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>？？？</JP-Name>
+		<TR-Name>???</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>OS2U</JP-Name>
+		<TR-Name>OS2U</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>秋刀魚の缶詰</JP-Name>
+		<TR-Name>꽁치 통조림</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>試製景雲(艦偵型)</JP-Name>
+		<TR-Name>시제 경운(함정형)</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>16inch三連装砲 Mk.7+GFCS</JP-Name>
+		<TR-Name>16inch세 연장포. Mk.7GFCS</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>深海探照灯</JP-Name>
+		<TR-Name>심해 탐조등</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>8inch長射程連装砲</JP-Name>
+		<TR-Name>8inch장 사거리 연장포.</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>深海水上偵察観測機</JP-Name>
+		<TR-Name>심해 수상 정찰 관측기</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>Re.2001 OR改</JP-Name>
+		<TR-Name>Re.2001 OR개</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>高速深海魚雷 mod.2</JP-Name>
+		<TR-Name>고속 심해 어뢰 mod.2</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>一式陸攻 三四型</JP-Name>
+		<TR-Name>일습 륙공 셋 넷형</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>三式戦 飛燕一型丁</JP-Name>
+		<TR-Name>세식 전 나는 제비 한형 정</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>銀河</JP-Name>
+		<TR-Name>은하</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>Re.2001 G改</JP-Name>
+		<TR-Name>Re.2001 G개</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>Re.2005 改</JP-Name>
+		<TR-Name>Re.2005개</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>38.1cm Mk.I連装砲</JP-Name>
+		<TR-Name>38.1cm Mk.I연장포.</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>QF 2ポンド8連装ポンポン砲</JP-Name>
+		<TR-Name>QF 2파운드 8연장 퐁퐁 포</TR-Name>
 	</Item>
 </Equipment>

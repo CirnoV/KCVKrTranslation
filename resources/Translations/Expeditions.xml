@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Expeditions Version="1.0.21">
 	<Expedition>
 		<ID>1</ID>
@@ -617,13 +617,27 @@
 		<TR-Detail>주력함대 결전을 지원하는 별동대를 출격시켜 주력 함대의 함대 결전을 원호하라!(필요:최소 구축 2척)</TR-Detail>
 	</Expedition>
 	<Expedition>
-    <ID>165</ID>
+		<ID>165</ID>
 		<TR-Name>전위지원임무</TR-Name>
 		<TR-Detail>지원 함대를 출격시켜 주력 함대의 진격을 원호하라!(필요:최소 구축 2척)</TR-Detail>
-  </Expedition>
-  <Expedition>
-    <ID>166</ID>
+	</Expedition>
+	<Expedition>
+		<ID>166</ID>
 		<TR-Name>함대 결전 지원 임무</TR-Name>
 		<TR-Detail>주력함대 결전을 지원하는 별동대를 출격시켜 주력 함대의 함대 결전을 원호하라!(필요:최소 구축 2척)</TR-Detail>
-  </Expedition>
+	</Expedition>
+	<Expedition>
+		<ID>189</ID>
+		<JP-Name>前衛支援任務</JP-Name>
+		<TR-Name>[189]전위 지원 임무</TR-Name>
+		<JP-Detail>支援艦隊を出撃させ、主力艦隊の進撃を援護せよ！(要:駆逐2隻)</JP-Detail>
+		<TR-Detail>[189]지원 함대를 출격시키고, 주력 함대의 진격을 원호하다! (요점:구축 2척)</TR-Detail>
+	</Expedition>
+	<Expedition>
+		<ID>190</ID>
+		<JP-Name>艦隊決戦支援任務</JP-Name>
+		<TR-Name>[190]함대 결전 지원 임무</TR-Name>
+		<JP-Detail>主力艦隊支援を行う別動隊を出撃させ、艦隊決戦を援護せよ！(要:駆逐2隻)</JP-Detail>
+		<TR-Detail>[190]주력 함대 지원하는 별동대를 출격시키고, 함대 결전을 원호하다! (요점:구축 2척)</TR-Detail>
+	</Expedition>
 </Expeditions>

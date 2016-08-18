@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Quests Version="1.2.32">
 	<Quest>
 		<ID>SF</ID>
@@ -1466,6 +1466,69 @@
 	<Quest>
 		<ID>636</ID>
 		<TR-Name>상륙전용 신장비 조달</TR-Name>
-		<TR-Detail>7.7mm 기관총 두개와 12.7mm 단장기관총 두개 파기</TR-Detail>
+		<TR-Detail>7.7mm 기관총 두개와 12.7mm 단장기관총 두개 폐기</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>638</ID>
+		<JP-Name>対空機銃量産</JP-Name>
+		<TR-Name>대공 기관총 양산</TR-Name>
+		<JP-Detail>「機銃」系装備を量産し、工廠で6個廃棄！ 「装備改修」強化をサポートせよ！</JP-Detail>
+		<TR-Detail>기총계열 장비 6개 폐기 (한번에 폐기 가능)</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>637</ID>
+		<JP-Name>「熟練搭乗員」養成</JP-Name>
+		<TR-Name>"숙련 탑승원" 양성</TR-Name>
+		<JP-Detail>勲章x2消費：「鳳翔」秘書艦に練度max及び改修max「九六式艦戦」を搭載、熟練搭乗員を養成せよ！&lt;br&gt;(任務達成後、部隊は消滅します)</JP-Detail>
+		<TR-Detail>숙련도와 개수 Max인「96식 함상전투기」를 탑재한「쇼카쿠」를 비서함으로 두고 훈장 2개와 숙련탑승원을 소모하여 기종전환</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>639</ID>
+		<JP-Name>新型魚雷兵装の開発</JP-Name>
+		<TR-Name>신형 어뢰 장비 개발</TR-Name>
+		<JP-Detail>勲章x2消費：「島風」秘書艦に改修max「61cm五連装(酸素)魚雷」と&lt;br&gt;改修max「61cm三連装(酸素)魚雷」を装備！(任務達成後、各装備は消滅します)</JP-Detail>
+		<TR-Detail>개수 Max인「3연장 산소 어뢰」와「5연장 산소 어뢰」를 탑재한「시마카제」를 비서함으로 두고 훈장 2개를 소모하여 「시제 6연장 산소 어뢰」로 변환</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>823</ID>
+		<JP-Name>水雷戦隊、南西防衛線に反復出撃せよ！</JP-Name>
+		<TR-Name>수뢰 전대, 남서쪽 방어선에 반복 출격하자!</TR-Name>
+		<JP-Detail>軽巡級旗艦と駆逐艦4隻の水雷戦隊を基幹とした艦隊を編成、&lt;br&gt;南西諸島防衛線に反復出撃し、同海域の制海権確保に努めよ！</JP-Detail>
+		<TR-Detail>경순양함 기함과 구축함 4척으로 1-4 보스방 2회 S승</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>824</ID>
+		<JP-Name>製油所地帯沿岸の哨戒を実施せよ！</JP-Name>
+		<TR-Name>제유소 지대 연안 초계를 실시한다!</TR-Name>
+		<JP-Detail>軽空母旗艦と駆逐艦3隻を基幹とした護衛艦隊を編成、&lt;br&gt;製油所地帯沿岸に展開し、同海域の哨戒を実施、同海域の安全を確保せよ！</JP-Detail>
+		<TR-Detail>경공모 기함과 구축함 3척으로 1-3 보스방 S승</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>175</ID>
+		<JP-Name>新編「第八駆逐隊」を再編成せよ！</JP-Name>
+		<TR-Name>신편 제8구축대를 재편성하다!</TR-Name>
+		<JP-Detail>「朝潮改二」を旗艦とした「満潮」「大潮」「荒潮」4隻による第八駆逐隊を再編成せよ！</JP-Detail>
+		<TR-Detail>아사시오改2를 기함으로 미치시오, 오오시오, 아라시오 편성</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>822</ID>
+		<JP-Name>沖ノ島海域迎撃戦</JP-Name>
+		<TR-Name>오키노시마 해역 요격전</TR-Name>
+		<JP-Detail>有力な艦隊を沖ノ島海域前面に反復投入、侵攻する敵機動部隊を迎撃、これを撃滅せよ！</JP-Detail>
+		<TR-Detail>2-4 보스방 2회 S승</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>819</ID>
+		<JP-Name>「第三十一戦隊」敵潜を制圧せよ！</JP-Name>
+		<TR-Name>제31전대 적잠을 제압하라!</TR-Name>
+		<JP-Detail>第三十一戦隊(第一次)を鎮守府近海航路に再投入！反復出撃し、敵潜を制圧せよ！</JP-Detail>
+		<TR-Detail>이스즈改2를 기함으로 사츠키改2와 우즈키改를 포함한 최대 6척 편성으로 1-6 최종방 2회 도달</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>176</ID>
+		<JP-Name>精鋭！八駆第一小隊！</JP-Name>
+		<TR-Name>정예! 8구 제1소대!</TR-Name>
+		<JP-Detail>「朝潮改二丁」及び「大潮改二」を含む艦隊を編成せよ！</JP-Detail>
+		<TR-Detail>아사시오改2정 오오시오改2를 포함한 함대를 편성</TR-Detail>
 	</Quest>
 </Quests>
