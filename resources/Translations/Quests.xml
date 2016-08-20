@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.2.33">
+<Quests Version="1.2.34">
 	<Quest>
 		<ID>SF</ID>
 		<JP-Name>初夏の整理整頓</JP-Name>
@@ -1480,7 +1480,7 @@
 		<JP-Name>「熟練搭乗員」養成</JP-Name>
 		<TR-Name>"숙련 탑승원" 양성</TR-Name>
 		<JP-Detail>勲章x2消費：「鳳翔」秘書艦に練度max及び改修max「九六式艦戦」を搭載、熟練搭乗員を養成せよ！&lt;br&gt;(任務達成後、部隊は消滅します)</JP-Detail>
-		<TR-Detail>숙련도와 개수 Max인「96식 함상전투기」를 탑재한「쇼카쿠」를 비서함으로 두고 훈장 2개와 숙련탑승원을 소모하여 기종전환</TR-Detail>
+		<TR-Detail>숙련도와 개수 Max인「96식 함상전투기」를 탑재한「호쇼」를 비서함으로 두고 훈장 2개와 숙련탑승원을 소모하여 기종전환</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>639</ID>
