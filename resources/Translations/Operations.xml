@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Operations Version="1.0.15">
+<Operations Version="1.0.16">
   <Map>
     <JP-Name>鎮守府正面海域</JP-Name>
     <TR-Name>해역 1-1</TR-Name>
@@ -582,7 +582,7 @@
   </Sortie>
   <Sortie>
     <JP-Name>敵機動部隊先鋒</JP-Name>
-    <TR-Name>적 기동 부대 선봉</TR-Name>
+    <TR-Name>적 기동부대 선봉</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>前衛ピケット艦隊 II群</JP-Name>
@@ -710,7 +710,7 @@
   </Sortie>
   <Sortie>
     <JP-Name>深海東洋艦隊機動部隊</JP-Name>
-    <TR-Name>深海東洋艦隊機動部隊</TR-Name>
+    <TR-Name>심해 동양함대 기동부대</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>リランカ島港湾守備隊</JP-Name>
@@ -718,218 +718,222 @@
   </Sortie>
   <Sortie>
     <JP-Name>敵対潜警戒部隊</JP-Name>
-    <TR-Name>敵対潜警戒部隊</TR-Name>
+    <TR-Name>적 대잠 경계부대</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>任務部隊C群 前衛部隊</JP-Name>
-    <TR-Name>任務部隊C群 前衛部隊</TR-Name>
+    <TR-Name>임무부대 C군 전위부대</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>東洋方面反攻先遣隊</JP-Name>
-    <TR-Name>東洋方面反攻先遣隊</TR-Name>
+    <TR-Name>동양방면 반공선견대</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>深海東洋方面潜水艦隊</JP-Name>
-    <TR-Name>深海東洋方面潜水艦隊</TR-Name>
+    <TR-Name>심해 동양방면 잠수함대</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>深海東洋方面増援艦隊</JP-Name>
-    <TR-Name>深海東洋方面増援艦隊</TR-Name>
+    <TR-Name>심해 동양방면 증원함대</TR-Name>
   </Sortie>
   <Map>
     <JP-Name>ショートランド沖</JP-Name>
-    <TR-Name>ショートランド沖</TR-Name>
+    <TR-Name>쇼트랜드 해역</TR-Name>
   </Map>
   <Sortie>
     <JP-Name>ピケット艦隊</JP-Name>
-    <TR-Name>ピケット艦隊</TR-Name>
+    <TR-Name>피켓 함대</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>警戒艦隊旗艦</JP-Name>
-    <TR-Name>警戒艦隊旗艦</TR-Name>
+    <TR-Name>경계 함대 기함</TR-Name>
   </Sortie>
   <Map>
     <JP-Name>ソロモン海</JP-Name>
-    <TR-Name>ソロモン海</TR-Name>
+    <TR-Name>솔로몬 해역</TR-Name>
   </Map>
   <Sortie>
     <JP-Name>前衛艦隊</JP-Name>
-    <TR-Name>前衛艦隊</TR-Name>
+    <TR-Name>전위 함대</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>水上打撃部隊I群</JP-Name>
-    <TR-Name>水上打撃部隊I群</TR-Name>
+    <TR-Name>수상타격부대 I군</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>ソロモン泊地輸送船団</JP-Name>
-    <TR-Name>ソロモン泊地輸送船団</TR-Name>
+    <TR-Name>솔로몬 정박지 호송단</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>ソロモン泊地投錨艦隊旗艦</JP-Name>
-    <TR-Name>ソロモン泊地投錨艦隊旗艦</TR-Name>
+    <TR-Name>솔로몬 정박지 투묘함대 기함</TR-Name>
   </Sortie>
   <Map>
     <JP-Name>南太平洋海域</JP-Name>
-    <TR-Name>南太平洋海域</TR-Name>
+    <TR-Name>남태평양 해역</TR-Name>
   </Map>
   <Sortie>
     <JP-Name>深海水雷艦隊</JP-Name>
-    <TR-Name>深海水雷艦隊</TR-Name>
-  </Sortie>
-  <Sortie>
-    <JP-Name>任務部隊III群</JP-Name>
-    <TR-Name>任務部隊III群</TR-Name>
+    <TR-Name>심해 수뢰함대</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>任務部隊I群</JP-Name>
-    <TR-Name>任務部隊I群</TR-Name>
-  </Sortie>
-  <Sortie>
-    <JP-Name>深海任務部隊旗艦艦隊</JP-Name>
-    <TR-Name>深海任務部隊旗艦艦隊</TR-Name>
-  </Sortie>
-  <Sortie>
-    <JP-Name>任務部隊哨戒艦隊</JP-Name>
-    <TR-Name>任務部隊哨戒艦隊</TR-Name>
-  </Sortie>
-  <Sortie>
-    <JP-Name>任務部隊IV群</JP-Name>
-    <TR-Name>任務部隊IV群</TR-Name>
+    <TR-Name>임무부대 I군</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>任務部隊II群</JP-Name>
-    <TR-Name>任務部隊II群</TR-Name>
+    <TR-Name>임무부대 II군</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>任務部隊III群</JP-Name>
+    <TR-Name>임무부대 III군</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>深海任務部隊旗艦艦隊</JP-Name>
+    <TR-Name>심해 임무부대 주력함대</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>任務部隊哨戒艦隊</JP-Name>
+    <TR-Name>임무부대 순찰함대</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>任務部隊IV群</JP-Name>
+    <TR-Name>임무부대 IV군</TR-Name>
   </Sortie>
   <Map>
     <JP-Name>アイアンボトムサウンド</JP-Name>
-    <TR-Name>アイアンボトムサウンド</TR-Name>
+    <TR-Name>아이언바텀사운드 (IBS)</TR-Name>
   </Map>
   <Sortie>
     <JP-Name>哨戒潜水艦B群</JP-Name>
-    <TR-Name>哨戒潜水艦B群</TR-Name>
+    <TR-Name>초계 잠수함 B군</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>任務部隊前衛艦隊</JP-Name>
-    <TR-Name>任務部隊前衛艦隊</TR-Name>
+    <TR-Name>임무부대 전위함대</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>深海任務部隊主隊</JP-Name>
-    <TR-Name>深海任務部隊主隊</TR-Name>
+    <TR-Name>심해 임무부대 주력부대</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>深海飛行場基地</JP-Name>
-    <TR-Name>深海飛行場基地</TR-Name>
+    <TR-Name>심해 비행장 기지</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>ソロモン方面守備艦隊前衛</JP-Name>
-    <TR-Name>ソロモン方面守備艦隊前衛</TR-Name>
+    <TR-Name>솔로몬방면 수비함대 선봉</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>ソロモン方面守備艦隊後衛</JP-Name>
-    <TR-Name>ソロモン方面守備艦隊後衛</TR-Name>
+    <TR-Name>솔로몬방면 수비함대 후위</TR-Name>
   </Sortie>
   <Map>
     <JP-Name>西方海域戦線 カレー洋</JP-Name>
-    <TR-Name>西方海域戦線 カレー洋</TR-Name>
+    <TR-Name>서방해역전선 카레양</TR-Name>
   </Map>
   <Sortie>
     <JP-Name>深海水雷戦隊</JP-Name>
-    <TR-Name>深海水雷戦隊</TR-Name>
+    <TR-Name>심해 수뢰전대</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>東洋方面増援機動部隊B群</JP-Name>
-    <TR-Name>東洋方面増援機動部隊B群</TR-Name>
+    <TR-Name>동양방면 증원 기동부대 B군</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>深海増援輸送船団</JP-Name>
-    <TR-Name>深海増援輸送船団</TR-Name>
+    <TR-Name>심해 증원호송단</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>東洋方面増援艦隊旗艦</JP-Name>
-    <TR-Name>東洋方面増援艦隊旗艦</TR-Name>
+    <TR-Name>동양방면 증원함대 기함</TR-Name>
   </Sortie>
   <Map>
     <JP-Name>ソロモン海東部海域</JP-Name>
-    <TR-Name>ソロモン海東部海域</TR-Name>
+    <TR-Name>솔로몬해 동부 해역</TR-Name>
   </Map>
   <Sortie>
     <JP-Name>航空集団偵察部隊</JP-Name>
-    <TR-Name>航空集団偵察部隊</TR-Name>
+    <TR-Name>항공집단 정찰부대</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>潜水哨戒艦隊I群</JP-Name>
-    <TR-Name>潜水哨戒艦隊I群</TR-Name>
-  </Sortie>
-  <Sortie>
-    <JP-Name>深海航空集団D群</JP-Name>
-    <TR-Name>深海航空集団D群</TR-Name>
-  </Sortie>
-  <Sortie>
-    <JP-Name>深海航空集団C群</JP-Name>
-    <TR-Name>深海航空集団C群</TR-Name>
-  </Sortie>
-  <Sortie>
-    <JP-Name>深海航空集団旗艦艦隊</JP-Name>
-    <TR-Name>深海航空集団旗艦艦隊</TR-Name>
-  </Sortie>
-  <Map>
-    <JP-Name>FS方面海域</JP-Name>
-    <TR-Name>FS方面海域</TR-Name>
-  </Map>
-  <Sortie>
-    <JP-Name>深海潜水艦防衛線Aライン</JP-Name>
-    <TR-Name>深海潜水艦防衛線Aライン</TR-Name>
-  </Sortie>
-  <Sortie>
-    <JP-Name>深海FS方面泊地防衛部隊</JP-Name>
-    <TR-Name>深海FS方面泊地防衛部隊</TR-Name>
-  </Sortie>
-  <Sortie>
-    <JP-Name>深海FS諸島防衛施設部隊</JP-Name>
-    <TR-Name>深海FS諸島防衛施設部隊</TR-Name>
-  </Sortie>
-  <Sortie>
-    <JP-Name>FS方面深海再編成部隊</JP-Name>
-    <TR-Name>FS方面深海再編成部隊</TR-Name>
-  </Sortie>
-  <Sortie>
-    <JP-Name>FS方面残存航空集団B群</JP-Name>
-    <TR-Name>FS方面残存航空集団B群</TR-Name>
-  </Sortie>
-  <Sortie>
-    <JP-Name>FS方面残存航空集団A群</JP-Name>
-    <TR-Name>FS方面残存航空集団A群</TR-Name>
-  </Sortie>
-  <Sortie>
-    <JP-Name>FS方面深海中枢艦隊</JP-Name>
-    <TR-Name>FS方面深海中枢艦隊</TR-Name>
-  </Sortie>
-  <Sortie>
-    <JP-Name>FS方面残存水上打撃部隊</JP-Name>
-    <TR-Name>FS方面残存水上打撃部隊</TR-Name>
-  </Sortie>
-  <Sortie>
-    <JP-Name>深海潜水艦防衛線Bライン</JP-Name>
-    <TR-Name>深海潜水艦防衛線Bライン</TR-Name>
-  </Sortie>
-  <Sortie>
-    <JP-Name>潜水哨戒艦隊II群</JP-Name>
-    <TR-Name>潜水哨戒艦隊II群</TR-Name>
-  </Sortie>
-  <Sortie>
-    <JP-Name>深海航空集団支援打撃部隊</JP-Name>
-    <TR-Name>深海航空集団支援打撃部隊</TR-Name>
-  </Sortie>
-  <Sortie>
-    <JP-Name>前衛警戒任務部隊</JP-Name>
-    <TR-Name>前衛警戒任務部隊</TR-Name>
+    <TR-Name>잠수 초계함대 I군</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>深海航空集団A群</JP-Name>
-    <TR-Name>深海航空集団A群</TR-Name>
+    <TR-Name>심해 항공집단 A군</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>深海航空集団B群</JP-Name>
+    <TR-Name>심해 항공집단 B군</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>深海航空集団C群</JP-Name>
+    <TR-Name>심해 항공집단 C군</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>深海航空集団D群</JP-Name>
+    <TR-Name>심해 항공집단 D군</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>深海航空集団旗艦艦隊</JP-Name>
+    <TR-Name>심해 항공집단 주력함대</TR-Name>
+  </Sortie>
+  <Map>
+    <JP-Name>FS方面海域</JP-Name>
+    <TR-Name>FS방면 해역</TR-Name>
+  </Map>
+  <Sortie>
+    <JP-Name>深海潜水艦防衛線Aライン</JP-Name>
+    <TR-Name>심해 잠수함 방어선 A라인</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>深海潜水艦防衛線Bライン</JP-Name>
+    <TR-Name>심해 잠수함 방어선 B라인</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>深海FS方面泊地防衛部隊</JP-Name>
+    <TR-Name>심해 FS방면 정박지 방어부대</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>深海FS諸島防衛施設部隊</JP-Name>
+    <TR-Name>심해 FS제도 방위시설부대</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>FS方面深海再編成部隊</JP-Name>
+    <TR-Name>FS방면 심해 재편성부대</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>FS方面残存航空集団B群</JP-Name>
+    <TR-Name>FS방면 잔존 항공집단 B군</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>FS方面残存航空集団A群</JP-Name>
+    <TR-Name>FS방면 잔존 항공집단 A군</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>FS方面深海中枢艦隊</JP-Name>
+    <TR-Name>FS방면 심해 중추함대</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>FS方面残存水上打撃部隊</JP-Name>
+    <TR-Name>FS방면 잔존 수상타격부대</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>潜水哨戒艦隊II群</JP-Name>
+    <TR-Name>잠수 초계함대 II군</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>深海航空集団支援打撃部隊</JP-Name>
+    <TR-Name>심해 항공집단 지원타격부대</TR-Name>
+  </Sortie>
+  <Sortie>
+    <JP-Name>前衛警戒任務部隊</JP-Name>
+    <TR-Name>전위 경계임무부대</TR-Name>
   </Sortie>
   <Sortie>
     <JP-Name>深海高速水雷戦隊</JP-Name>
-    <TR-Name>深海高速水雷戦隊</TR-Name>
+    <TR-Name>심해 고속 수뢰전대</TR-Name>
   </Sortie>
 </Operations>

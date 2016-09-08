@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.1.30">
+<Equipment Version="1.1.31">
 	<Item>
 		<JP-Name>12cm単装砲</JP-Name>
 		<TR-Name>12cm 단장포</TR-Name>
@@ -962,7 +962,7 @@
 	</Item>
 	<Item>
 		<JP-Name>一式陸攻 二二型甲</JP-Name>
-		<TR-Name>1식 육상공격기 22형 갑</TR-Name>
+		<TR-Name>1식 육상공격기 22형甲</TR-Name>
 	</Item>
 	<Item>
 		<JP-Name>試製61cm六連装(酸素)魚雷</JP-Name>
@@ -978,7 +978,7 @@
 	</Item>
 	<Item>
 		<JP-Name>16inch三連装砲 Mk.7＋GFCS</JP-Name>
-		<TR-Name>16inch 3연장포 Mk.7＋GFCS</TR-Name>
+		<TR-Name>16inch 삼연장포 Mk.7＋GFCS</TR-Name>
 	</Item>
 	<Item>
 		<JP-Name>？？？</JP-Name>
@@ -994,11 +994,11 @@
 	</Item>
 	<Item>
 		<JP-Name>試製景雲(艦偵型)</JP-Name>
-		<TR-Name>시제 경운(함정형)</TR-Name>
+		<TR-Name>시제 케이운(함정형)</TR-Name>
 	</Item>
 	<Item>
 		<JP-Name>16inch三連装砲 Mk.7+GFCS</JP-Name>
-		<TR-Name>16inch세 연장포. Mk.7GFCS</TR-Name>
+		<TR-Name>16inch 삼연장포. Mk.7GFCS</TR-Name>
 	</Item>
 	<Item>
 		<JP-Name>深海探照灯</JP-Name>
@@ -1014,31 +1014,19 @@
 	</Item>
 	<Item>
 		<JP-Name>Re.2001 OR改</JP-Name>
-		<TR-Name>Re.2001 OR개</TR-Name>
+		<TR-Name>Re.2001 OR改</TR-Name>
 	</Item>
 	<Item>
 		<JP-Name>高速深海魚雷 mod.2</JP-Name>
 		<TR-Name>고속 심해 어뢰 mod.2</TR-Name>
 	</Item>
 	<Item>
-		<JP-Name>一式陸攻 三四型</JP-Name>
-		<TR-Name>일습 륙공 셋 넷형</TR-Name>
-	</Item>
-	<Item>
-		<JP-Name>三式戦 飛燕一型丁</JP-Name>
-		<TR-Name>세식 전 나는 제비 한형 정</TR-Name>
-	</Item>
-	<Item>
-		<JP-Name>銀河</JP-Name>
-		<TR-Name>은하</TR-Name>
-	</Item>
-	<Item>
 		<JP-Name>Re.2001 G改</JP-Name>
-		<TR-Name>Re.2001 G개</TR-Name>
+		<TR-Name>Re.2001 G改</TR-Name>
 	</Item>
 	<Item>
 		<JP-Name>Re.2005 改</JP-Name>
-		<TR-Name>Re.2005개</TR-Name>
+		<TR-Name>Re.2005 改</TR-Name>
 	</Item>
 	<Item>
 		<JP-Name>38.1cm Mk.I連装砲</JP-Name>
@@ -1047,5 +1035,25 @@
 	<Item>
 		<JP-Name>QF 2ポンド8連装ポンポン砲</JP-Name>
 		<TR-Name>QF 2파운드 8연장 퐁퐁 포</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>Re.2001 OR改</JP-Name>
+		<TR-Name>Re.2001 OR개</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>高速深海魚雷 mod.2</JP-Name>
+		<TR-Name>고속 심해 어뢰 mod.2</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>一式陸攻 三四型</JP-Name>
+		<TR-Name>1식 육상공격기 34형</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>三式戦 飛燕一型丁</JP-Name>
+		<TR-Name>3식 전투기 히엔 1형丁</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>銀河</JP-Name>
+		<TR-Name>은하</TR-Name>
 	</Item>
 </Equipment>

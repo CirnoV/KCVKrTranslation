@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Ships Version="1.0.59">
+<Ships Version="1.0.60">
 	<Ship>
 		<JP-Name>U-511</JP-Name>
 		<TR-Name>U-511</TR-Name>
@@ -2101,8 +2101,16 @@
 		<TR-Name>이-26</TR-Name>
 	</Ship>
 	<Ship>
+		<JP-Name>伊26改</JP-Name>
+		<TR-Name>이-26改</TR-Name>
+	</Ship>
+	<Ship>
 		<JP-Name>水無月</JP-Name>
 		<TR-Name>미나즈키</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>水無月改</JP-Name>
+		<TR-Name>미나즈키改</TR-Name>
 	</Ship>
 	<Ship>
 		<JP-Name>港湾夏姫</JP-Name>
@@ -2111,5 +2119,25 @@
 	<Ship>
 		<JP-Name>重巡夏姫</JP-Name>
 		<TR-Name>중순하희</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>港湾夏姫-壊</JP-Name>
+		<TR-Name>항만하희-괴</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>Warspite</JP-Name>
+		<TR-Name>워스파이트</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>Warspite改</JP-Name>
+		<TR-Name>워스파이트改</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>Aquila</JP-Name>
+		<TR-Name>아퀼라</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>Aquila改</JP-Name>
+		<TR-Name>아퀼라改</TR-Name>
 	</Ship>
 </Ships>

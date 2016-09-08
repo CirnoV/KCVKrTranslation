@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.2.35">
+<Quests Version="1.2.36">
 	<Quest>
 		<ID>SF</ID>
 		<JP-Name>初夏の整理整頓</JP-Name>
@@ -776,12 +776,12 @@
 	<Quest>
 		<ID>311</ID>
 		<TR-Name>정예 함대 연습</TR-Name>
-		<TR-Detail>05시부터 익일 04:59까지 연습전 7회 B승리 이상 기록</TR-Detail>
+		<TR-Detail>05시부터 다음날 04:59까지 연습전 7회 B승리 이상 기록</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>310</ID>
 		<TR-Name>FS작전에 대비하고 함대 련도 향상에 힘쓰자!</TR-Name>
-		<TR-Detail>오늘 중 연습전 4회 승리(05:00부터 익일04:59까지)</TR-Detail>
+		<TR-Detail>오늘 중 연습전 4회 승리(05:00부터 다음날04:59까지)</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>309</ID>
@@ -1480,7 +1480,7 @@
 		<JP-Name>「熟練搭乗員」養成</JP-Name>
 		<TR-Name>"숙련 탑승원" 양성</TR-Name>
 		<JP-Detail>勲章x2消費：「鳳翔」秘書艦に練度max及び改修max「九六式艦戦」を搭載、熟練搭乗員を養成せよ！&lt;br&gt;(任務達成後、部隊は消滅します)</JP-Detail>
-		<TR-Detail>숙련도와 개수 Max인「96식 함상전투기」를 탑재한「호쇼」를 비서함으로 두고 훈장 2개와 숙련탑승원을 소모하여 기종전환</TR-Detail>
+		<TR-Detail>숙련도와 개수 Max인「96식 함상전투기」를 탑재한「호쇼」를 비서함으로 두고 훈장 2개를 소모하여 숙련탑승원으로 변환</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>639</ID>
@@ -1530,5 +1530,47 @@
 		<TR-Name>정예! 8구 제1소대!</TR-Name>
 		<JP-Detail>「朝潮改二丁」及び「大潮改二」を含む艦隊を編成せよ！</JP-Detail>
 		<TR-Detail>아사시오改2정 오오시오改2를 포함한 함대를 편성</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>313</ID>
+		<JP-Name>秋季大演習</JP-Name>
+		<TR-Name>추계 대훈련</TR-Name>
+		<JP-Detail>秋の一日中に「演習」で8回以上「勝利」をおさめ、艦隊のさらなる練度に努めよ！</JP-Detail>
+		<TR-Detail>05시부터 익일 04:59까지 연습전 8회 B승리 이상 기록</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>825</ID>
+		<JP-Name>水雷戦隊、南西諸島海域を哨戒せよ！</JP-Name>
+		<TR-Name>수뢰 전대, 난세이제도 해역을 초계하라!</TR-Name>
+		<JP-Detail>水雷戦隊を基幹とした有力な艦隊で南西諸島海域バシー島沖及び東部オリョール海を哨戒、&lt;br&gt;同海域に遊弋する敵艦隊を捕捉、これを撃滅せよ！</JP-Detail>
+		<TR-Detail>경순양함 기함과 구축함 4척을 포함한 수뢰전대로 2-2 및 2-3 보스전 S승리 (나머지 한 척 수상기모함 가능, 자유편성)</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>641</ID>
+		<JP-Name>「航空基地設営」事前準備</JP-Name>
+		<TR-Name>항공 기지 구축 사전 준비</TR-Name>
+		<JP-Detail>「航空基地設営」の事前準備を開始する。「ドラム缶(輸送用)」を二つ「工廠」で廃棄し、「7.7mm機銃」及び「九六式艦戦」を各二つずつ用意せよ！(任務達成後、用意した必要装備は消滅します)</JP-Detail>
+		<TR-Detail>7.7mm기총 2개와 96식함전 2개를 보유한 상태로 드럼통 2개를 폐기하여 96식육공으로 변환 (기총과 함전은 달성 후 소모)</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>642</ID>
+		<JP-Name>「陸攻」隊の増勢</JP-Name>
+		<TR-Name>육상공격기 부대의 증세</TR-Name>
+		<JP-Detail>「基地航空隊」開設に向け、「陸攻」の追加調達を行う。「7.7mm機銃」及び&lt;br&gt;「九九式艦爆」を各二つずつ準備せよ！(任務達成後、同装備は消滅します)</JP-Detail>
+		<TR-Detail>7.7mm기총 2개와 99식함폭 2개를 보유하여 96식육공으로 변환 (기총과 함폭은 달성 후 소모)</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>643</ID>
+		<JP-Name>主力「陸攻」の調達</JP-Name>
+		<TR-Name>주력 육상공격기 조달</TR-Name>
+		<JP-Detail>主力陸上攻撃機「一式陸攻」の新規調達を行う。「零式艦戦21型」を二つ「工廠」で廃棄し、&lt;br&gt;「九六式陸攻」一つと「九七式艦攻」二つを準備せよ！(任務達成後、用意した必要装備は消滅します)</JP-Detail>
+		<TR-Detail>96식육공 하나와 97식함공 2개를 보유한 상태로 영식함전21형 2개를 폐기하여 1식육공으로 변환 (육공과 함공은 달성 후 소모)</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>644</ID>
+		<JP-Name>「一式陸攻」性能向上型の調達</JP-Name>
+		<TR-Name>1식육공 성능향상형의 조달</TR-Name>
+		<JP-Detail>「一式陸攻」性能向上型の配備を行う。「一式陸攻」一つと「天山」二つを準備せよ！&lt;br&gt;(任務達成後、用意した必要装備は消滅します/「一式陸攻」の熟練度は継承されます)</JP-Detail>
+		<TR-Detail>1식육공과 텐잔2개를 보유하여 1식육공 22형갑으로 변환 (육공과 함공은 달성 후 소모)</TR-Detail>
 	</Quest>
 </Quests>
