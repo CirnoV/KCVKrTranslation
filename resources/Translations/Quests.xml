@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.2.38">
+<Quests Version="1.2.39">
 	<Quest>
 		<ID>SF</ID>
 		<JP-Name>初夏の整理整頓</JP-Name>
@@ -1606,6 +1606,6 @@
 		<JP-Name>「第十九駆逐隊」敵主力に突入せよ！</JP-Name>
 		<TR-Name>제19구축대 적 주력에 돌입하라!</TR-Name>
 		<JP-Detail>「第十九駆逐隊」を含む有力な艦隊を編成し、南西諸島海域沖ノ島沖に展開！&lt;br&gt;同方面に遊弋する敵主力を捕捉、これを撃破せよ！</JP-Detail>
-		<TR-Detail>「이소나미」 「우라나미」 「아야나미」 「시키나미」가 포함된 함대로 2-4 보스전 승리</TR-Detail>
+		<TR-Detail>「이소나미」 「우라나미」 「아야나미」 「시키나미」가 포함된 함대로 2-5 보스전 승리</TR-Detail>
 	</Quest>
 </Quests>
