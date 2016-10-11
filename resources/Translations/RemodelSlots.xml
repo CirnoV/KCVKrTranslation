@@ -10,7 +10,7 @@ ShipName값이 있는 경우에는 무조건 WeekDays값이 존재해야 합니�
 
 WeekDays1이 246이고 WeekDays2가 345인 경우에는 AllWeekdays의 값은 23456이 됩니다.
 -->
-<RemodelSlots Version="1.1.2">
+<RemodelSlots Version="1.1.3">
 	<RemodelSlot>
 		<SlotItemName>零式艦戦52型(熟練)</SlotItemName>
 		<AllWeekdays>124567</AllWeekdays>
@@ -204,7 +204,7 @@ WeekDays1이 246이고 WeekDays2가 345인 경우에는 AllWeekdays의 값은 23
 		<Upgrade1>試製35.6cm三連装砲</Upgrade1>
 		<ShipName1>扶桑</ShipName1>
 		<WeekDays1>167</WeekDays1>
-		<ToolTip>장비변환시  시제품35.6cm 3연장포</ToolTip>
+		<ToolTip>장비변환시  시제35.6cm 3연장포</ToolTip>
 	</RemodelSlot>
 	<RemodelSlot>
 		<SlotItemName>35.6cm連装砲(ダズル迷彩)</SlotItemName>
