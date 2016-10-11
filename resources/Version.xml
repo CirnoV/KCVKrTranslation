@@ -13,7 +13,7 @@
   	</Item>
 	<Item>
 		<Name>Equipment</Name>
-		<Version>1.1.33</Version>
+		<Version>1.1.34</Version>
 		<URL>https://raw.github.com/CirnoV/KCVKrTranslation/master/resources/Translations/Equipment.xml</URL>
 	</Item>
 	<Item>
@@ -43,12 +43,12 @@
 	</Item>
 	<Item>
 		<Name>Expeditions</Name>
-		<Version>1.0.22</Version>
+		<Version>1.0.23</Version>
 		<URL>https://raw.github.com/CirnoV/KCVKrTranslation/master/resources/Translations/Expeditions.xml</URL>
 	</Item>
 	<Item>
 		<Name>RemodelSlots</Name>
-		<Version>1.1.1</Version>
+		<Version>1.1.2</Version>
 		<URL>https://raw.github.com/CirnoV/KCVKrTranslation/master/resources/Translations/RemodelSlots.xml</URL>
 	</Item>
 </Versions>

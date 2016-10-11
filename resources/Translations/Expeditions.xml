@@ -627,13 +627,153 @@
 		<TR-Detail>주력함대 결전을 지원하는 별동대를 출격시켜 주력 함대의 함대 결전을 원호하라!(필요:최소 구축 2척)</TR-Detail>
   </Expedition>
 	<Expedition>
-    <ID>201</ID>
+		<ID>101</ID>
 		<TR-Name>전위지원임무 [Event]</TR-Name>
 		<TR-Detail>지원 함대를 출격시켜 주력 함대의 진격을 원호하라!(필요:최소 구축 2척)</TR-Detail>
-  </Expedition>
-  <Expedition>
-    <ID>202</ID>
+	</Expedition>
+	<Expedition>
+		<ID>102</ID>
 		<TR-Name>함대 결전 지원 임무 [Event]</TR-Name>
 		<TR-Detail>주력함대 결전을 지원하는 별동대를 출격시켜 주력 함대의 함대 결전을 원호하라!(필요:최소 구축 2척)</TR-Detail>
-  </Expedition>
+	</Expedition>
+	<Expedition>
+		<ID>109</ID>
+		<TR-Name>전위지원임무 [Event]</TR-Name>
+		<TR-Detail>지원 함대를 출격시켜 주력 함대의 진격을 원호하라!(필요:최소 구축 2척)</TR-Detail>
+	</Expedition>
+	<Expedition>
+		<ID>110</ID>
+		<TR-Name>함대 결전 지원 임무 [Event]</TR-Name>
+		<TR-Detail>주력함대 결전을 지원하는 별동대를 출격시켜 주력 함대의 함대 결전을 원호하라!(필요:최소 구축 2척)</TR-Detail>
+	</Expedition>
+	<Expedition>
+		<ID>117</ID>
+		<TR-Name>전위지원임무 [Event]</TR-Name>
+		<TR-Detail>지원 함대를 출격시켜 주력 함대의 진격을 원호하라!(필요:최소 구축 2척)</TR-Detail>
+	</Expedition>
+	<Expedition>
+		<ID>118</ID>
+		<TR-Name>함대 결전 지원 임무 [Event]</TR-Name>
+		<TR-Detail>주력함대 결전을 지원하는 별동대를 출격시켜 주력 함대의 함대 결전을 원호하라!(필요:최소 구축 2척)</TR-Detail>
+	</Expedition>
+	<Expedition>
+		<ID>125</ID>
+		<TR-Name>전위지원임무 [Event]</TR-Name>
+		<TR-Detail>지원 함대를 출격시켜 주력 함대의 진격을 원호하라!(필요:최소 구축 2척)</TR-Detail>
+	</Expedition>
+	<Expedition>
+		<ID>126</ID>
+		<TR-Name>함대 결전 지원 임무 [Event]</TR-Name>
+		<TR-Detail>주력함대 결전을 지원하는 별동대를 출격시켜 주력 함대의 함대 결전을 원호하라!(필요:최소 구축 2척)</TR-Detail>
+	</Expedition>
+	<Expedition>
+		<ID>133</ID>
+		<TR-Name>전위지원임무 [Event]</TR-Name>
+		<TR-Detail>지원 함대를 출격시켜 주력 함대의 진격을 원호하라!(필요:최소 구축 2척)</TR-Detail>
+	</Expedition>
+	<Expedition>
+		<ID>134</ID>
+		<TR-Name>함대 결전 지원 임무 [Event]</TR-Name>
+		<TR-Detail>주력함대 결전을 지원하는 별동대를 출격시켜 주력 함대의 함대 결전을 원호하라!(필요:최소 구축 2척)</TR-Detail>
+	</Expedition>
+	<Expedition>
+		<ID>141</ID>
+		<TR-Name>전위지원임무 [Event]</TR-Name>
+		<TR-Detail>지원 함대를 출격시켜 주력 함대의 진격을 원호하라!(필요:최소 구축 2척)</TR-Detail>
+	</Expedition>
+	<Expedition>
+		<ID>142</ID>
+		<TR-Name>함대 결전 지원 임무 [Event]</TR-Name>
+		<TR-Detail>주력함대 결전을 지원하는 별동대를 출격시켜 주력 함대의 함대 결전을 원호하라!(필요:최소 구축 2척)</TR-Detail>
+	</Expedition>
+	<Expedition>
+		<ID>149</ID>
+		<TR-Name>전위지원임무 [Event]</TR-Name>
+		<TR-Detail>지원 함대를 출격시켜 주력 함대의 진격을 원호하라!(필요:최소 구축 2척)</TR-Detail>
+	</Expedition>
+	<Expedition>
+		<ID>150</ID>
+		<TR-Name>함대 결전 지원 임무 [Event]</TR-Name>
+		<TR-Detail>주력함대 결전을 지원하는 별동대를 출격시켜 주력 함대의 함대 결전을 원호하라!(필요:최소 구축 2척)</TR-Detail>
+	</Expedition>
+	<Expedition>
+		<ID>157</ID>
+		<TR-Name>전위지원임무 [Event]</TR-Name>
+		<TR-Detail>지원 함대를 출격시켜 주력 함대의 진격을 원호하라!(필요:최소 구축 2척)</TR-Detail>
+	</Expedition>
+	<Expedition>
+		<ID>158</ID>
+		<TR-Name>함대 결전 지원 임무 [Event]</TR-Name>
+		<TR-Detail>주력함대 결전을 지원하는 별동대를 출격시켜 주력 함대의 함대 결전을 원호하라!(필요:최소 구축 2척)</TR-Detail>
+	</Expedition>
+	<Expedition>
+		<ID>165</ID>
+		<TR-Name>전위지원임무 [Event]</TR-Name>
+		<TR-Detail>지원 함대를 출격시켜 주력 함대의 진격을 원호하라!(필요:최소 구축 2척)</TR-Detail>
+	</Expedition>
+	<Expedition>
+		<ID>166</ID>
+		<TR-Name>함대 결전 지원 임무 [Event]</TR-Name>
+		<TR-Detail>주력함대 결전을 지원하는 별동대를 출격시켜 주력 함대의 함대 결전을 원호하라!(필요:최소 구축 2척)</TR-Detail>
+	</Expedition>
+	<Expedition>
+		<ID>173</ID>
+		<TR-Name>전위지원임무 [Event]</TR-Name>
+		<TR-Detail>지원 함대를 출격시켜 주력 함대의 진격을 원호하라!(필요:최소 구축 2척)</TR-Detail>
+	</Expedition>
+	<Expedition>
+		<ID>174</ID>
+		<TR-Name>함대 결전 지원 임무 [Event]</TR-Name>
+		<TR-Detail>주력함대 결전을 지원하는 별동대를 출격시켜 주력 함대의 함대 결전을 원호하라!(필요:최소 구축 2척)</TR-Detail>
+	</Expedition>
+	<Expedition>
+		<ID>181</ID>
+		<TR-Name>전위지원임무 [Event]</TR-Name>
+		<TR-Detail>지원 함대를 출격시켜 주력 함대의 진격을 원호하라!(필요:최소 구축 2척)</TR-Detail>
+	</Expedition>
+	<Expedition>
+		<ID>182</ID>
+		<TR-Name>함대 결전 지원 임무 [Event]</TR-Name>
+		<TR-Detail>주력함대 결전을 지원하는 별동대를 출격시켜 주력 함대의 함대 결전을 원호하라!(필요:최소 구축 2척)</TR-Detail>
+	</Expedition>
+	<Expedition>
+		<ID>189</ID>
+		<TR-Name>전위지원임무 [Event]</TR-Name>
+		<TR-Detail>지원 함대를 출격시켜 주력 함대의 진격을 원호하라!(필요:최소 구축 2척)</TR-Detail>
+	</Expedition>
+	<Expedition>
+		<ID>190</ID>
+		<TR-Name>함대 결전 지원 임무 [Event]</TR-Name>
+		<TR-Detail>주력함대 결전을 지원하는 별동대를 출격시켜 주력 함대의 함대 결전을 원호하라!(필요:최소 구축 2척)</TR-Detail>
+	</Expedition>
+	<Expedition>
+		<ID>197</ID>
+		<TR-Name>전위지원임무 [Event]</TR-Name>
+		<TR-Detail>지원 함대를 출격시켜 주력 함대의 진격을 원호하라!(필요:최소 구축 2척)</TR-Detail>
+	</Expedition>
+	<Expedition>
+		<ID>198</ID>
+		<TR-Name>함대 결전 지원 임무 [Event]</TR-Name>
+		<TR-Detail>주력함대 결전을 지원하는 별동대를 출격시켜 주력 함대의 함대 결전을 원호하라!(필요:최소 구축 2척)</TR-Detail>
+	</Expedition>
+	<Expedition>
+		<ID>205</ID>
+		<TR-Name>전위지원임무 [Event]</TR-Name>
+		<TR-Detail>지원 함대를 출격시켜 주력 함대의 진격을 원호하라!(필요:최소 구축 2척)</TR-Detail>
+	</Expedition>
+	<Expedition>
+		<ID>206</ID>
+		<TR-Name>함대 결전 지원 임무 [Event]</TR-Name>
+		<TR-Detail>주력함대 결전을 지원하는 별동대를 출격시켜 주력 함대의 함대 결전을 원호하라!(필요:최소 구축 2척)</TR-Detail>
+	</Expedition>
+	<Expedition>
+		<ID>213</ID>
+		<TR-Name>전위지원임무 [Event]</TR-Name>
+		<TR-Detail>지원 함대를 출격시켜 주력 함대의 진격을 원호하라!(필요:최소 구축 2척)</TR-Detail>
+	</Expedition>
+	<Expedition>
+		<ID>214</ID>
+		<TR-Name>함대 결전 지원 임무 [Event]</TR-Name>
+		<TR-Detail>주력함대 결전을 지원하는 별동대를 출격시켜 주력 함대의 함대 결전을 원호하라!(필요:최소 구축 2척)</TR-Detail>
+	</Expedition>
 </Expeditions>
