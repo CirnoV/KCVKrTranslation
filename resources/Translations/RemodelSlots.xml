@@ -10,100 +10,208 @@ ShipName값이 있는 경우에는 무조건 WeekDays값이 존재해야 합니�
 
 WeekDays1이 246이고 WeekDays2가 345인 경우에는 AllWeekdays의 값은 23456이 됩니다.
 -->
-<RemodelSlots Version="1.2.0">
+<RemodelSlots Version="1.2.1">
 	<RemodelSlot>
-		<SlotItemName>零式艦戦52型(熟練)</SlotItemName>
+		<SlotItemName>九六式艦戦</SlotItemName>
+		<AllWeekdays>1234567</AllWeekdays>
+		<StartScrew>1</StartScrew>
+		<MidScrew>1</MidScrew>
+		<LastScrew>2</LastScrew>
+		<ShipName1>鳳翔</ShipName1>
+		<WeekDays1>1234567</WeekDays1>
+		<ToolTip>장비변환시  영식 함상전투기 21형 ★3
+
+0~5: 96식 함상공격기 x1
+6~9: 7.7mm 기관총 x1
+MAX: 96식 함상전투기 x2</ToolTip>
+	</RemodelSlot>
+	<RemodelSlot>
+		<SlotItemName>零式艦戦21型</SlotItemName>
+		<AllWeekdays>123567</AllWeekdays>
+		<StartScrew>2</StartScrew>
+		<MidScrew>2</MidScrew>
+		<LastScrew>3</LastScrew>
+		<ShipName1>赤城</ShipName1>
+		<WeekDays1>123</WeekDays1>
+		<ShipName2>加賀</ShipName2>
+		<WeekDays2>567</WeekDays2>
+		<ToolTip>장비변환시  영식 함상전투기 32형 ★3
+
+0~5: 영식 함상전투기 21형 x1
+6~9: 영식 함상전투기 21형 x2
+MAX: 7.7mm 기관총 x2</ToolTip>
+	</RemodelSlot>
+	<RemodelSlot>
+		<SlotItemName>零式艦戦32型</SlotItemName>
+		<AllWeekdays>1245</AllWeekdays>
+		<StartScrew>2</StartScrew>
+		<MidScrew>3</MidScrew>
+		<LastScrew>4</LastScrew>
+		<ShipName1>赤城</ShipName1>
+		<WeekDays1>12</WeekDays1>
+		<ShipName2>加賀</ShipName2>
+		<WeekDays2>45</WeekDays2>
+		<ToolTip>장비변환시  영식 함상전투기 52형 ★3
+
+0~5: 영식 함상전투기 21형 x1
+6~9: 영식 함상전투기 21형 x2
+MAX: 영식 함상전투기 32형 x1</ToolTip>
+	</RemodelSlot>
+	<RemodelSlot>
+		<SlotItemName>零式艦戦52型</SlotItemName>
 		<AllWeekdays>124567</AllWeekdays>
-		<StartEquip>2</StartEquip>
-		<MidEquip>3</MidEquip>
+		<StartScrew>3</StartScrew>
+		<MidScrew>3</MidScrew>
 		<ShipName1>翔鶴</ShipName1>
 		<WeekDays1>567</WeekDays1>
 		<ShipName2>瑞鶴</ShipName2>
 		<WeekDays2>124</WeekDays2>
-		<ToolTip>0~5: 영식 함상전투기 52형 x2
+		<ToolTip>장비변환 없음
+
+0~5: 영식 함상전투기 52형 x1
+6~9: 영식 함상전투기 52형 x2
+MAX: 없음</ToolTip>
+	</RemodelSlot>
+	<RemodelSlot>
+		<SlotItemName>零式艦戦32型(熟練)</SlotItemName>
+		<AllWeekdays>1245</AllWeekdays>
+		<StartScrew>2</StartScrew>
+		<MidScrew>3</MidScrew>
+		<LastScrew>4</LastScrew>
+		<ShipName1>赤城</ShipName1>
+		<WeekDays1>12</WeekDays1>
+		<ShipName2>加賀</ShipName2>
+		<WeekDays2>45</WeekDays2>
+		<ToolTip>장비변환시  영식 함상전투기 52형(숙련) ★3
+
+0~5: 영식 함상전투기 21형 x2
+6~9: 영식 함상전투기 21형 x3
+MAX: 영식 함상전투기 32형 x2</ToolTip>
+	</RemodelSlot>
+	<RemodelSlot>
+		<SlotItemName>零式艦戦21型(熟練)</SlotItemName>
+		<AllWeekdays>123567</AllWeekdays>
+		<StartScrew>2</StartScrew>
+		<MidScrew>2</MidScrew>
+		<LastScrew>3</LastScrew>
+		<ShipName1>赤城</ShipName1>
+		<WeekDays1>567</WeekDays1>
+		<ShipName2>加賀</ShipName2>
+		<WeekDays2>123</WeekDays2>
+		<ToolTip>장비변환시  영식 함상전투기 32형(숙련) ★3
+
+0~5: 영식 함상전투기 21형 x2
+6~9: 영식 함상전투기 21형 x3
+MAX: 7.7mm 기관총 x3</ToolTip>
+	</RemodelSlot>
+	<RemodelSlot>
+		<SlotItemName>零式艦戦52型(熟練)</SlotItemName>
+		<AllWeekdays>124567</AllWeekdays>
+		<StartScrew>3</StartScrew>
+		<MidScrew>4</MidScrew>
+		<ShipName1>翔鶴</ShipName1>
+		<WeekDays1>567</WeekDays1>
+		<ShipName2>瑞鶴</ShipName2>
+		<WeekDays2>124</WeekDays2>
+		<ToolTip>장비변환 없음
+
+0~5: 영식 함상전투기 52형 x2
 6~9: 영식 함상전투기 52형 x3
 MAX: 없음</ToolTip>
 	</RemodelSlot>
 	<RemodelSlot>
 		<SlotItemName>零戦52型丙(六〇一空)</SlotItemName>
 		<AllWeekdays>1234567</AllWeekdays>
-		<StartEquip>2</StartEquip>
-		<MidEquip>2</MidEquip>
+		<StartScrew>3</StartScrew>
+		<MidScrew>4</MidScrew>
 		<ShipName1>大鳳</ShipName1>
 		<WeekDays1>1234567</WeekDays1>
 		<ShipName2>雲龍</ShipName2>
 		<WeekDays2>4567</WeekDays2>
-		<ToolTip>0~5: 영식 함상전투기 52형 x2
+		<ToolTip>장비변환 없음
+
+0~5: 영식 함상전투기 52형 x2
 6~9: 텐잔 x2
 MAX: 없음</ToolTip>
 	</RemodelSlot>
 	<RemodelSlot>
 		<SlotItemName>零戦52型丙(付岩井小隊)</SlotItemName>
 		<AllWeekdays>35</AllWeekdays>
-		<StartEquip>2</StartEquip>
-		<MidEquip>3</MidEquip>
+		<StartScrew>3</StartScrew>
+		<MidScrew>4</MidScrew>
 		<ShipName1>瑞鶴</ShipName1>
 		<WeekDays1>35</WeekDays1>
-		<ToolTip>0~5: 영식 함상전투기 52형 x2
+		<ToolTip>장비변환 없음
+
+0~5: 영식 함상전투기 52형 x2
 6~9: 영식 함상전투기 52형 x3
 MAX: 없음</ToolTip>
 	</RemodelSlot>
 	<RemodelSlot>
 		<SlotItemName>零戦52型甲(付岩本小隊)</SlotItemName>
 		<AllWeekdays>67</AllWeekdays>
-		<StartEquip>2</StartEquip>
-		<MidEquip>3</MidEquip>
+		<StartScrew>3</StartScrew>
+		<MidScrew>4</MidScrew>
 		<ShipName1>瑞鶴</ShipName1>
 		<WeekDays1>67</WeekDays1>
-		<ToolTip>0~5: 영식 함상전투기 52형 x2
+		<ToolTip>장비변환 없음
+
+0~5: 영식 함상전투기 52형 x2
 6~9: 영식 함상전투기 52형 x3
 MAX: 없음</ToolTip>
 	</RemodelSlot>
 	<RemodelSlot>
 		<SlotItemName>零式艦戦53型(岩本隊)</SlotItemName>
 		<AllWeekdays>67</AllWeekdays>
-		<StartEquip>2</StartEquip>
-		<MidEquip>3</MidEquip>
+		<StartScrew>3</StartScrew>
+		<MidScrew>4</MidScrew>
 		<ShipName1>瑞鶴</ShipName1>
 		<WeekDays1>67</WeekDays1>
-		<ToolTip>0~5: 영식 함상전투기 52형 x2
+		<ToolTip>장비변환 없음
+
+0~5: 영식 함상전투기 52형 x2
 6~9: 영식 함상전투기 52형 x3
 MAX: 없음</ToolTip>
 	</RemodelSlot>
 	<RemodelSlot>
 		<SlotItemName>零式艦戦62型(爆戦)</SlotItemName>
 		<AllWeekdays>1267</AllWeekdays>
-		<StartEquip>2</StartEquip>
-		<MidEquip>2</MidEquip>
+		<StartScrew>3</StartScrew>
+		<MidScrew>4</MidScrew>
 		<ShipName1>隼鷹</ShipName1>
 		<WeekDays1>167</WeekDays1>
 		<ShipName2>翔鶴</ShipName2>
 		<WeekDays2>12</WeekDays2>
-		<ToolTip>0~5: 영식 함상전투기 52형 x2
+		<ToolTip>장비변환 없음
+
+0~5: 영식 함상전투기 52형 x2
 6~9: 스이세이 x2
 MAX: 없음</ToolTip>
 	</RemodelSlot>
 	<RemodelSlot>
 		<SlotItemName>零戦62型(爆戦/岩井隊)</SlotItemName>
 		<AllWeekdays>35</AllWeekdays>
-		<StartEquip>2</StartEquip>
-		<MidEquip>NaN</MidEquip>
+		<StartScrew>3</StartScrew>
+		<MidScrew>4</MidScrew>
 		<ShipName1>瑞鶴</ShipName1>
 		<WeekDays1>35</WeekDays1>
-		<ToolTip>0~5: 영식 함상전투기 52형 x2
+		<ToolTip>장비변환 없음
+
+0~5: 영식 함상전투기 52형 x2
 6~9: 스이세이 x2
 MAX: 없음</ToolTip>
 	</RemodelSlot>
 	<RemodelSlot>
 		<SlotItemName>12.7cm連装砲</SlotItemName>
 		<AllWeekdays>1234567</AllWeekdays>
-		<StartEquip>0</StartEquip>
-		<MidEquip>1</MidEquip>
-		<LastEquip>2</LastEquip>
+		<StartScrew>1</StartScrew>
+		<MidScrew>1</MidScrew>
+		<LastScrew>3</LastScrew>
 		<Upgrade1>12.7cm連装砲B型改二</Upgrade1>
 		<ShipName1>※공통</ShipName1>
 		<WeekDays1>1234567</WeekDays1>
 		<ToolTip>장비변환시  12.7cm 연장포B형 改2
+
 0~5: 없음
 6~9: 12.7cm 연장포 x1
 MAX: 12.7cm 연장포 x2</ToolTip>
@@ -111,41 +219,46 @@ MAX: 12.7cm 연장포 x2</ToolTip>
 	<RemodelSlot>
 		<SlotItemName>12.7cm連装砲B型改二</SlotItemName>
 		<AllWeekdays>234</AllWeekdays>
-		<StartEquip>0</StartEquip>
-		<MidEquip>1</MidEquip>
+		<StartScrew>2</StartScrew>
+		<MidScrew>2</MidScrew>
 		<ShipName1>夕立改二</ShipName1>
 		<WeekDays1>234</WeekDays1>
 		<ShipName2>綾波改二</ShipName2>
 		<WeekDays2>234</WeekDays2>
-		<ToolTip>0~5: 없음
+		<ToolTip>장비변환 없음
+
+0~5: 없음
 6~9: 12.7cm 연장포B형 改2 x1
 MAX: 없음</ToolTip>
 	</RemodelSlot>
 	<RemodelSlot>
 		<SlotItemName>10cm連装高角砲+高射装置</SlotItemName>
 		<AllWeekdays>1234567</AllWeekdays>
-		<StartEquip>0</StartEquip>
-		<MidEquip>2</MidEquip>
+		<StartScrew>3</StartScrew>
+		<MidScrew>4</MidScrew>
 		<ShipName1>秋月</ShipName1>
 		<WeekDays1>2345</WeekDays1>
 		<ShipName2>照月</ShipName2>
 		<WeekDays2>1567</WeekDays2>
 		<ShipName3>初月</ShipName3>
 		<WeekDays3>2345</WeekDays3>
-		<ToolTip>0~5: 없음
+		<ToolTip>장비변환 없음
+
+0~5: 없음
 6~9: 10cm 연장고각포 x2
 MAX: 없음</ToolTip>
 	</RemodelSlot>
 	<RemodelSlot>
 		<SlotItemName>14cm単装砲</SlotItemName>
 		<AllWeekdays>1234567</AllWeekdays>
-		<StartEquip>0</StartEquip>
-		<MidEquip>1</MidEquip>
-		<LastEquip>2</LastEquip>
+		<StartScrew>1</StartScrew>
+		<MidScrew>1</MidScrew>
+		<LastScrew>3</LastScrew>
 		<Upgrade1>14cm連装砲</Upgrade1>
 		<ShipName1>※공통</ShipName1>
 		<WeekDays1>1234567</WeekDays1>
 		<ToolTip>장비변환시  14cm 연장포
+
 0~5: 없음
 6~9: 14cm 단장포 x1
 MAX: 14cm 단장포 x2</ToolTip>
@@ -153,20 +266,22 @@ MAX: 14cm 단장포 x2</ToolTip>
 	<RemodelSlot>
 		<SlotItemName>14cm連装砲</SlotItemName>
 		<AllWeekdays>25</AllWeekdays>
-		<StartEquip>0</StartEquip>
-		<MidEquip>1</MidEquip>
+		<StartScrew>1</StartScrew>
+		<MidScrew>2</MidScrew>
 		<ShipName1>夕張</ShipName1>
 		<WeekDays1>25</WeekDays1>
-		<ToolTip>0~5: 없음
+		<ToolTip>장비변환 없음
+
+0~5: 없음
 6~9: 14cm 연장포 x1
 MAX: 없음</ToolTip>
 	</RemodelSlot>
 	<RemodelSlot>
 		<SlotItemName>15.2cm連装砲</SlotItemName>
 		<AllWeekdays>1234567</AllWeekdays>
-		<StartEquip>0</StartEquip>
-		<MidEquip>1</MidEquip>
-		<LastEquip>1</LastEquip>
+		<StartScrew>2</StartScrew>
+		<MidScrew>2</MidScrew>
+		<LastScrew>4</LastScrew>
 		<Upgrade1>15.2cm連装砲改</Upgrade1>
 		<ShipName1>阿賀野</ShipName1>
 		<WeekDays1>567</WeekDays1>
@@ -177,6 +292,7 @@ MAX: 없음</ToolTip>
 		<ShipName3>矢矧</ShipName3>
 		<WeekDays3>2345</WeekDays3>
 		<ToolTip>장비변환시  15.2cm 연장포 改
+
 0~5: 없음
 6~9: 15.2cm 연장포 x1
 MAX: 22호 대수상레이더 x1</ToolTip>
@@ -184,35 +300,39 @@ MAX: 22호 대수상레이더 x1</ToolTip>
 	<RemodelSlot>
 		<SlotItemName>15.2cm連装砲改</SlotItemName>
 		<AllWeekdays>1234567</AllWeekdays>
-		<StartEquip>1</StartEquip>
-		<MidEquip>1</MidEquip>
+		<StartScrew>2</StartScrew>
+		<MidScrew>3</MidScrew>
 		<ShipName1>矢矧</ShipName1>
 		<WeekDays1>4567</WeekDays1>
 		<ShipName2>酒匂</ShipName2>
 		<WeekDays2>1237</WeekDays2>
-		<ToolTip>0~5: 15.2cm 연장포 x1
+		<ToolTip>장비변환 없음
+
+0~5: 15.2cm 연장포 x1
 6~9: 15.2cm 연장포 x1
 MAX: 없음</ToolTip>
 	</RemodelSlot>
 	<RemodelSlot>
 		<SlotItemName>15.5cm三連装砲</SlotItemName>
 		<AllWeekdays>1267</AllWeekdays>
-		<StartEquip>0</StartEquip>
-		<MidEquip>1</MidEquip>
+		<StartScrew>2</StartScrew>
+		<MidScrew>2</MidScrew>
 		<ShipName1>最上</ShipName1>
 		<WeekDays1>67</WeekDays1>
 		<ShipName2>大淀</ShipName2>
 		<WeekDays2>12</WeekDays2>
-		<ToolTip>0~5: 없음
+		<ToolTip>장비변환 없음
+
+0~5: 없음
 6~9: 15.5cm 3연장포 x1
 MAX: 없음</ToolTip>
 	</RemodelSlot>
 	<RemodelSlot>
 		<SlotItemName>20.3cm連装砲</SlotItemName>
 		<AllWeekdays>1234567</AllWeekdays>
-		<StartEquip>0</StartEquip>
-		<MidEquip>1</MidEquip>
-		<LastEquip>2</LastEquip>
+		<StartScrew>2</StartScrew>
+		<MidScrew>2</MidScrew>
+		<LastScrew>4</LastScrew>
 		<Upgrade1>20.3cm(2号)連装砲</Upgrade1>
 		<ShipName1>青葉</ShipName1>
 		<WeekDays1>1567</WeekDays1>
@@ -220,6 +340,7 @@ MAX: 없음</ToolTip>
 		<ShipName2>衣笠</ShipName2>
 		<WeekDays2>1234567</WeekDays2>
 		<ToolTip>장비변환시  20.3cm(2호) 연장포
+
 0~5: 없음
 6~9: 20.3cm 연장포 x1
 MAX: 20.3cm 연장포 x2</ToolTip>
@@ -227,13 +348,14 @@ MAX: 20.3cm 연장포 x2</ToolTip>
 	<RemodelSlot>
 		<SlotItemName>20.3cm(2号)連装砲</SlotItemName>
 		<AllWeekdays>123</AllWeekdays>
-		<StartEquip>0</StartEquip>
-		<MidEquip>1</MidEquip>
-		<LastEquip>2</LastEquip>
+		<StartScrew>2</StartScrew>
+		<MidScrew>2</MidScrew>
+		<LastScrew>4</LastScrew>
 		<Upgrade1>20.3cm(3号)連装砲</Upgrade1>
 		<ShipName1>妙高</ShipName1>
 		<WeekDays1>123</WeekDays1>
 		<ToolTip>장비변환시  20.3cm(3호) 연장포
+
 0~5: 없음
 6~9: 20.3cm(2호) 연장포 x1
 MAX: 20.3cm(2호) 연장포 x1</ToolTip>
@@ -241,24 +363,27 @@ MAX: 20.3cm(2호) 연장포 x1</ToolTip>
 	<RemodelSlot>
 		<SlotItemName>20.3cm(3号)連装砲</SlotItemName>
 		<AllWeekdays>34</AllWeekdays>
-		<StartEquip>0</StartEquip>
-		<MidEquip>1</MidEquip>
+		<StartScrew>2</StartScrew>
+		<MidScrew>3</MidScrew>
 		<ShipName1>三隈</ShipName1>
 		<WeekDays1>34</WeekDays1>
-		<ToolTip>0~5: 없음
+		<ToolTip>장비변환 없음
+
+0~5: 없음
 6~9: 20.3cm(3호) 연장포 x1
 MAX: 없음</ToolTip>
 	</RemodelSlot>
 	<RemodelSlot>
 		<SlotItemName>35.6cm連装砲</SlotItemName>
 		<AllWeekdays>167</AllWeekdays>
-		<StartEquip>0</StartEquip>
-		<MidEquip>1</MidEquip>
-		<LastEquip>3</LastEquip>
+		<StartScrew>1</StartScrew>
+		<MidScrew>2</MidScrew>
+		<LastScrew>5</LastScrew>
 		<Upgrade1>試製35.6cm三連装砲</Upgrade1>
 		<ShipName1>扶桑</ShipName1>
 		<WeekDays1>167</WeekDays1>
 		<ToolTip>장비변환시  시제35.6cm 3연장포
+
 0~5: 없음
 6~9: 35.6cm 연장포 x1
 MAX: 35.6cm 연장포 x3</ToolTip>
@@ -266,24 +391,27 @@ MAX: 35.6cm 연장포 x3</ToolTip>
 	<RemodelSlot>
 		<SlotItemName>35.6cm連装砲(ダズル迷彩)</SlotItemName>
 		<AllWeekdays>12347</AllWeekdays>
-		<StartEquip>1</StartEquip>
-		<MidEquip>2</MidEquip>
+		<StartScrew>2</StartScrew>
+		<MidScrew>3</MidScrew>
 		<ShipName1>榛名改二</ShipName1>
 		<WeekDays1>12347</WeekDays1>
-		<ToolTip>0~5: 35.6cm 연장포 x1
+		<ToolTip>장비변환 없음
+
+0~5: 35.6cm 연장포 x1
 6~9: 35.6cm 연장포 x2
 MAX: 없음</ToolTip>
 	</RemodelSlot>
 	<RemodelSlot>
 		<SlotItemName>38cm連装砲</SlotItemName>
 		<AllWeekdays>567</AllWeekdays>
-		<StartEquip>1</StartEquip>
-		<MidEquip>2</MidEquip>
-		<LastEquip>2</LastEquip>
+		<StartScrew>2</StartScrew>
+		<MidScrew>3</MidScrew>
+		<LastScrew>6</LastScrew>
 		<Upgrade1>38cm連装砲改</Upgrade1>
 		<ShipName1>Bismarck</ShipName1>
 		<WeekDays1>567</WeekDays1>
 		<ToolTip>장비변환시  38cm연장포改 ★3
+
 0~5: 35.6cm 연장포 x1
 6~9: 35.6cm 연장포 x2
 MAX: 41cm 연장포 x2</ToolTip>
@@ -291,23 +419,26 @@ MAX: 41cm 연장포 x2</ToolTip>
 	<RemodelSlot>
 		<SlotItemName>38cm連装砲改</SlotItemName>
 		<AllWeekdays>123</AllWeekdays>
-		<StartEquip>1</StartEquip>
-		<MidEquip>2</MidEquip>
+		<StartScrew>3</StartScrew>
+		<MidScrew>4</MidScrew>
 		<ShipName1>Bismarck</ShipName1>
 		<WeekDays1>123</WeekDays1>
-		<ToolTip>0~5: 41cm 연장포 x1
+		<ToolTip>장비변환 없음
+
+0~5: 41cm 연장포 x1
 6~9: 41cm 연장포 x2
 MAX: 없음</ToolTip>
 	</RemodelSlot>
 	<RemodelSlot>
 		<SlotItemName>38.1cm Mk.I連装砲</SlotItemName>
 		<AllWeekdays>1567</AllWeekdays>
-		<StartEquip>2</StartEquip>
-		<MidEquip>2</MidEquip>
-		<LastEquip>2</LastEquip>
+		<StartScrew>3</StartScrew>
+		<MidScrew>3</MidScrew>
+		<LastScrew>6</LastScrew>
 		<ShipName1>Warspite</ShipName1>
 		<WeekDays1>1567</WeekDays1>
 		<ToolTip>장비변환시  38.1cm Mk.I/N연장포改
+
 0~5: 35.6cm 연장포 x2
 6~9: 41cm 연장포 x2
 MAX: 25mm 연장기관총 x2</ToolTip>
@@ -315,8 +446,8 @@ MAX: 25mm 연장기관총 x2</ToolTip>
 	<RemodelSlot>
 		<SlotItemName>試製35.6cm三連装砲</SlotItemName>
 		<AllWeekdays>14567</AllWeekdays>
-		<StartEquip>2</StartEquip>
-		<MidEquip>3</MidEquip>
+		<StartScrew>3</StartScrew>
+		<MidScrew>4</MidScrew>
 		<ShipName1>金剛改二</ShipName1>
 		<WeekDays1>45</WeekDays1>
 		<ShipName2>榛名改二</ShipName2>
@@ -325,27 +456,31 @@ MAX: 25mm 연장기관총 x2</ToolTip>
 		<WeekDays3>4567</WeekDays3>
 		<ShipName4>山城改二</ShipName4>
 		<WeekDays4>1567</WeekDays4>
-		<ToolTip>0~5: 35.6cm 연장포 x2
+		<ToolTip>장비변환 없음
+
+0~5: 35.6cm 연장포 x2
 6~9: 35.6cm 연장포 x3
 MAX: 없음</ToolTip>
 	</RemodelSlot>
 	<RemodelSlot>
 		<SlotItemName>38.1cm Mk.I/N連装砲改</SlotItemName>
 		<AllWeekdays>3456</AllWeekdays>
-		<StartEquip>1</StartEquip>
-		<MidEquip>2</MidEquip>
+		<StartScrew>3</StartScrew>
+		<MidScrew>4</MidScrew>
 		<ShipName1>Warspite</ShipName1>
 		<WeekDays1>3456</WeekDays1>
-		<ToolTip>0~5: 41cm 연장포 x1
+		<ToolTip>장비변환 없음
+
+0~5: 41cm 연장포 x1
 6~9: 41cm 연장포 x2
 MAX: 없음</ToolTip>
 	</RemodelSlot>
 	<RemodelSlot>
 		<SlotItemName>381mm/50 三連装砲</SlotItemName>
 		<AllWeekdays>1234567</AllWeekdays>
-		<StartEquip>1</StartEquip>
-		<MidEquip>2</MidEquip>
-		<LastEquip>2</LastEquip>
+		<StartScrew>2</StartScrew>
+		<MidScrew>3</MidScrew>
+		<LastScrew>7</LastScrew>
 		<Upgrade1>381mm/50 三連装砲改</Upgrade1>
 		<ShipName1>Littorio</ShipName1>
 		<WeekDays1>3456</WeekDays1>
@@ -353,6 +488,7 @@ MAX: 없음</ToolTip>
 		<ShipName2>Roma</ShipName2>
 		<WeekDays2>127</WeekDays2>
 		<ToolTip>장비변환시  381mm/50 3연장포改 ★3
+
 0~5: 35.6cm 연장포 x1
 6~9: 35.6cm 연장포 x2
 MAX: 25mm 연장기관총 x2</ToolTip>
@@ -360,48 +496,54 @@ MAX: 25mm 연장기관총 x2</ToolTip>
 	<RemodelSlot>
 		<SlotItemName>41cm連装砲</SlotItemName>
 		<AllWeekdays>123567</AllWeekdays>
-		<StartEquip>1</StartEquip>
-		<MidEquip>2</MidEquip>
+		<StartScrew>2</StartScrew>
+		<MidScrew>3</MidScrew>
 		<ShipName1>長門</ShipName1>
 		<WeekDays1>367</WeekDays1>
 		<ShipName2>陸奥</ShipName2>
 		<WeekDays2>125</WeekDays2>
-		<ToolTip>0~5: 41cm 연장포 x1
+		<ToolTip>장비변환 없음
+
+0~5: 41cm 연장포 x1
 6~9: 41cm 연장포 x2
 MAX: 없음</ToolTip>
 	</RemodelSlot>
 	<RemodelSlot>
 		<SlotItemName>381mm/50 三連装砲改</SlotItemName>
 		<AllWeekdays>1234567</AllWeekdays>
-		<StartEquip>1</StartEquip>
-		<MidEquip>2</MidEquip>
+		<StartScrew>3</StartScrew>
+		<MidScrew>4</MidScrew>
 		<ShipName1>Littorio</ShipName1>
 		<WeekDays1>127</WeekDays1>
 		<ShipName2>Roma</ShipName2>
 		<WeekDays2>3456</WeekDays2>
-		<ToolTip>0~5: 41cm 연장포 x1
+		<ToolTip>장비변환 없음
+
+0~5: 41cm 연장포 x1
 6~9: 41cm 연장포 x2
 MAX: 없음</ToolTip>
 	</RemodelSlot>
 	<RemodelSlot>
 		<SlotItemName>試製41cm三連装砲</SlotItemName>
 		<AllWeekdays>1234567</AllWeekdays>
-		<StartEquip>2</StartEquip>
-		<MidEquip>3</MidEquip>
+		<StartScrew>4</StartScrew>
+		<MidScrew>5</MidScrew>
 		<ShipName1>長門改</ShipName1>
 		<WeekDays1>1245</WeekDays1>
 		<ShipName2>陸奥改</ShipName2>
 		<WeekDays2>3467</WeekDays2>
-		<ToolTip>0~5: 41cm 연장포 x2
+		<ToolTip>장비변환 없음
+
+0~5: 41cm 연장포 x2
 6~9: 41cm 연장포 x3
 MAX: 없음</ToolTip>
 	</RemodelSlot>
 	<RemodelSlot>
 		<SlotItemName>試製46cm連装砲</SlotItemName>
 		<AllWeekdays>1234</AllWeekdays>
-		<StartEquip>2</StartEquip>
-		<MidEquip>3</MidEquip>
-		<LastEquip>4</LastEquip>
+		<StartScrew>3</StartScrew>
+		<MidScrew>4</MidScrew>
+		<LastScrew>8</LastScrew>
 		<Upgrade1>46cm三連装砲</Upgrade1>
 		<ShipName1>大和</ShipName1>
 		<WeekDays1>12</WeekDays1>
@@ -409,6 +551,7 @@ MAX: 없음</ToolTip>
 		<ShipName2>武蔵</ShipName2>
 		<WeekDays2>34</WeekDays2>
 		<ToolTip>장비변환시  46cm 3연장포 ★5
+
 0~5: 41cm 연장포 x2
 6~9: 41cm 연장포 x3
 MAX: 41cm 연장포 x4</ToolTip>
@@ -416,13 +559,14 @@ MAX: 41cm 연장포 x4</ToolTip>
 	<RemodelSlot>
 		<SlotItemName>16inch三連装砲 Mk.7</SlotItemName>
 		<AllWeekdays>1234567</AllWeekdays>
-		<StartEquip>3</StartEquip>
-		<MidEquip>3</MidEquip>
-		<LastEquip>2</LastEquip>
+		<StartScrew>6</StartScrew>
+		<MidScrew>8</MidScrew>
+		<LastScrew>12</LastScrew>
 		<Upgrade1>16inch三連装砲 Mk.7+GFCS</Upgrade1>
 		<ShipName1>Iowa</ShipName1>
 		<WeekDays1>1234567</WeekDays1>
 		<ToolTip>장비변환시  16inch 3연장포. Mk.7+GFCS
+
 0~5: 41cm 연장포 x3
 6~9: 46cm 3연장포 x3
 MAX: 32호 대수상레이더 x2</ToolTip>
@@ -430,59 +574,67 @@ MAX: 32호 대수상레이더 x2</ToolTip>
 	<RemodelSlot>
 		<SlotItemName>16inch三連装砲 Mk.7+GFCS</SlotItemName>
 		<AllWeekdays>1567</AllWeekdays>
-		<StartEquip>2</StartEquip>
-		<MidEquip>2</MidEquip>
+		<StartScrew>8</StartScrew>
+		<MidScrew>8</MidScrew>
 		<ShipName1>Iowa</ShipName1>
 		<WeekDays1>1567</WeekDays1>
-		<ToolTip>0~5: 22호 대수상레이더 x2
+		<ToolTip>장비변환 없음
+
+0~5: 22호 대수상레이더 x2
 6~9: 32호 대수상레이더 x2
 MAX: 없음</ToolTip>
 	</RemodelSlot>
 	<RemodelSlot>
 		<SlotItemName>46cm三連装砲</SlotItemName>
 		<AllWeekdays>1267</AllWeekdays>
-		<StartEquip>1</StartEquip>
-		<MidEquip>2</MidEquip>
+		<StartScrew>4</StartScrew>
+		<MidScrew>5</MidScrew>
 		<ShipName1>大和</ShipName1>
 		<WeekDays1>67</WeekDays1>
 		<ShipName2>武蔵</ShipName2>
 		<WeekDays2>12</WeekDays2>
-		<ToolTip>0~5: 46cm 3연장포 x1
+		<ToolTip>장비변환 없음
+
+0~5: 46cm 3연장포 x1
 6~9: 46cm 3연장포 x2
 MAX: 없음</ToolTip>
 	</RemodelSlot>
 	<RemodelSlot>
 		<SlotItemName>試製51cm連装砲</SlotItemName>
 		<AllWeekdays>234</AllWeekdays>
-		<StartEquip>2</StartEquip>
-		<MidEquip>3</MidEquip>
+		<StartScrew>5</StartScrew>
+		<MidScrew>7</MidScrew>
 		<ShipName1>大和改</ShipName1>
 		<WeekDays1>23</WeekDays1>
 		<ShipName2>武蔵改</ShipName2>
 		<WeekDays2>24</WeekDays2>
-		<ToolTip>0~5: 46cm 3연장포 x2
+		<ToolTip>장비변환 없음
+
+0~5: 46cm 3연장포 x2
 6~9: 46cm 3연장포 x3
 MAX: 없음</ToolTip>
 	</RemodelSlot>
 	<RemodelSlot>
 		<SlotItemName>90mm単装高角砲</SlotItemName>
 		<AllWeekdays>1234567</AllWeekdays>
-		<StartEquip>1</StartEquip>
-		<MidEquip>2</MidEquip>
+		<StartScrew>1</StartScrew>
+		<MidScrew>1</MidScrew>
 		<ShipName1>Littorio</ShipName1>
 		<WeekDays1>2345</WeekDays1>
 		<ShipName2>Roma</ShipName2>
 		<WeekDays2>1567</WeekDays2>
-		<ToolTip>0~5: 10cm 연장고각포 x1
+		<ToolTip>장비변환 없음
+
+0~5: 10cm 연장고각포 x1
 6~9: 10cm 연장고각포 x2
 MAX: 없음</ToolTip>
 	</RemodelSlot>
 	<RemodelSlot>
 		<SlotItemName>15.2cm単装砲</SlotItemName>
 		<AllWeekdays>12347</AllWeekdays>
-		<StartEquip>0</StartEquip>
-		<MidEquip>1</MidEquip>
-		<LastEquip>2</LastEquip>
+		<StartScrew>1</StartScrew>
+		<MidScrew>2</MidScrew>
+		<LastScrew>3</LastScrew>
 		<Upgrade1>15.2cm連装砲</Upgrade1>
 		<ShipName1>阿賀野</ShipName1>
 		<WeekDays1>123</WeekDays1>
@@ -493,6 +645,7 @@ MAX: 없음</ToolTip>
 		<ShipName3>山城</ShipName3>
 		<WeekDays3>234</WeekDays3>
 		<ToolTip>장비변환시  15.2cm 연장포
+
 0~5: 없음
 6~9: 15.2cm 단장포 x1
 MAX: 15.2cm 단장포 x2</ToolTip>
@@ -500,22 +653,24 @@ MAX: 15.2cm 단장포 x2</ToolTip>
 	<RemodelSlot>
 		<SlotItemName>OTO 152mm三連装速射砲</SlotItemName>
 		<AllWeekdays>1234567</AllWeekdays>
-		<StartEquip>0</StartEquip>
-		<MidEquip>1</MidEquip>
+		<StartScrew>2</StartScrew>
+		<MidScrew>3</MidScrew>
 		<ShipName1>Littorio</ShipName1>
 		<WeekDays1>1347</WeekDays1>
 		<ShipName2>Roma</ShipName2>
 		<WeekDays2>1256</WeekDays2>
-		<ToolTip>0~5: 없음
+		<ToolTip>장비변환 없음
+
+0~5: 없음
 6~9: 15.5cm 3연장포 x1
 MAX: 없음</ToolTip>
 	</RemodelSlot>
 	<RemodelSlot>
 		<SlotItemName>61cm三連装魚雷</SlotItemName>
 		<AllWeekdays>123567</AllWeekdays>
-		<StartEquip>0</StartEquip>
-		<MidEquip>1</MidEquip>
-		<LastEquip>2</LastEquip>
+		<StartScrew>1</StartScrew>
+		<MidScrew>1</MidScrew>
+		<LastScrew>2</LastScrew>
 		<Upgrade1>61cm三連装(酸素)魚雷</Upgrade1>
 		<ShipName1>吹雪</ShipName1>
 		<WeekDays1>567</WeekDays1>
@@ -523,6 +678,7 @@ MAX: 없음</ToolTip>
 		<ShipName2>叢雲</ShipName2>
 		<WeekDays2>123</WeekDays2>
 		<ToolTip>장비변환시  61cm 3연장(산소)어뢰
+
 0~5: 없음
 6~9: 61cm 3연장어뢰 x1
 MAX: 61cm 3연장어뢰 x2</ToolTip>
@@ -530,13 +686,14 @@ MAX: 61cm 3연장어뢰 x2</ToolTip>
 	<RemodelSlot>
 		<SlotItemName>61cm四連装魚雷</SlotItemName>
 		<AllWeekdays>12367</AllWeekdays>
-		<StartEquip>0</StartEquip>
-		<MidEquip>1</MidEquip>
-		<LastEquip>2</LastEquip>
+		<StartScrew>1</StartScrew>
+		<MidScrew>1</MidScrew>
+		<LastScrew>3</LastScrew>
 		<Upgrade1>61cm四連装(酸素)魚雷</Upgrade1>
 		<ShipName1>※공통</ShipName1>
 		<WeekDays1>12367</WeekDays1>
 		<ToolTip>장비변환시  61cm 4연장(산소)어뢰 ★3
+
 0~5: 없음
 6~9: 61cm 4연장어뢰 x1
 MAX: 61cm 4연장어뢰 x2</ToolTip>
@@ -544,13 +701,14 @@ MAX: 61cm 4연장어뢰 x2</ToolTip>
 	<RemodelSlot>
 		<SlotItemName>61cm三連装(酸素)魚雷</SlotItemName>
 		<AllWeekdays>567</AllWeekdays>
-		<StartEquip>0</StartEquip>
-		<MidEquip>1</MidEquip>
-		<LastEquip>2</LastEquip>
+		<StartScrew>1</StartScrew>
+		<MidScrew>1</MidScrew>
+		<LastScrew>3</LastScrew>
 		<Upgrade1>61cm四連装(酸素)魚雷</Upgrade1>
 		<ShipName1>吹雪改二</ShipName1>
 		<WeekDays1>567</WeekDays1>
 		<ToolTip>장비변환시  61cm 4연장(산소)어뢰 ★5
+
 0~5: 없음
 6~9: 61cm 3연장어뢰 x1
 MAX: 61cm 4연장어뢰 x2</ToolTip>
@@ -558,9 +716,9 @@ MAX: 61cm 4연장어뢰 x2</ToolTip>
 	<RemodelSlot>
 		<SlotItemName>61cm四連装(酸素)魚雷</SlotItemName>
 		<AllWeekdays>1234567</AllWeekdays>
-		<StartEquip>0</StartEquip>
-		<MidEquip>1</MidEquip>
-		<LastEquip>3</LastEquip>
+		<StartScrew>1</StartScrew>
+		<MidScrew>2</MidScrew>
+		<LastScrew>5</LastScrew>
 		<Upgrade1>61cm五連装(酸素)魚雷</Upgrade1>
 		<ShipName1>北上</ShipName1>
 		<WeekDays1>1234567</WeekDays1>
@@ -568,6 +726,7 @@ MAX: 61cm 4연장어뢰 x2</ToolTip>
 		<ShipName2>大井</ShipName2>
 		<WeekDays2>1234567</WeekDays2>
 		<ToolTip>장비변환시  61cm 5연장(산소)어뢰
+
 0~5: 없음
 6~9: 61cm 4연장(산소)어뢰 x1
 MAX: 61cm 4연장(산소)어뢰 x3</ToolTip>
@@ -575,33 +734,37 @@ MAX: 61cm 4연장(산소)어뢰 x3</ToolTip>
 	<RemodelSlot>
 		<SlotItemName>61cm五連装(酸素)魚雷</SlotItemName>
 		<AllWeekdays>45</AllWeekdays>
-		<StartEquip>0</StartEquip>
-		<MidEquip>1</MidEquip>
+		<StartScrew>3</StartScrew>
+		<MidScrew>3</MidScrew>
 		<ShipName1>島風</ShipName1>
 		<WeekDays1>45</WeekDays1>
-		<ToolTip>0~5: 없음
+		<ToolTip>장비변환 없음
+
+0~5: 없음
 6~9: 61cm 5연장(산소)어뢰 x1
 MAX: 없음</ToolTip>
 	</RemodelSlot>
 	<RemodelSlot>
 		<SlotItemName>試製61cm六連装(酸素)魚雷</SlotItemName>
 		<AllWeekdays>14567</AllWeekdays>
-		<StartEquip>2</StartEquip>
-		<MidEquip>1</MidEquip>
+		<StartScrew>5</StartScrew>
+		<MidScrew>6</MidScrew>
 		<ShipName1>島風</ShipName1>
 		<WeekDays1>17</WeekDays1>
 		<ShipName2>初月</ShipName2>
 		<WeekDays2>4567</WeekDays2>
-		<ToolTip>0~5: 61cm 4연장(산소)어뢰 x2
+		<ToolTip>장비변환 없음
+
+0~5: 61cm 4연장(산소)어뢰 x2
 6~9: 61cm 5연장(산소)어뢰 x1
 MAX: 없음</ToolTip>
 	</RemodelSlot>
 	<RemodelSlot>
 		<SlotItemName>13号対空電探</SlotItemName>
 		<AllWeekdays>1234567</AllWeekdays>
-		<StartEquip>0</StartEquip>
-		<MidEquip>1</MidEquip>
-		<LastEquip>1</LastEquip>
+		<StartScrew>2</StartScrew>
+		<MidScrew>3</MidScrew>
+		<LastScrew>5</LastScrew>
 		<Upgrade1>13号対空電探改</Upgrade1>
 		<ShipName1>時雨改二</ShipName1>
 		<WeekDays1>1567</WeekDays1>
@@ -615,6 +778,7 @@ MAX: 없음</ToolTip>
 		<ShipName4>照月</ShipName4>
 		<WeekDays4>234</WeekDays4>
 		<ToolTip>장비변환시  13호 대공 레이더改
+
 0~5: 없음
 6~9: 13호 대공 레이더 x1
 MAX: 21호 대공 레이더 x1</ToolTip>
@@ -622,24 +786,26 @@ MAX: 21호 대공 레이더 x1</ToolTip>
 	<RemodelSlot>
 		<SlotItemName>13号対空電探改</SlotItemName>
 		<AllWeekdays>1234567</AllWeekdays>
-		<StartEquip>1</StartEquip>
-		<MidEquip>2</MidEquip>
+		<StartScrew>3</StartScrew>
+		<MidScrew>4</MidScrew>
 		<ShipName1>磯風改</ShipName1>
 		<WeekDays1>567</WeekDays1>
 		<ShipName2>初霜改二</ShipName2>
 		<WeekDays2>167</WeekDays2>
 		<ShipName3>雪風</ShipName3>
 		<WeekDays3>1234</WeekDays3>
-		<ToolTip>0~5: 13호 대공 레이더 x1
+		<ToolTip>장비변환 없음
+
+0~5: 13호 대공 레이더 x1
 6~9: 13호 대공 레이더 x2
 MAX: 없음</ToolTip>
 	</RemodelSlot>
 	<RemodelSlot>
 		<SlotItemName>22号対水上電探</SlotItemName>
 		<AllWeekdays>1234567</AllWeekdays>
-		<StartEquip>1</StartEquip>
-		<MidEquip>2</MidEquip>
-		<LastEquip>3</LastEquip>
+		<StartScrew>2</StartScrew>
+		<MidScrew>3</MidScrew>
+		<LastScrew>8</LastScrew>
 		<Upgrade1>22号対水上電探改四</Upgrade1>
 		<ShipName1>日向</ShipName1>
 		<WeekDays1>1267</WeekDays1>
@@ -650,6 +816,7 @@ MAX: 없음</ToolTip>
 		<ShipName3>島風</ShipName3>
 		<WeekDays3>4567</WeekDays3>
 		<ToolTip>장비변환시  22호 대수상 레이더改四
+
 0~5: 22호 대수상 레이더 x1
 6~9: 22호 대수상 레이더 x2
 MAX: 22호 대수상 레이더 x3</ToolTip>
@@ -657,24 +824,26 @@ MAX: 22호 대수상 레이더 x3</ToolTip>
 	<RemodelSlot>
 		<SlotItemName>22号対水上電探改四</SlotItemName>
 		<AllWeekdays>1234567</AllWeekdays>
-		<StartEquip>1</StartEquip>
-		<MidEquip>1</MidEquip>
+		<StartScrew>3</StartScrew>
+		<MidScrew>4</MidScrew>
 		<ShipName1>妙高改二</ShipName1>
 		<WeekDays1>1567</WeekDays1>
 		<ShipName2>羽黒改二</ShipName2>
 		<WeekDays2>1267</WeekDays2>
 		<ShipName3>金剛改二</ShipName3>
 		<WeekDays3>3456</WeekDays3>
-		<ToolTip>0~5: 22호 대수상 레이더 x1
+		<ToolTip>장비변환 없음
+
+0~5: 22호 대수상 레이더 x1
 6~9: 22호 대수상 레이더改四 x1
 MAX: 없음</ToolTip>
 	</RemodelSlot>
 	<RemodelSlot>
 		<SlotItemName>21号対空電探</SlotItemName>
 		<AllWeekdays>124567</AllWeekdays>
-		<StartEquip>0</StartEquip>
-		<MidEquip>1</MidEquip>
-		<LastEquip>2</LastEquip>
+		<StartScrew>2</StartScrew>
+		<MidScrew>3</MidScrew>
+		<LastScrew>5</LastScrew>
 		<Upgrade1>21号対空電探改</Upgrade1>
 		<ShipName1>伊勢</ShipName1>
 		<WeekDays1>1267</WeekDays1>
@@ -682,6 +851,7 @@ MAX: 없음</ToolTip>
 		<ShipName2>日向</ShipName2>
 		<WeekDays2>4567</WeekDays2>
 		<ToolTip>장비변환시  21호 대공 레이더改
+
 0~5: 없음
 6~9: 21호 대공 레이더 x1
 MAX: 21호 대공 레이더 x2</ToolTip>
@@ -689,22 +859,24 @@ MAX: 21호 대공 레이더 x2</ToolTip>
 	<RemodelSlot>
 		<SlotItemName>21号対空電探改</SlotItemName>
 		<AllWeekdays>134567</AllWeekdays>
-		<StartEquip>1</StartEquip>
-		<MidEquip>2</MidEquip>
+		<StartScrew>2</StartScrew>
+		<MidScrew>4</MidScrew>
 		<ShipName1>大和</ShipName1>
 		<WeekDays1>1567</WeekDays1>
 		<ShipName2>武蔵</ShipName2>
 		<WeekDays2>3456</WeekDays2>
-		<ToolTip>0~5: 21호 대공 레이더 x1
+		<ToolTip>장비변환 없음
+
+0~5: 21호 대공 레이더 x1
 6~9: 21호 대공 레이더 x2
 MAX: 없음</ToolTip>
 	</RemodelSlot>
 	<RemodelSlot>
 		<SlotItemName>32号対水上電探</SlotItemName>
 		<AllWeekdays>1234567</AllWeekdays>
-		<StartEquip>1</StartEquip>
-		<MidEquip>2</MidEquip>
-		<LastEquip>1</LastEquip>
+		<StartScrew>3</StartScrew>
+		<MidScrew>4</MidScrew>
+		<LastScrew>10</LastScrew>
 		<Upgrade1>32号対水上電探改</Upgrade1>
 		<ShipName1>伊勢</ShipName1>
 		<WeekDays1>4567</WeekDays1>
@@ -712,6 +884,7 @@ MAX: 없음</ToolTip>
 		<ShipName2>日向</ShipName2>
 		<WeekDays2>123</WeekDays2>
 		<ToolTip>장비변환시  32호 대수상 레이더 改
+
 0~5: 22호 대수상 레이더 x1
 6~9: 22호 대수상 레이더 x2
 MAX: 32호 대수상 레이더 x1</ToolTip>
@@ -719,22 +892,24 @@ MAX: 32호 대수상 레이더 x1</ToolTip>
 	<RemodelSlot>
 		<SlotItemName>32号対水上電探改</SlotItemName>
 		<AllWeekdays>1234567</AllWeekdays>
-		<StartEquip>3</StartEquip>
-		<MidEquip>1</MidEquip>
+		<StartScrew>5</StartScrew>
+		<MidScrew>7</MidScrew>
 		<ShipName1>伊勢</ShipName1>
 		<WeekDays1>123</WeekDays1>
 		<ShipName2>日向</ShipName2>
 		<WeekDays2>4567</WeekDays2>
-		<ToolTip>0~5: 22호 대수상 레이더 x3
+		<ToolTip>장비변환 없음
+
+0~5: 22호 대수상 레이더 x3
 6~9: 32호 대수상 레이더 x1
 MAX: 없음</ToolTip>
 	</RemodelSlot>
 	<RemodelSlot>
 		<SlotItemName>九三式水中聴音機</SlotItemName>
 		<AllWeekdays>12567</AllWeekdays>
-		<StartEquip>0</StartEquip>
-		<MidEquip>1</MidEquip>
-		<LastEquip>2</LastEquip>
+		<StartScrew>1</StartScrew>
+		<MidScrew>2</MidScrew>
+		<LastScrew>3,6</LastScrew>
 		<Upgrade1>三式水中探信儀</Upgrade1>
 		<ShipName1>夕張</ShipName1>
 		<WeekDays1>167</WeekDays1>
@@ -751,29 +926,32 @@ MAX: 없음</ToolTip>
 		<ShipName5>香取改</ShipName5>
 		<WeekDays5>167</WeekDays5>
 		<ToolTip>장비변환시  3식 소나 ★3, 4식 소나
+
 0~5: 없음
 6~9: 93식 소나 x1
-MAX: 93식 소나 x2 (3식 소나 ★3)
-MAX: 3식 소나 x2 (4식 소나)</ToolTip>
+MAX: 93식 소나 x2 (3식 소나 ★3, 개수자재 3)
+MAX: 3식 소나 x2 (4식 소나, 개수자재 6)</ToolTip>
 	</RemodelSlot>
 	<RemodelSlot>
 		<SlotItemName>三式水中探信儀</SlotItemName>
 		<AllWeekdays>134</AllWeekdays>
-		<StartEquip>0</StartEquip>
-		<MidEquip>1</MidEquip>
+		<StartScrew>2</StartScrew>
+		<MidScrew>3</MidScrew>
 		<ShipName1>夕張</ShipName1>
 		<WeekDays1>34</WeekDays1>
 		<ShipName2>五十鈴改二</ShipName2>
 		<WeekDays2>134</WeekDays2>
-		<ToolTip>0~5: 없음
+		<ToolTip>장비변환 없음
+
+0~5: 없음
 6~9: 3식 소나 x1
 MAX: 없음</ToolTip>
 	</RemodelSlot>
 	<RemodelSlot>
 		<SlotItemName>四式水中聴音機</SlotItemName>
 		<AllWeekdays>1234567</AllWeekdays>
-		<StartEquip>2</StartEquip>
-		<MidEquip>1</MidEquip>
+		<StartScrew>3</StartScrew>
+		<MidScrew>4</MidScrew>
 		<ShipName1>五十鈴改二</ShipName1>
 		<WeekDays1>567</WeekDays1>
 		<ShipName2>秋月</ShipName2>
@@ -782,20 +960,23 @@ MAX: 없음</ToolTip>
 		<WeekDays3>4</WeekDays3>
 		<ShipName4>香取改</ShipName4>
 		<WeekDays4>23</WeekDays4>
-		<ToolTip>0~5: 93식 소나 x2
+		<ToolTip>장비변환 없음
+
+0~5: 93식 소나 x2
 6~9: 4식 소나 x1
 MAX: 없음</ToolTip>
 	</RemodelSlot>
 	<RemodelSlot>
 		<SlotItemName>九四式爆雷投射機</SlotItemName>
 		<AllWeekdays>1234567</AllWeekdays>
-		<StartEquip>0</StartEquip>
-		<MidEquip>1</MidEquip>
-		<LastEquip>2</LastEquip>
+		<StartScrew>1</StartScrew>
+		<MidScrew>1</MidScrew>
+		<LastScrew>3</LastScrew>
 		<Upgrade1>三式爆雷投射機</Upgrade1>
 		<ShipName1>※공통</ShipName1>
 		<WeekDays1>1234567</WeekDays1>
 		<ToolTip>장비변환시  3식 폭뢰투사기 ★3
+
 0~5: 없음
 6~9: 94식 폭뢰투사기 x1
 MAX: 94식 폭뢰투사기 x2</ToolTip>
@@ -803,20 +984,22 @@ MAX: 94식 폭뢰투사기 x2</ToolTip>
 	<RemodelSlot>
 		<SlotItemName>三式爆雷投射機</SlotItemName>
 		<AllWeekdays>45</AllWeekdays>
-		<StartEquip>0</StartEquip>
-		<MidEquip>1</MidEquip>
+		<StartScrew>2</StartScrew>
+		<MidScrew>2</MidScrew>
 		<ShipName1>五十鈴改二</ShipName1>
 		<WeekDays1>45</WeekDays1>
-		<ToolTip>0~5: 없음
+		<ToolTip>장비변환 없음
+
+0~5: 없음
 6~9: 3식 폭뢰투사기 x1
 MAX: 없음</ToolTip>
 	</RemodelSlot>
 	<RemodelSlot>
 		<SlotItemName>九一式徹甲弾</SlotItemName>
 		<AllWeekdays>124567</AllWeekdays>
-		<StartEquip>0</StartEquip>
-		<MidEquip>1</MidEquip>
-		<LastEquip>3</LastEquip>
+		<StartScrew>1</StartScrew>
+		<MidScrew>1</MidScrew>
+		<LastScrew>4</LastScrew>
 		<Upgrade1>一式徹甲弾</Upgrade1>
 		<ShipName1>比叡</ShipName1>
 		<WeekDays1>4567</WeekDays1>
@@ -824,6 +1007,7 @@ MAX: 없음</ToolTip>
 		<ShipName2>霧島</ShipName2>
 		<WeekDays2>1267</WeekDays2>
 		<ToolTip>장비변환시  1식 철갑탄
+
 0~5: 없음
 6~9: 91식 철갑탄 x1
 MAX: 91식 철갑탄 x3</ToolTip>
@@ -831,22 +1015,24 @@ MAX: 91식 철갑탄 x3</ToolTip>
 	<RemodelSlot>
 		<SlotItemName>一式徹甲弾</SlotItemName>
 		<AllWeekdays>123467</AllWeekdays>
-		<StartEquip>2</StartEquip>
-		<MidEquip>1</MidEquip>
+		<StartScrew>1</StartScrew>
+		<MidScrew>2</MidScrew>
 		<ShipName1>金剛</ShipName1>
 		<WeekDays1>167</WeekDays1>
 		<ShipName2>榛名</ShipName2>
 		<WeekDays2>234</WeekDays2>
-		<ToolTip>0~5: 91식 철갑탄 x2
+		<ToolTip>장비변환 없음
+
+0~5: 91식 철갑탄 x2
 6~9: 1식 철갑탄 x1
 MAX: 없음</ToolTip>
 	</RemodelSlot>
 	<RemodelSlot>
 		<SlotItemName>25mm単装機銃</SlotItemName>
 		<AllWeekdays>14567</AllWeekdays>
-		<StartEquip>0</StartEquip>
-		<MidEquip>1</MidEquip>
-		<LastEquip>1</LastEquip>
+		<StartScrew>1</StartScrew>
+		<MidScrew>1</MidScrew>
+		<LastScrew>1</LastScrew>
 		<Upgrade1>25mm連装機銃</Upgrade1>
 		<ShipName1>皐月</ShipName1>
 		<WeekDays1>167</WeekDays1>
@@ -854,6 +1040,7 @@ MAX: 없음</ToolTip>
 		<ShipName2>文月</ShipName2>
 		<WeekDays2>4567</WeekDays2>
 		<ToolTip>장비변환시  25mm 연장기관총 ★5
+
 0~5: 없음
 6~9: 25mm 단장기관총 x1
 MAX: 25mm 단장기관총 x1</ToolTip>
@@ -861,9 +1048,9 @@ MAX: 25mm 단장기관총 x1</ToolTip>
 	<RemodelSlot>
 		<SlotItemName>25mm連装機銃</SlotItemName>
 		<AllWeekdays>1237</AllWeekdays>
-		<StartEquip>0</StartEquip>
-		<MidEquip>1</MidEquip>
-		<LastEquip>1</LastEquip>
+		<StartScrew>1</StartScrew>
+		<MidScrew>1</MidScrew>
+		<LastScrew>1</LastScrew>
 		<Upgrade1>25mm三連装機銃</Upgrade1>
 		<ShipName1>皐月</ShipName1>
 		<WeekDays1>23</WeekDays1>
@@ -874,6 +1061,7 @@ MAX: 25mm 단장기관총 x1</ToolTip>
 		<ShipName3>五十鈴改二</ShipName3>
 		<WeekDays3>17</WeekDays3>
 		<ToolTip>장비변환시  25mm 3연장기관총 ★3
+
 0~5: 없음
 6~9: 25mm 연장기관총 x1
 MAX: 25mm 연장기관총 x1</ToolTip>
@@ -881,9 +1069,9 @@ MAX: 25mm 연장기관총 x1</ToolTip>
 	<RemodelSlot>
 		<SlotItemName>25mm三連装機銃</SlotItemName>
 		<AllWeekdays>1234567</AllWeekdays>
-		<StartEquip>0</StartEquip>
-		<MidEquip>1</MidEquip>
-		<LastEquip>5</LastEquip>
+		<StartScrew>1</StartScrew>
+		<MidScrew>1</MidScrew>
+		<LastScrew>3</LastScrew>
 		<Upgrade1>25mm三連装機銃 集中配備</Upgrade1>
 		<ShipName1>皐月改二</ShipName1>
 		<WeekDays1>45</WeekDays1>
@@ -897,6 +1085,7 @@ MAX: 25mm 연장기관총 x1</ToolTip>
 		<ShipName4>摩耶改二</ShipName4>
 		<WeekDays4>1267</WeekDays4>
 		<ToolTip>장비변환시  25mm 3연장기관총 집중배치
+
 0~5: 없음
 6~9: 25mm 3연장기관총 x1
 MAX: 25mm 3연장기관총 x5</ToolTip>
@@ -904,9 +1093,9 @@ MAX: 25mm 3연장기관총 x5</ToolTip>
 	<RemodelSlot>
 		<SlotItemName>91式高射装置</SlotItemName>
 		<AllWeekdays>12567</AllWeekdays>
-		<StartEquip>0</StartEquip>
-		<MidEquip>1</MidEquip>
-		<LastEquip>2</LastEquip>
+		<StartScrew>1</StartScrew>
+		<MidScrew>2</MidScrew>
+		<LastScrew>4</LastScrew>
 		<Upgrade1>94式高射装置</Upgrade1>
 		<ShipName1>摩耶</ShipName1>
 		<WeekDays1>1267</WeekDays1>
@@ -917,6 +1106,7 @@ MAX: 25mm 3연장기관총 x5</ToolTip>
 		<ShipName3>照月</ShipName3>
 		<WeekDays3>1567</WeekDays3>
 		<ToolTip>장비변환시  94식 고사장치
+
 0~5: 없음
 6~9: 12.8cm 연장고각포 x1
 MAX: 10cm 연장고각포 x2</ToolTip>
@@ -924,9 +1114,9 @@ MAX: 10cm 연장고각포 x2</ToolTip>
 	<RemodelSlot>
 		<SlotItemName>94式高射装置</SlotItemName>
 		<AllWeekdays>1234567</AllWeekdays>
-		<StartEquip>0</StartEquip>
-		<MidEquip>1</MidEquip>
-		<LastEquip>2</LastEquip>
+		<StartScrew>2</StartScrew>
+		<MidScrew>3</MidScrew>
+		<LastScrew>5</LastScrew>
 		<Upgrade1>10cm連装高角砲+高射装置</Upgrade1>
 		<ShipName1>秋月</ShipName1>
 		<WeekDays1>1234567</WeekDays1>
@@ -943,6 +1133,7 @@ MAX: 10cm 연장고각포 x2</ToolTip>
 		<ShipName5>摩耶改二</ShipName5>
 		<WeekDays5>1567</WeekDays5>
 		<ToolTip>장비변환시  10cm 연장고각포+고사장치, 12.7cm 고각포+고사장치
+
 0~5: 없음
 6~9: 10cm 연장고각포 x1 (아키즈키, 테루즈키, 하츠즈키, 후부키改2)
 6~9: 12.7cm 연장고각포 x1 (마야改2)
@@ -952,9 +1143,9 @@ MAX: 12.7cm 연장고각포 x2 (12.7cm 고각포+고사장치)</ToolTip>
 	<RemodelSlot>
 		<SlotItemName>探照灯</SlotItemName>
 		<AllWeekdays>1234567</AllWeekdays>
-		<StartEquip>0</StartEquip>
-		<MidEquip>1</MidEquip>
-		<LastEquip>1</LastEquip>
+		<StartScrew>2</StartScrew>
+		<MidScrew>2</MidScrew>
+		<LastScrew>3</LastScrew>
 		<Upgrade1>96式150cm探照灯</Upgrade1>
 		<ShipName1>暁</ShipName1>
 		<WeekDays1>567</WeekDays1>
@@ -968,6 +1159,7 @@ MAX: 12.7cm 연장고각포 x2 (12.7cm 고각포+고사장치)</ToolTip>
 		<ShipName4>綾波</ShipName4>
 		<WeekDays4>234</WeekDays4>
 		<ToolTip>장비변환시  96式150cm탐조등
+
 0~5: 없음
 6~9: 탐조등 x1
 MAX: 숙련견시원 x1</ToolTip>
@@ -975,33 +1167,37 @@ MAX: 숙련견시원 x1</ToolTip>
 	<RemodelSlot>
 		<SlotItemName>96式150cm探照灯</SlotItemName>
 		<AllWeekdays>1234567</AllWeekdays>
-		<StartEquip>1</StartEquip>
-		<MidEquip>1</MidEquip>
+		<StartScrew>3</StartScrew>
+		<MidScrew>3</MidScrew>
 		<ShipName1>比叡</ShipName1>
 		<WeekDays1>1267</WeekDays1>
 		<ShipName2>霧島</ShipName2>
 		<WeekDays2>3456</WeekDays2>
-		<ToolTip>0~5: 탐조등 x1
+		<ToolTip>장비변환 없음
+
+0~5: 탐조등 x1
 6~9: 탐조등 x1
 MAX: 없음</ToolTip>
 	</RemodelSlot>
 	<RemodelSlot>
 		<SlotItemName>九八式水上偵察機(夜偵)</SlotItemName>
 		<AllWeekdays>12567</AllWeekdays>
-		<StartEquip>1</StartEquip>
-		<MidEquip>2</MidEquip>
+		<StartScrew>3</StartScrew>
+		<MidScrew>4</MidScrew>
 		<ShipName1>川内改二</ShipName1>
 		<WeekDays1>12567</WeekDays1>
-		<ToolTip>0~5: 영식 수상정찰기 x1
+		<ToolTip>장비변환 없음
+
+0~5: 영식 수상정찰기 x1
 6~9: 영식 수상정찰기 x2
 MAX: 없음</ToolTip>
 	</RemodelSlot>
 	<RemodelSlot>
 		<SlotItemName>Ro.43水偵</SlotItemName>
 		<AllWeekdays>1234567</AllWeekdays>
-		<StartEquip>1</StartEquip>
-		<MidEquip>1</MidEquip>
-		<LastEquip>2</LastEquip>
+		<StartScrew>1</StartScrew>
+		<MidScrew>2</MidScrew>
+		<LastScrew>3</LastScrew>
 		<Upgrade1>Ro.44水上戦闘機</Upgrade1>
 		<ShipName1>Zara改</ShipName1>
 		<WeekDays1>23456</WeekDays1>
@@ -1012,6 +1208,7 @@ MAX: 없음</ToolTip>
 		<ShipName3>Roma改</ShipName3>
 		<WeekDays3>34</WeekDays3>
 		<ToolTip>장비변환시  Ro.44 수상전투기
+
 0~5: 영식 수상정찰기 x1
 6~9: 즈이운 x1
 MAX: 영식 수상정찰기 x2</ToolTip>
@@ -1019,9 +1216,9 @@ MAX: 영식 수상정찰기 x2</ToolTip>
 	<RemodelSlot>
 		<SlotItemName>零式水上偵察機</SlotItemName>
 		<AllWeekdays>1234567</AllWeekdays>
-		<StartEquip>1</StartEquip>
-		<MidEquip>2</MidEquip>
-		<LastEquip>3</LastEquip>
+		<StartScrew>2</StartScrew>
+		<MidScrew>3</MidScrew>
+		<LastScrew>5</LastScrew>
 		<Upgrade1>二式水戦改</Upgrade1>
 		<ShipName1>千歳甲</ShipName1>
 		<WeekDays1>67</WeekDays1>
@@ -1035,6 +1232,7 @@ MAX: 영식 수상정찰기 x2</ToolTip>
 		<ShipName4>瑞穂</ShipName4>
 		<WeekDays4>12367</WeekDays4>
 		<ToolTip>장비변환시  2식 수상전투기改
+
 0~5: 영식 수상정찰기 x1
 6~9: 영식 수상정찰기 x2
 MAX: 영식 함상전투기 21형 x3</ToolTip>
@@ -1042,22 +1240,24 @@ MAX: 영식 함상전투기 21형 x3</ToolTip>
 	<RemodelSlot>
 		<SlotItemName>零式水上観測機</SlotItemName>
 		<AllWeekdays>1234567</AllWeekdays>
-		<StartEquip>1</StartEquip>
-		<MidEquip>1</MidEquip>
+		<StartScrew>3</StartScrew>
+		<MidScrew>4</MidScrew>
 		<ShipName1>瑞穂</ShipName1>
 		<WeekDays1>12347</WeekDays1>
 		<ShipName2>武蔵</ShipName2>
 		<WeekDays2>567</WeekDays2>
-		<ToolTip>0~5: 즈이운 x1
+		<ToolTip>장비변환 없음
+
+0~5: 즈이운 x1
 6~9: 영식 수상관측기 x1
 MAX: 없음</ToolTip>
 	</RemodelSlot>
 	<RemodelSlot>
 		<SlotItemName>大発動艇</SlotItemName>
 		<AllWeekdays>1234567</AllWeekdays>
-		<StartEquip>1</StartEquip>
-		<MidEquip>1</MidEquip>
-		<LastEquip>3</LastEquip>
+		<StartScrew>1</StartScrew>
+		<MidScrew>2</MidScrew>
+		<LastScrew>3</LastScrew>
 		<Upgrade1>大発動艇(八九式中戦車&amp;陸戦隊)</Upgrade1>
 		<ShipName1>あきつ丸</ShipName1>
 		<WeekDays1>1234567</WeekDays1>
@@ -1068,6 +1268,7 @@ MAX: 없음</ToolTip>
 		<ShipName3>阿武隈改二</ShipName3>
 		<WeekDays3>127</WeekDays3>
 		<ToolTip>장비변환시  대발동정(89식 중전차&amp;육전대)
+
 0~5: 드럼통(수송용) x1
 6~9: 7.7mm 기관총 x1
 MAX: 12.7mm 단장기관총 x3</ToolTip>
@@ -1075,9 +1276,9 @@ MAX: 12.7mm 단장기관총 x3</ToolTip>
 	<RemodelSlot>
 		<SlotItemName>大発動艇(八九式中戦車&amp;陸戦隊)</SlotItemName>
 		<AllWeekdays>1234567</AllWeekdays>
-		<StartEquip>1</StartEquip>
-		<MidEquip>2</MidEquip>
-		<LastEquip>3</LastEquip>
+		<StartScrew>2</StartScrew>
+		<MidScrew>3</MidScrew>
+		<LastScrew>5</LastScrew>
 		<Upgrade1>特二式内火艇</Upgrade1>
 		<ShipName1>あきつ丸</ShipName1>
 		<WeekDays1>1267</WeekDays1>
@@ -1088,6 +1289,7 @@ MAX: 12.7mm 단장기관총 x3</ToolTip>
 		<ShipName3>阿武隈改二</ShipName3>
 		<WeekDays3>345</WeekDays3>
 		<ToolTip>장비변환시  특2식 내화정
+
 0~5: 25mm 단장기관총 x1
 6~9: 12cm 30연장분진포 x2
 MAX: 7.7mm 기관총 x3</ToolTip>
@@ -1095,15 +1297,17 @@ MAX: 7.7mm 기관총 x3</ToolTip>
 	<RemodelSlot>
 		<SlotItemName>特二式内火艇</SlotItemName>
 		<AllWeekdays>1234567</AllWeekdays>
-		<StartEquip>2</StartEquip>
-		<MidEquip>3</MidEquip>
+		<StartScrew>3</StartScrew>
+		<MidScrew>4</MidScrew>
 		<ShipName1>伊58</ShipName1>
 		<WeekDays1>1267</WeekDays1>
 		<ShipName2>伊8</ShipName2>
 		<WeekDays2>4567</WeekDays2>
 		<ShipName3>伊401</ShipName3>
 		<WeekDays3>2345</WeekDays3>
-		<ToolTip>0~5: 7.7mm 기관총 x2
+		<ToolTip>장비변환 없음
+
+0~5: 7.7mm 기관총 x2
 6~9: 12.7mm 단장기관총 x3
 MAX: 없음</ToolTip>
 	</RemodelSlot>
