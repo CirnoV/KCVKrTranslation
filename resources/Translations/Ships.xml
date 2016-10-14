@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Ships Version="1.0.62">
+<Ships Version="1.0.63">
 	<Ship>
 		<JP-Name>U-511</JP-Name>
 		<TR-Name>U-511</TR-Name>
@@ -634,19 +634,15 @@
 	</Ship>
 	<Ship>
 		<JP-Name>Z3</JP-Name>
-		<TR-Name>슐츠</TR-Name>
+		<TR-Name>막스</TR-Name>
 	</Ship>
 	<Ship>
 		<JP-Name>Z3 zwei</JP-Name>
-		<TR-Name>슐츠 츠바이</TR-Name>
-	</Ship>
-	<Ship>
-		<JP-Name>Z3 zwei</JP-Name>
-		<TR-Name>슐츠 츠바이</TR-Name>
+		<TR-Name>막스 츠바이</TR-Name>
 	</Ship>
 	<Ship>
 		<JP-Name>Z3改</JP-Name>
-		<TR-Name>슐츠改</TR-Name>
+		<TR-Name>막스改</TR-Name>
 	</Ship>
 	<Ship>
 		<JP-Name>鈴谷</JP-Name>
