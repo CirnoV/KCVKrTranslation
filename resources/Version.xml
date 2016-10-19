@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Versions>
 	<Item>
-  		<Name>App</Name>
- 		<Version>4.2.8.12</Version>
-  		<URL>https://github.com/CirnoV/KanColleViewer/releases/download/v4.2.8r12/KanColleViewer-KR.4.2.8.r12.zip</URL>
-		<NoticeURL>http://swaytwig.com/kcvkr/kcvkr4_2_8_12.html</NoticeURL>
-  	</Item>
+		<Name>App</Name>
+		<Version>4.2.8.22</Version>
+		<URL>https://github.com/CirnoV/KanColleViewer/releases/download/v4.2.8r22/KanColleViewer-KR.4.2.8.r22.zip</URL>
+		<NoticeURL>http://swaytwig.com/kcvkr/kcvkr4_2_8_22.html</NoticeURL>
+	</Item>
 	<Item>
-  		<Name>Updater</Name>
- 		<Version>1.0.11.0</Version>
-  		<URL>https://github.com/CirnoV/KCVAutoUpdater/releases/download/1.0.11.0/AutoUpdater.zip</URL>
-  	</Item>
+		<Name>Updater</Name>
+		<Version>1.0.11.0</Version>
+		<URL>https://github.com/CirnoV/KCVAutoUpdater/releases/download/1.0.11.0/AutoUpdater.zip</URL>
+	</Item>
 	<Item>
 		<Name>Equipment</Name>
 		<Version>1.1.34</Version>
