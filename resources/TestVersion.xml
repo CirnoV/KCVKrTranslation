@@ -2,9 +2,9 @@
 <Versions>
 	<Item>
 		<Name>App</Name>
-		<Version>4.2.8.29</Version>
-		<URL>https://github.com/CirnoV/KanColleViewer/releases/download/v4.2.8r29/KanColleViewer-KR.4.2.8.r29.zip</URL>
-		<NoticeURL>http://swaytwig.com/kcvkr/kcvkr4_2_8_29.html</NoticeURL>
+		<Version>4.2.8.33</Version>
+		<URL>https://github.com/CirnoV/KanColleViewer/releases/download/v4.2.8r33/KanColleViewer-KR.4.2.8.r33.zip</URL>
+		<NoticeURL>http://swaytwig.com/kcvkr/kcvkr4_2_8_33.html</NoticeURL>
 	</Item>
 	<Item>
 		<Name>Updater</Name>
