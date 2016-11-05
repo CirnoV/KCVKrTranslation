@@ -2,14 +2,14 @@
 <Versions>
 	<Item>
 		<Name>App</Name>
-		<Version>4.2.8.34</Version>
-		<URL>https://github.com/CirnoV/KanColleViewer/releases/download/v4.2.8r34/KanColleViewer-KR.4.2.8.r34.zip</URL>
-		<NoticeURL>http://swaytwig.com/kcvkr/kcvkr4_2_8_33.html</NoticeURL>
+		<Version>4.2.8.35</Version>
+		<URL>https://github.com/CirnoV/KanColleViewer/releases/download/v4.2.8r35/KanColleViewer-KR.4.2.8.r35.zip</URL>
+		<NoticeURL>http://swaytwig.com/kcvkr/kcvkr4_2_8_35.html</NoticeURL>
 	</Item>
 	<Item>
 		<Name>Updater</Name>
-		<Version>1.0.14.0</Version>
-		<URL>https://github.com/CirnoV/KCVAutoUpdater/releases/download/1.0.14.0/AutoUpdater.zip</URL>
+		<Version>1.0.15.0</Version>
+		<URL>https://github.com/CirnoV/KCVAutoUpdater/releases/download/1.0.15.0/AutoUpdater.zip</URL>
 	</Item>
 	<Item>
 		<Name>Equipment</Name>
@@ -28,7 +28,7 @@
 	</Item>
 	<Item>
 		<Name>Quests</Name>
-		<Version>1.2.41</Version>
+		<Version>1.2.42</Version>
 		<URL>https://raw.github.com/CirnoV/KCVKrTranslation/master/resources/Translations/Quests.xml</URL>
 	</Item>
 	<Item>
@@ -48,7 +48,7 @@
 	</Item>
 	<Item>
 		<Name>RemodelSlots</Name>
-		<Version>1.2.1</Version>
+		<Version>1.2.2</Version>
 		<URL>https://raw.github.com/CirnoV/KCVKrTranslation/master/resources/Translations/RemodelSlots.xml</URL>
 	</Item>
 </Versions>

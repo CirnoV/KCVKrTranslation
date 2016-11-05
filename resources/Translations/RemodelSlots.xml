@@ -10,7 +10,7 @@ ShipName값이 있는 경우에는 무조건 WeekDays값이 존재해야 합니�
 
 WeekDays1이 246이고 WeekDays2가 345인 경우에는 AllWeekdays의 값은 23456이 됩니다.
 -->
-<RemodelSlots Version="1.2.1">
+<RemodelSlots Version="1.2.2">
 	<RemodelSlot>
 		<SlotItemName>九六式艦戦</SlotItemName>
 		<AllWeekdays>1234567</AllWeekdays>
@@ -1257,7 +1257,7 @@ MAX: 없음</ToolTip>
 		<AllWeekdays>1234567</AllWeekdays>
 		<StartScrew>1</StartScrew>
 		<MidScrew>2</MidScrew>
-		<LastScrew>3</LastScrew>
+		<LastScrew>3,6</LastScrew>
 		<Upgrade1>大発動艇(八九式中戦車&amp;陸戦隊)</Upgrade1>
 		<ShipName1>あきつ丸</ShipName1>
 		<WeekDays1>1234567</WeekDays1>
@@ -1267,11 +1267,15 @@ MAX: 없음</ToolTip>
 		<Upgrade3>大発動艇(八九式中戦車&amp;陸戦隊)</Upgrade3>
 		<ShipName3>阿武隈改二</ShipName3>
 		<WeekDays3>127</WeekDays3>
-		<ToolTip>장비변환시  대발동정(89식 중전차&amp;육전대)
+		<Upgrade4>特大発動艇</Upgrade4>
+		<ShipName4>鬼怒改二</ShipName4>
+		<WeekDays4>67</WeekDays4>
+		<ToolTip>장비변환시  대발동정(89식 중전차&amp;육전대), 특대발동정
 
 0~5: 드럼통(수송용) x1
 6~9: 7.7mm 기관총 x1
-MAX: 12.7mm 단장기관총 x3</ToolTip>
+MAX: 12.7mm 단장기관총 x3 (대발동정(89식 중전차&amp;육전대), 개수자재 3개)
+MAX: 대발동정 x4 (특대발동정, 개수자재 6개)</ToolTip>
 	</RemodelSlot>
 	<RemodelSlot>
 		<SlotItemName>大発動艇(八九式中戦車&amp;陸戦隊)</SlotItemName>
@@ -1309,6 +1313,19 @@ MAX: 7.7mm 기관총 x3</ToolTip>
 
 0~5: 7.7mm 기관총 x2
 6~9: 12.7mm 단장기관총 x3
+MAX: 없음</ToolTip>
+	</RemodelSlot>
+	<RemodelSlot>
+		<SlotItemName>特大発動艇</SlotItemName>
+		<AllWeekdays>67</AllWeekdays>
+		<StartScrew>2</StartScrew>
+		<MidScrew>4</MidScrew>
+		<ShipName1>鬼怒改二</ShipName1>
+		<WeekDays1>67</WeekDays1>
+		<ToolTip>장비변환 없음
+
+0~5: 드럼통(수송용) x2
+6~9: 대발동정 x1
 MAX: 없음</ToolTip>
 	</RemodelSlot>
 </RemodelSlots>
