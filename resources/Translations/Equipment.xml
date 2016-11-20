@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.1.36">
+<Equipment Version="1.1.37">
 	<Item>
 		<JP-Name>12cm単装砲</JP-Name>
 		<TR-Name>12cm 단장포</TR-Name>
@@ -1063,5 +1063,45 @@
 	<Item>
 		<JP-Name>特大発動艇</JP-Name>
 		<TR-Name>특대발동정</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>特大発動艇</JP-Name>
+		<TR-Name>특대발동정</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>特大発動艇</JP-Name>
+		<TR-Name>특대발동정</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>深海水母小鬼機</JP-Name>
+		<TR-Name>심해 수모수귀기</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>深海熊猫艦戦</JP-Name>
+		<TR-Name>심해 곰고양이 함상전투기</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>Laté 298B</JP-Name>
+		<TR-Name>Laté 298B</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>SBD</JP-Name>
+		<TR-Name>SBD</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>TBD</JP-Name>
+		<TR-Name>TBD</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>F4F-3</JP-Name>
+		<TR-Name>F4F-3</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>F4F-4</JP-Name>
+		<TR-Name>F4F-4</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>SB2U</JP-Name>
+		<TR-Name>SB2U</TR-Name>
 	</Item>
 </Equipment>
