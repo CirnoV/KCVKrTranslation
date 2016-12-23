@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.1.37">
+<Equipment Version="1.1.38">
 	<Item>
 		<JP-Name>12cm単装砲</JP-Name>
 		<TR-Name>12cm 단장포</TR-Name>
@@ -1103,5 +1103,9 @@
 	<Item>
 		<JP-Name>SB2U</JP-Name>
 		<TR-Name>SB2U</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>艦本新設計 増設バルジ(大型艦)</JP-Name>
+		<TR-Name>함본신설계 증설벌지(대형함)</TR-Name>
 	</Item>
 </Equipment>

@@ -2,9 +2,9 @@
 <Versions>
 	<Item>
 		<Name>App</Name>
-		<Version>4.2.9.11</Version>
-		<URL>https://github.com/CirnoV/KanColleViewer/releases/download/v4.2.9r11/KanColleViewer-KR.4.2.9.r11.zip</URL>
-		<NoticeURL>http://swaytwig.com/kcvkr/kcvkr4_2_9_11.html</NoticeURL>
+		<Version>4.2.9.12</Version>
+		<URL>https://github.com/CirnoV/KanColleViewer/releases/download/v4.2.9r12/KanColleViewer-KR.4.2.9.r12.zip</URL>
+		<NoticeURL>http://swaytwig.com/kcvkr/kcvkr4_2_9_12.html</NoticeURL>
 	</Item>
 	<Item>
 		<Name>Updater</Name>
@@ -13,12 +13,12 @@
 	</Item>
 	<Item>
 		<Name>Equipment</Name>
-		<Version>1.1.37</Version>
+		<Version>1.1.38</Version>
 		<URL>https://raw.github.com/CirnoV/KCVKrTranslation/master/resources/Translations/Equipment.xml</URL>
 	</Item>
 	<Item>
 		<Name>EquipmentTypes</Name>
-		<Version>1.0.0</Version>
+		<Version>1.0.1</Version>
 		<URL>https://raw.github.com/CirnoV/KCVKrTranslation/master/resources/Translations/EquipmentTypes.xml</URL>
 	</Item>
 	<Item>
@@ -28,7 +28,7 @@
 	</Item>
 	<Item>
 		<Name>Quests</Name>
-		<Version>1.2.42</Version>
+		<Version>1.2.43</Version>
 		<URL>https://raw.github.com/CirnoV/KCVKrTranslation/master/resources/Translations/Quests.xml</URL>
 	</Item>
 	<Item>

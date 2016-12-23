@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.2.42">
+<Quests Version="1.2.43">
 	<Quest>
 		<ID>SF</ID>
 		<JP-Name>初夏の整理整頓</JP-Name>
@@ -1677,5 +1677,47 @@
 		<TR-Name>제16전대(제3차) 출격하라!</TR-Name>
 		<JP-Detail>「第十六戦隊(第三次)」を沖ノ島海域前面に展開、敵主力艦隊を捕捉、これを撃破せよ！</JP-Detail>
 		<TR-Detail>키누, 아오바, 키타카미, 오오이를 포함하는 함대로 2-4 보스전 S승리</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>314</ID>
+		<JP-Name>冬季大演習</JP-Name>
+		<TR-Name>겨울철 대연습</TR-Name>
+		<JP-Detail>冬の一日中に「演習」で8回以上「勝利」をおさめ、艦隊のさらなる練度に努めよ！</JP-Detail>
+		<TR-Detail>05시부터 익일 04:59까지 연습전 8회 B승리 이상 기록</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>422</ID>
+		<JP-Name>潜水艦派遣作戦による航空機技術入手</JP-Name>
+		<TR-Name>잠수 함 파견 작전에 의한 항공기 기술 입수</TR-Name>
+		<JP-Detail>潜水艦派遣作戦により、新型航空機技術の導入に努めよ！</JP-Detail>
+		<TR-Detail>30, 31번 원정을 한 번씩 성공</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>648</ID>
+		<JP-Name>「特注家具」の調達</JP-Name>
+		<TR-Name>특별 주문 가구 조달</TR-Name>
+		<JP-Detail>「12.7cm連装高角砲」二つを廃棄し、家具コイン5,000と「14cm単装砲」及び「15.2cm単装砲」を各二つずつ準備せよ！　※任務達成後、用意した家具コイン及び必要装備(低改修を優先)は消費します。</JP-Detail>
+		<TR-Detail>가구코인 5000, 14cm단장포 2개, 15.2단장포(부포) 2개를 소지한 상태에서 12.7.cm연장고각포 두개 폐기</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>838</ID>
+		<JP-Name>重巡戦隊、抜錨せよ！</JP-Name>
+		<TR-Name>중순전대, 발묘하라!</TR-Name>
+		<JP-Detail>重巡4隻を基幹戦力とした重巡旗艦の艦隊を南西諸島海域東部オリョール海に展開し、&lt;br&gt;同海域の敵艦隊を撃滅、制海権を確保せよ！</JP-Detail>
+		<TR-Detail>중순양함 4척 기함 + 2척 자유 편성으로 2-3 보스전 S승</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>705</ID>
+		<JP-Name>航空艤装の近代化改修</JP-Name>
+		<TR-Name>항공 의장의 근대화 개수</TR-Name>
+		<JP-Detail>鉄鋼5,500及びボーキサイト2,500を準備して、任意の正規空母の近代化改修を&lt;br&gt;[航空母艦]x5隻同時使用により2回成功させよ！※任務達成後、準備した資源は消費します。</JP-Detail>
+		<TR-Detail>강재 5500, 보크사이트 2500을 소지한 상태로 경항모,정규항모 합계 5척을 재료로 정규항모에 근대화개수를 2번 성공</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>839</ID>
+		<JP-Name>戦艦戦隊、出撃せよ！</JP-Name>
+		<TR-Name>전함 전대, 출격하자!</TR-Name>
+		<JP-Detail>戦艦2隻を中核戦力とする戦艦旗艦の艦隊を北方海域アルフォンシーノ方面に進出させ、&lt;br&gt;同海域の敵艦隊を撃滅、北方海域の制海権確保に努めよ！</JP-Detail>
+		<TR-Detail>전함 2척 기함 + 항모2척 + 자유2척으로 3-3 보스전 S승</TR-Detail>
 	</Quest>
 </Quests>

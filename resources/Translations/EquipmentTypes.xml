@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<EquipmentTypes Version="1.0.0">
+<EquipmentTypes Version="1.0.1">
 	<Item>
 		<JP-Name>小口径主砲</JP-Name>
 		<TR-Name>소구경주포</TR-Name>
@@ -191,6 +191,22 @@
 	<Item>
 		<JP-Name>局地戦闘機</JP-Name>
 		<TR-Name>국지전투기</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>噴式戦闘機</JP-Name>
+		<TR-Name>분식전투기</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>噴式戦闘爆撃機</JP-Name>
+		<TR-Name>분식전투폭격기</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>噴式攻撃機</JP-Name>
+		<TR-Name>분식공격기</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>噴式偵察機</JP-Name>
+		<TR-Name>분식정찰기</TR-Name>
 	</Item>
 	<Item>
 		<JP-Name>大型電探（II）</JP-Name>
