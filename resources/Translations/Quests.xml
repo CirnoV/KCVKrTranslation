@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.2.46">
+<Quests Version="1.2.47">
 	<Quest>
 		<ID>SF</ID>
 		<JP-Name>初夏の整理整頓</JP-Name>
@@ -521,7 +521,7 @@
 	<Quest>
 		<ID>803</ID>
 		<TR-Name>시대가 왔다! 항공화력함인 정월!</TR-Name>
-		<TR-Detail>항공전함을 기함으로 4-2 보스전 3회 S승 (시운 / Ro.43 수상정찰기 / OS2U 선택보상)</TR-Detail>
+		<TR-Detail>항공전함을 기함으로 항전2척+항순2척+자유2척으로 4-2 보스전 3회 S승 (시운 / Ro.43 수상정찰기 / OS2U 선택보상)</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>804</ID>
