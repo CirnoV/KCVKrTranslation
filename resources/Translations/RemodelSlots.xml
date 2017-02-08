@@ -10,7 +10,7 @@ ShipName값이 있는 경우에는 무조건 WeekDays값이 존재해야 합니�
 
 WeekDays1이 246이고 WeekDays2가 345인 경우에는 AllWeekdays의 값은 23456이 됩니다.
 -->
-<RemodelSlots Version="1.2.4">
+<RemodelSlots Version="1.2.5">
 	<RemodelSlot>
 		<SlotItemName>九六式艦戦</SlotItemName>
 		<AllWeekdays>1234567</AllWeekdays>
@@ -1374,7 +1374,7 @@ MAX: 영식 함상전투기 52형 x2</ToolTip>
 
 0~5: 영식 함상전투기 52형 x2
 6~9: 시덴改2 x1
-MAX: 없음</ToolTip></ToolTip>
+MAX: 없음</ToolTip>
 	</RemodelSlot>
 	<RemodelSlot>
 		<SlotItemName>試製景雲(艦偵型)</SlotItemName>
