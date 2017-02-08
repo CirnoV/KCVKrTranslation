@@ -10,7 +10,7 @@ ShipName값이 있는 경우에는 무조건 WeekDays값이 존재해야 합니�
 
 WeekDays1이 246이고 WeekDays2가 345인 경우에는 AllWeekdays의 값은 23456이 됩니다.
 -->
-<RemodelSlots Version="1.2.3">
+<RemodelSlots Version="1.2.4">
 	<RemodelSlot>
 		<SlotItemName>九六式艦戦</SlotItemName>
 		<AllWeekdays>1234567</AllWeekdays>
@@ -1328,6 +1328,134 @@ MAX: 없음</ToolTip>
 
 0~5: 드럼통(수송용) x2
 6~9: 대발동정 x1
+MAX: 없음</ToolTip>
+	</RemodelSlot>
+
+	<RemodelSlot>
+		<SlotItemName>F4F-3</SlotItemName>
+		<AllWeekdays>14567</AllWeekdays>
+		<StartScrew>2</StartScrew>
+		<MidScrew>2</MidScrew>
+		<LastScrew>3</LastScrew>
+		<ShipName1>Saratoga</ShipName1>
+		<WeekDays1>14567</WeekDays1>
+		<ShipName2>Saratoga改</ShipName2>
+		<WeekDays2>67</WeekDays2>
+		<ToolTip>장비변환시  F4F-4
+
+0~5: 없음
+6~9: 96식 함상전투기 x1
+MAX: 12.7mm 단장기관총 x2</ToolTip>
+	</RemodelSlot>
+	<RemodelSlot>
+		<SlotItemName>F4F-4</SlotItemName>
+		<AllWeekdays>234</AllWeekdays>
+		<StartScrew>3</StartScrew>
+		<MidScrew>3</MidScrew>
+		<LastScrew>6</LastScrew>
+		<ShipName1>Saratoga</ShipName1>
+		<WeekDays1>23</WeekDays1>
+		<ShipName2>Saratoga改</ShipName2>
+		<WeekDays2>234</WeekDays2>
+		<ToolTip>장비변환시  F6F-3
+
+0~5: 영식 함상전투기 21형 x1
+6~9: 영식 함상전투기 32형 x1
+MAX: 영식 함상전투기 52형 x2</ToolTip>
+	</RemodelSlot>
+	<RemodelSlot>
+		<SlotItemName>F6F-3</SlotItemName>
+		<AllWeekdays>345</AllWeekdays>
+		<StartScrew>4</StartScrew>
+		<MidScrew>6</MidScrew>
+		<ShipName1>Saratoga改</ShipName1>
+		<WeekDays1>345</WeekDays1>
+		<ToolTip>장비변환 없음
+
+0~5: 영식 함상전투기 52형 x2
+6~9: 시덴改2 x1
+MAX: 없음</ToolTip></ToolTip>
+	</RemodelSlot>
+	<RemodelSlot>
+		<SlotItemName>試製景雲(艦偵型)</SlotItemName>
+		<AllWeekdays>12367</AllWeekdays>
+		<StartScrew>6</StartScrew>
+		<MidScrew>7</MidScrew>
+		<LastScrew>10</LastScrew>
+		<ShipName1>翔鶴改二甲</ShipName1>
+		<WeekDays1>167</WeekDays1>
+		<ShipName2>瑞鶴改二甲</ShipName2>
+		<WeekDays2>123</WeekDays2>
+		<ToolTip>장비변환시  분식케이운改
+
+0~5: 류세이 x1
+6~9: 렛푸 x1
+MAX: 네식 엔진 x1</ToolTip>
+	</RemodelSlot>
+	<RemodelSlot>
+		<SlotItemName>強化型艦本式缶</SlotItemName>
+		<AllWeekdays>1234567</AllWeekdays>
+		<StartScrew>5</StartScrew>
+		<MidScrew>7</MidScrew>
+		<LastScrew>8</LastScrew>
+		<ShipName1>島風</ShipName1>
+		<WeekDays1>34</WeekDays1>
+		<ShipName2>天津風</ShipName2>
+		<WeekDays2>1234567</WeekDays2>
+		<ToolTip>장비변환시  신형 고온 고압 보일러
+
+0~5: 개량형 함본식 터빈 x1
+6~9: 강화형 함본식 보일러 x1
+MAX: 강화형 함본식 보일러 x2</ToolTip>
+	</RemodelSlot>
+	<RemodelSlot>
+		<SlotItemName>新型高温高圧缶</SlotItemName>
+		<AllWeekdays>23456</AllWeekdays>
+		<StartScrew>8</StartScrew>
+		<MidScrew>9</MidScrew>
+		<ShipName1>島風</ShipName1>
+		<WeekDays1>236</WeekDays1>
+		<ShipName2>天津風</ShipName2>
+		<WeekDays2>345</WeekDays2>
+		<ToolTip>장비변환 없음
+
+0~5: 개량형 함본식 터빈 x2
+6~9: 강화형 함본식 보일러 x2
+MAX: 없음</ToolTip>
+	</RemodelSlot>
+	<RemodelSlot>
+		<SlotItemName>増設バルジ(大型艦)</SlotItemName>
+		<AllWeekdays>4567</AllWeekdays>
+		<StartScrew>4</StartScrew>
+		<MidScrew>6</MidScrew>
+		<LastScrew>8</LastScrew>
+		<ShipName1>長門</ShipName1>
+		<WeekDays1>567</WeekDays1>
+		<ShipName2>陸奥</ShipName2>
+		<WeekDays2>456</WeekDays2>
+		<ShipName3>大和</ShipName3>
+		<WeekDays3>456</WeekDays3>
+		<ShipName4>武蔵</ShipName4>
+		<WeekDays4>567</WeekDays4>
+		<ToolTip>장비변환시  함본신설계 증설벌지(대형함)
+
+0~5: 증설벌지(중형함) x2
+6~9: 증설벌지(대형함) x1
+MAX: 증설벌지(대형함) x2</ToolTip>
+	</RemodelSlot>
+	<RemodelSlot>
+		<SlotItemName>艦本新設計 増設バルジ(大型艦)</SlotItemName>
+		<AllWeekdays>137</AllWeekdays>
+		<StartScrew>6</StartScrew>
+		<MidScrew>8</MidScrew>
+		<ShipName1>大和</ShipName1>
+		<WeekDays1>17</WeekDays1>
+		<ShipName2>武蔵</ShipName2>
+		<WeekDays2>13</WeekDays2>
+		<ToolTip>장비변환 없음
+
+0~5: 증설벌지(대형함) x1
+6~9: 증설벌지(대형함) x2
 MAX: 없음</ToolTip>
 	</RemodelSlot>
 </RemodelSlots>
