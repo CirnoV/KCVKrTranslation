@@ -13,12 +13,12 @@
 	</Item>
 	<Item>
 		<Name>Equipment</Name>
-		<Version>1.1.38</Version>
+		<Version>1.1.39</Version>
 		<URL>https://raw.github.com/CirnoV/KCVKrTranslation/master/resources/Translations/Equipment.xml</URL>
 	</Item>
 	<Item>
 		<Name>EquipmentTypes</Name>
-		<Version>1.0.1</Version>
+		<Version>1.0.2</Version>
 		<URL>https://raw.github.com/CirnoV/KCVKrTranslation/master/resources/Translations/EquipmentTypes.xml</URL>
 	</Item>
 	<Item>
@@ -33,7 +33,7 @@
 	</Item>
 	<Item>
 		<Name>Ships</Name>
-		<Version>1.0.67</Version>
+		<Version>1.0.68</Version>
 		<URL>https://raw.github.com/CirnoV/KCVKrTranslation/master/resources/Translations/Ships.xml</URL>
 	</Item>
 	<Item>
@@ -43,7 +43,7 @@
 	</Item>
 	<Item>
 		<Name>Expeditions</Name>
-		<Version>1.0.23</Version>
+		<Version>1.0.24</Version>
 		<URL>https://raw.github.com/CirnoV/KCVKrTranslation/master/resources/Translations/Expeditions.xml</URL>
 	</Item>
 	<Item>

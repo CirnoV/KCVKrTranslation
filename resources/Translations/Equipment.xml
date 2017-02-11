@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.1.38">
+<Equipment Version="1.1.39">
 	<Item>
 		<JP-Name>12cm単装砲</JP-Name>
 		<TR-Name>12cm 단장포</TR-Name>
@@ -1107,5 +1107,33 @@
 	<Item>
 		<JP-Name>艦本新設計 増設バルジ(大型艦)</JP-Name>
 		<TR-Name>함본신설계 증설벌지(대형함)</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>瑞雲(六三一空)</JP-Name>
+		<TR-Name>즈이운(631 해군항공대)</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>晴嵐(六三一空)</JP-Name>
+		<TR-Name>세이란(631 해군항공대)</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>彩雲(輸送用分解済)</JP-Name>
+		<TR-Name>사이운(운송용분해됨)</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>潜水艦搭載電探&amp;水防式望遠鏡</JP-Name>
+		<TR-Name>잠수함탑재전탐&amp;수방식망원경</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>潜水艦搭載電探&amp;逆探(E27)</JP-Name>
+		<TR-Name>잠수함탑재전탐&amp;역탐(E27)</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>彩雲(東カロリン空)</JP-Name>
+		<TR-Name>사이운(동부 캐롤라인 항공대)</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>深海潜水下駄履き</JP-Name>
+		<TR-Name>심해 잠수함 수상기</TR-Name>
 	</Item>
 </Equipment>

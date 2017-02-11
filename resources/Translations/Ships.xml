@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Ships Version="1.0.67">
+<Ships Version="1.0.68">
 	<Ship>
 		<JP-Name>U-511</JP-Name>
 		<TR-Name>U-511</TR-Name>
@@ -2195,5 +2195,45 @@
 	<Ship>
 		<JP-Name>荒潮改二</JP-Name>
 		<TR-Name>아라시오改2</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>藤波</JP-Name>
+		<TR-Name>후지나미</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>藤波改</JP-Name>
+		<TR-Name>후지나미改</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>松風</JP-Name>
+		<TR-Name>마츠카제</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>松風改</JP-Name>
+		<TR-Name>마츠카제改</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>伊13</JP-Name>
+		<TR-Name>이13</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>伊13改</JP-Name>
+		<TR-Name>이13改</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>伊14</JP-Name>
+		<TR-Name>이14</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>伊14改</JP-Name>
+		<TR-Name>이14改</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>深海双子棲姫</JP-Name>
+		<TR-Name>심해쌍자서희</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>深海双子棲姫-壊</JP-Name>
+		<TR-Name>심해쌍자서희-괴</TR-Name>
 	</Ship>
 </Ships>
