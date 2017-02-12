@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.1.39">
+<Equipment Version="1.1.40">
 	<Item>
 		<JP-Name>12cm単装砲</JP-Name>
 		<TR-Name>12cm 단장포</TR-Name>
@@ -1108,6 +1108,18 @@
 		<JP-Name>艦本新設計 増設バルジ(大型艦)</JP-Name>
 		<TR-Name>함본신설계 증설벌지(대형함)</TR-Name>
 	</Item>
+	<SlotItem>
+		<JP-Name>噴式景雲改</JP-Name>
+		<TR-Name>분식케이운改</TR-Name>
+	</SlotItem>
+	<SlotItem>
+		<JP-Name>橘花改</JP-Name>
+		<TR-Name>킷카改</TR-Name>
+	</SlotItem>
+	<SlotItem>
+		<JP-Name>F6F-3</JP-Name>
+		<TR-Name>F6F-3</TR-Name>
+	</SlotItem>
 	<Item>
 		<JP-Name>瑞雲(六三一空)</JP-Name>
 		<TR-Name>즈이운(631 해군항공대)</TR-Name>
