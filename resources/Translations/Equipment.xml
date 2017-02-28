@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.1.41">
+<Equipment Version="1.1.42">
 	<Item>
 		<JP-Name>12cm単装砲</JP-Name>
 		<TR-Name>12cm 단장포</TR-Name>
@@ -1155,5 +1155,9 @@
 	<Item>
 		<JP-Name>熟練聴音員+後期型艦首魚雷(6門)</JP-Name>
 		<TR-Name>숙련청음원+후기형 함수어뢰(6문)</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>艦本新設計 増設バルジ(中型艦)</JP-Name>
+		<TR-Name>함본신설계 증설벌지(중형함)</TR-Name>
 	</Item>
 </Equipment>
