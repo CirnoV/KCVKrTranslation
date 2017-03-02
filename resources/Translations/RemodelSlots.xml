@@ -10,7 +10,7 @@ ShipName값이 있는 경우에는 무조건 WeekDays값이 존재해야 합니�
 
 WeekDays1이 246이고 WeekDays2가 345인 경우에는 AllWeekdays의 값은 23456이 됩니다.
 -->
-<RemodelSlots Version="1.2.6">
+<RemodelSlots Version="1.2.7">
 	<RemodelSlot>
 		<SlotItemName>九六式艦戦</SlotItemName>
 		<AllWeekdays>1234567</AllWeekdays>
@@ -1468,6 +1468,63 @@ MAX: 증설벌지(대형함) x2</ToolTip>
 
 0~5: 증설벌지(대형함) x1
 6~9: 증설벌지(대형함) x2
+MAX: 없음</ToolTip>
+	</RemodelSlot>
+	<RemodelSlot>
+		<SlotItemName>潜水艦搭載電探&amp;水防式望遠鏡</SlotItemName>
+		<AllWeekdays>345</AllWeekdays>
+		<StartScrew>7</StartScrew>
+		<MidScrew>8</MidScrew>
+		<ShipName1>伊401改</ShipName1>
+		<WeekDays1>345</WeekDays1>
+		<ToolTip>장비변환 없음
+
+0~5: 22호대수상전탐 x2
+6~9: 숙련견시원 x1
+MAX: 없음</ToolTip>
+	</RemodelSlot>
+	<RemodelSlot>
+		<SlotItemName>203mm/53 連装砲</SlotItemName>
+		<AllWeekdays>34</AllWeekdays>
+		<StartScrew>3</StartScrew>
+		<MidScrew>4</MidScrew>
+		<ShipName1>Zara due</ShipName1>
+		<WeekDays1>34</WeekDays1>
+		<ToolTip>장비변환 없음
+
+0~5: 20.3cm 연장포 x2
+6~9: 20.3cm(2호) 연장포 x1
+MAX: 없음</ToolTip>
+	</RemodelSlot>
+	<RemodelSlot>
+		<SlotItemName>増設バルジ(中型艦)</SlotItemName>
+		<AllWeekdays>345</AllWeekdays>
+		<StartScrew>4</StartScrew>
+		<MidScrew>0</MidScrew>
+		<LastScrew>0</LastScrew>
+		<ShipName1>Верный</ShipName1>
+		<WeekDays1>4</WeekDays1>
+		<ShipName2>酒匂</ShipName2>
+		<WeekDays2>45</WeekDays2>
+		<ShipName3>Zara due</ShipName3>
+		<WeekDays3>34</WeekDays3>
+		<ToolTip>장비변환시  함본신설계 증설벌지(중형함)
+
+0~5: 증설벌지(중형함) x1
+6~9: ?
+MAX: 증설벌지(중형함) x3</ToolTip>
+	</RemodelSlot>
+	<RemodelSlot>
+		<SlotItemName>艦本新設計 増設バルジ(中型艦)</SlotItemName>
+		<AllWeekdays>345</AllWeekdays>
+		<StartScrew>6</StartScrew>
+		<MidScrew>8</MidScrew>
+		<ShipName1>Zara due</ShipName1>
+		<WeekDays1>345</WeekDays1>
+		<ToolTip>장비변환 없음
+
+0~5: 증설벌지(중형함) x2
+6~9: 증설벌지(중형함) x3
 MAX: 없음</ToolTip>
 	</RemodelSlot>
 </RemodelSlots>
