@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.1.42">
+<Equipment Version="1.1.43">
 	<Item>
 		<JP-Name>12cm単装砲</JP-Name>
 		<TR-Name>12cm 단장포</TR-Name>
@@ -370,7 +370,7 @@
 	</Item>
 	<Item>
 		<JP-Name>零式艦戦21型(熟練)</JP-Name>
-		<TR-Name>영식 함상 전투기21형(숙련)</TR-Name>
+		<TR-Name>영식 함상전투기21형(숙련)</TR-Name>
 	</Item>
 	<Item>
 		<JP-Name>九九式艦爆(熟練)</JP-Name>
@@ -1159,5 +1159,13 @@
 	<Item>
 		<JP-Name>艦本新設計 増設バルジ(中型艦)</JP-Name>
 		<TR-Name>함본신설계 증설벌지(중형함)</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>Ro.44水上戦闘機bis</JP-Name>
+		<TR-Name>Ro.44 수상전투기 bis</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>二式水戦改(熟練)</JP-Name>
+		<TR-Name>2식 수상전투기改(숙련)</TR-Name>
 	</Item>
 </Equipment>
