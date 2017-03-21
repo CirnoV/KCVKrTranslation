@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.2.48">
+<Quests Version="1.2.49">
 	<Quest>
 		<ID>SF</ID>
 		<JP-Name>初夏の整理整頓</JP-Name>
@@ -1797,5 +1797,33 @@
 		<TR-Name>잠수함 무장 강화</TR-Name>
 		<JP-Detail>「61cm三連装魚雷」を四つ廃棄、開発資材x120と「61cm四連装(酸素)魚雷」「九三式水中聴音機」各三つを準備せよ！　※任務達成後、用意した開発資材及び必要装備(低改修値のもの優先)は消費します。</JP-Detail>
 		<TR-Detail>개발자재 120개, 61cm 4연장(산소)어뢰 3개, 94식 소나 3개를 소지한 상태로 61cm 3연장어뢰 4개 폐기 (개발자재와 장비는 달성후 소멸, 개수치가 낮은 장비부터 소멸)</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>849</ID>
+		<JP-Name>南西諸島方面の敵艦隊を撃破せよ！</JP-Name>
+		<TR-Name>남서제도방면의 적 함대를 격파하라!</TR-Name>
+		<JP-Detail>軽巡を旗艦とした艦隊を編成し、南西諸島防衛線、バシー島沖及び&lt;br&gt;東部オリョール海に展開、同海域に遊弋する敵艦隊を撃破せよ！</JP-Detail>
+		<TR-Detail>경순 기함으로 1-4, 2-2, 2-3 보스전 S승</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>850</ID>
+		<JP-Name>洋上航空戦力を拡充せよ！</JP-Name>
+		<TR-Name>해상 항공 전력을 확충하라!</TR-Name>
+		<JP-Detail>航空母艦、または水上機母艦を旗艦とした有力な艦隊を編成、北方AL海域、&lt;br&gt;西方海域カスガダマ沖 、中部海域MS諸島沖に展開し、各海域の敵艦隊を撃滅せよ！</JP-Detail>
+		<TR-Detail>항모 또는 수상기모함 기함으로 3-5, 4-4, 6-2 보스전 S승?</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>659</ID>
+		<JP-Name>精鋭「水戦」隊の新編成</JP-Name>
+		<TR-Name>정예 수상전투기 편대의 새 편성</TR-Name>
+		<JP-Detail>精鋭飛行隊の新編成：練度max及び改修maxの「二式水戦改」を一番スロットに搭載した秘書艦で、&lt;br&gt;「零式艦戦21型」x2「瑞雲」x2を廃棄！　※新飛行隊を編成する「熟練搭乗員」が必要です。</JP-Detail>
+		<TR-Detail>비서함에 숙련도max, 개수max인 "2식 수상전투기改"를 첫 슬롯에 장착하고 "영식 함상전투기21형"x2, "즈이운"x2 폐기 ※숙련탑승원 필요</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>423</ID>
+		<JP-Name>潜水艦派遣作戦による噴式技術の入手</JP-Name>
+		<TR-Name>잠수함 파견 작전으로 분식 기술의 입수</TR-Name>
+		<JP-Detail>鉄鋼5,000及びボーキサイト1,500を準備して、潜水艦派遣作戦により&lt;br&gt;噴式エンジン技術の導入に努めよ！※任務達成後、準備した資源は消費します。</JP-Detail>
+		<TR-Detail>강재 5000, 보크사이트 1500을 소지한 상태로 30번 원정 성공 ※임무 달성 후 준비한 자원은 사라집니다</TR-Detail>
 	</Quest>
 </Quests>
