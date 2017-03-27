@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.1.44">
+<Equipment Version="1.1.45">
 	<Item>
 		<JP-Name>12cm単装砲</JP-Name>
 		<TR-Name>12cm 단장포</TR-Name>
@@ -242,7 +242,7 @@
 	</Item>
 	<Item>
 		<JP-Name>零式艦戦62型(爆戦)</JP-Name>
-		<TR-Name>영식 함상전투기 62형(폭격장비)</TR-Name>
+		<TR-Name>영식 함상전투기 62형(폭전)</TR-Name>
 	</Item>
 	<Item>
 		<JP-Name>二式艦上偵察機</JP-Name>
@@ -1167,5 +1167,13 @@
 	<Item>
 		<JP-Name>二式水戦改(熟練)</JP-Name>
 		<TR-Name>2식 수상전투기改(숙련)</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>強風改</JP-Name>
+		<TR-Name>쿄후改</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>零式艦戦63型(爆戦)</JP-Name>
+		<TR-Name>영식 함상전투기 63형(폭전)</TR-Name>
 	</Item>
 </Equipment>
