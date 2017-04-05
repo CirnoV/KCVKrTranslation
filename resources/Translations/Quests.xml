@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.2.53">
+<Quests Version="1.2.54">
 	<Quest>
 		<ID>SF</ID>
 		<JP-Name>初夏の整理整頓</JP-Name>
@@ -1845,7 +1845,7 @@
 		<JP-Name>鎮守府海域警戒を厳とせよ！</JP-Name>
 		<TR-Name>진수부 해상 경계를 확실히하라!</TR-Name>
 		<JP-Detail>巡洋艦クラスを旗艦に配備、2隻以上の駆逐艦を擁する警戒艦隊を編成せよ。同警戒艦隊を以て、&lt;br&gt;鎮守府海域(南西諸島/製油所地帯沿岸/南西諸島防衛線/鎮守府近海)の警戒任務にあたれ！</JP-Detail>
-		<TR-Detail>순양함 기함, 구축함 2척 이상 함대로 1-2, 1-3, 1-4 보스전 S승리, 1-6 완주?</TR-Detail>
+		<TR-Detail>순양함 기함, 구축함 2척 이상 함대로 1-2, 1-3, 1-4, 1-5 보스전 S승리?</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>854</ID>
