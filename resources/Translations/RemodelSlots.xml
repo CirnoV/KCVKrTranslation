@@ -10,7 +10,7 @@ ShipName값이 있는 경우에는 무조건 WeekDays값이 존재해야 합니�
 
 WeekDays1이 246이고 WeekDays2가 345인 경우에는 AllWeekdays의 값은 23456이 됩니다.
 -->
-<RemodelSlots Version="1.2.9">
+<RemodelSlots Version="1.2.10">
 	<RemodelSlot>
 		<SlotItemName>九六式艦戦</SlotItemName>
 		<AllWeekdays>1234567</AllWeekdays>
@@ -1602,6 +1602,71 @@ MAX: Ro.44 수상전투기 x1</ToolTip>
 
 0~5: 즈이운 x2
 6~9: Ro.44 수상전투기 x1
+MAX: 없음</ToolTip>
+	</RemodelSlot>
+	<RemodelSlot>
+		<SlotItemName>零式艦戦63型(爆戦)</SlotItemName>
+		<AllWeekdays>4</AllWeekdays>
+		<StartScrew>4</StartScrew>
+		<MidScrew>5</MidScrew>
+		<ShipName1>鈴谷航改二</ShipName1>
+		<WeekDays1>4</WeekDays1>
+		<ToolTip>장비변환 없음
+
+0~5: 영식 함상전투기 52형 x3
+6~9: 렛푸 x1
+MAX: 없음</ToolTip>
+	</RemodelSlot>
+	<RemodelSlot>
+		<SlotItemName>8cm高角砲</SlotItemName>
+		<AllWeekdays>1234567</AllWeekdays>
+		<StartScrew>3</StartScrew>
+		<MidScrew>4</MidScrew>
+		<LastScrew>?</LastScrew>
+		<ShipName1>阿賀野</ShipName1>
+		<WeekDays1>1567</WeekDays1>
+		<ShipName2>能代</ShipName2>
+		<WeekDays2>1267</WeekDays2>
+		<ShipName3>矢矧</ShipName3>
+		<WeekDays3>123</WeekDays3>
+		<ShipName4>鈴谷改二</ShipName4>
+		<WeekDays4>4</WeekDays4>
+		<ToolTip>장비변환  ???
+
+0~5: 10cm 연장고각포 x1
+6~9: 10cm 연장고각포 x2
+MAX: ???</ToolTip>
+	</RemodelSlot>
+	<RemodelSlot>
+		<SlotItemName>8cm高角砲改＋増設機銃</SlotItemName>
+		<AllWeekdays>4</AllWeekdays>
+		<StartScrew>4</StartScrew>
+		<MidScrew>?</MidScrew>
+		<ShipName1>矢矧</ShipName1>
+		<WeekDays1>4</WeekDays1>
+		<ShipName2>酒匂</ShipName2>
+		<WeekDays2>4</WeekDays2>
+		<ShipName3>鈴谷改二</ShipName3>
+		<WeekDays3>4/WeekDays3>
+		<ToolTip>장비변환 없음
+
+0~5: 10cm 연장고각포 x2
+6~9: ???
+MAX: 없음</ToolTip>
+	</RemodelSlot>
+	<RemodelSlot>
+		<SlotItemName>強風改</SlotItemName>
+		<AllWeekdays>4</AllWeekdays>
+		<StartScrew>6</StartScrew>
+		<MidScrew>7</MidScrew>
+		<ShipName1>瑞穂</ShipName1>
+		<WeekDays1>4</WeekDays1>
+		<ShipName2>鈴谷改二</ShipName2>
+		<WeekDays2>4</WeekDays2>
+		<ToolTip>장비변환 없음
+
+0~5: 시덴改2 x1
+6~9: 시덴改2 x1
 MAX: 없음</ToolTip>
 	</RemodelSlot>
 </RemodelSlots>
