@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.1.47">
+<Equipment Version="1.1.48">
 	<Item>
 		<JP-Name>12cm単装砲</JP-Name>
 		<TR-Name>12cm 단장포</TR-Name>
@@ -1193,7 +1193,52 @@
 		<TR-Name>1식 전투기 하야부사 3형甲(54전대)</TR-Name>
 	</Item>
 	<Item>
+		<JP-Name>一式戦 隼III型改(55戦隊)</JP-Name>
+		<TR-Name>1식 전투기 하야부사 3형改(55전대)</TR-Name>
+	</Item>
+	<Item>
 		<JP-Name>一式戦 隼II型(64戦隊)</JP-Name>
 		<TR-Name>1식 전투기 하야부사 2형(64전대)</TR-Name>
+	</Item>
+
+	<Item>
+		<JP-Name>九五式爆雷</JP-Name>
+		<TR-Name>95식 폭뢰</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>二式爆雷</JP-Name>
+		<TR-Name>2식 폭뢰</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>九六式艦戦改</JP-Name>
+		<TR-Name>96식 함상전투기改</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>7cm単装高角砲(後期型)</JP-Name>
+		<TR-Name>7cm 단장고각포(후기형)</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>特大発動艇+戦車第11連隊</JP-Name>
+		<TR-Name>특대발동정+전차 제11연대</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>30.5cm三連装砲</JP-Name>
+		<TR-Name>30.5cm 삼연장포</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>30.5cm三連装砲改</JP-Name>
+		<TR-Name>30.5cm 삼연장포改</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>深海攻撃哨戒鷹</JP-Name>
+		<TR-Name>심해 공격초계 매</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>深海攻撃哨戒鷹改</JP-Name>
+		<TR-Name>심해 공격초계 매改</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>深海30.5cm三連装砲</JP-Name>
+		<TR-Name>심해 30.5cm 삼연장포</TR-Name>
 	</Item>
 </Equipment>
