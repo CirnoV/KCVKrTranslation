@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.2.55">
+<Quests Version="1.2.56">
 	<Quest>
 		<ID>SF</ID>
 		<JP-Name>初夏の整理整頓</JP-Name>
@@ -1853,5 +1853,33 @@
 		<TR-Name>전과 확장 임무! "Z작전" 전단 작전</TR-Name>
 		<JP-Detail>戦果拡張作戦：我が第一艦隊に精鋭艦艇を集中配備、同精鋭艦隊を以て、南西諸島の沖ノ島海域、&lt;br&gt;中部海域哨戒線、グアノ環礁沖の敵艦隊を撃破、中部北海域ピーコック島の敵戦力を破砕殲滅せよ！</JP-Detail>
 		<TR-Detail>2-4, 6-1, 6-3, 6-4 보스전 승리?</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>180</ID>
+		<JP-Name>新編「第一戦隊」を編成せよ！</JP-Name>
+		<TR-Name>신편 제1전대를 편성하라!</TR-Name>
+		<JP-Detail>編成任務：第一艦隊に新改装された長門型戦艦一番艦「長門改二」及び同二番艦「陸奥改」からなる&lt;br&gt;新編第一戦隊を配備せよ！</JP-Detail>
+		<TR-Detail>1함대에 나가토改2 기함, 무츠改 편성</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>424</ID>
+		<JP-Name>輸送船団護衛を強化せよ！</JP-Name>
+		<TR-Name>수송선단 호위를 강화하라!</TR-Name>
+		<JP-Detail>遠征任務：「海上護衛任務」を反復実施し、輸送船団の護衛に務めよ！</JP-Detail>
+		<TR-Detail>원정 [5] 해상 호위 임무 5회? 성공</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>844</ID>
+		<JP-Name>精鋭「第八駆逐隊」突入せよ！</JP-Name>
+		<TR-Name>정예 제8구축대 돌입하라!</TR-Name>
+		<JP-Detail>「荒潮改二」を旗艦とし、僚艦に「第八駆逐隊」から1隻を配備した精鋭第1艦隊で&lt;br&gt;サーモン海域北方に突入、同方面に接近する有力な敵艦隊を捕捉、同方面の敵戦力の漸減に努めよ！</JP-Detail>
+		<TR-Detail>아라시오改2 기함, 아사시오 오오시오 미치시오 중 하나를 포함한 함대로 5-5 보스전 A승 이상 2회</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>855</ID>
+		<JP-Name>海上護衛体制の強化に努めよ！</JP-Name>
+		<TR-Name>해상 호위 체제 강화에 힘쓰자!</TR-Name>
+		<JP-Detail>海上護衛作戦：駆逐艦または海防艦3隻以上を含む護衛艦隊を編成し、鎮守府海域の製油所地帯沿岸、&lt;br&gt;南西諸島防衛線、鎮守府近海、鎮守府近海航路にそれぞれ展開、各海域における作戦を成功させよ！</JP-Detail>
+		<TR-Detail>구축함 또는 해방함 3척 이상 포함한 함대로 1-3, 1-4, 1-5, 1-6 보스전 A승 이상</TR-Detail>
 	</Quest>
 </Quests>
