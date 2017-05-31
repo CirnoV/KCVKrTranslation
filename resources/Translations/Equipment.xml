@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.1.50">
+<Equipment Version="1.1.51">
 	<Item>
 		<JP-Name>12cm単装砲</JP-Name>
 		<TR-Name>12cm 단장포</TR-Name>
@@ -1193,8 +1193,8 @@
 		<TR-Name>1식 전투기 하야부사 3형甲(54전대)</TR-Name>
 	</Item>
 	<Item>
-		<JP-Name>一式戦 隼III型改(55戦隊)</JP-Name>
-		<TR-Name>1식 전투기 하야부사 3형改(55전대)</TR-Name>
+		<JP-Name>爆装一式戦 隼III型改(55戦隊)</JP-Name>
+		<TR-Name>폭장 1식 전투기 하야부사 3형改(55전대)</TR-Name>
 	</Item>
 	<Item>
 		<JP-Name>一式戦 隼II型(64戦隊)</JP-Name>
@@ -1242,7 +1242,7 @@
 		<TR-Name>심해 12inch 삼연장포</TR-Name>
 	</Item>
 	<Item>
-		<JP-Name>試製41cm三連装砲改</JP-Name>
-		<TR-Name>시제 41cm 3연장포改</TR-Name>
+		<JP-Name>41cm三連装砲改</JP-Name>
+		<TR-Name>41cm 3연장포改</TR-Name>
 	</Item>
 </Equipment>
