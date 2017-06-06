@@ -10,7 +10,7 @@ ShipName값이 있는 경우에는 무조건 WeekDays값이 존재해야 합니�
 
 WeekDays1이 246이고 WeekDays2가 345인 경우에는 AllWeekdays의 값은 23456이 됩니다.
 -->
-<RemodelSlots Version="1.2.14">
+<RemodelSlots Version="1.2.15">
 	<RemodelSlot>
 		<SlotItemName>九六式艦戦</SlotItemName>
 		<AllWeekdays>1234567</AllWeekdays>
@@ -182,6 +182,8 @@ MAX: 없음</ToolTip>
 		<WeekDays1>167</WeekDays1>
 		<ShipName2>翔鶴</ShipName2>
 		<WeekDays2>12</WeekDays2>
+		<ShipName3>鈴谷航改二</ShipName3>
+		<WeekDays3>12</WeekDays3>
 		<ToolTip>장비변환 없음
 
 0~5: 영식 함상전투기 52형 x2
@@ -1040,7 +1042,7 @@ MAX: 없음</ToolTip>
 		<ShipName2>文月</ShipName2>
 		<WeekDays2>4567</WeekDays2>
 		<Upgrade3>25mm連装機銃</Upgrade3>
-		<ShipName3>鬼怒改二</ShipName3>
+		<ShipName3>鬼怒</ShipName3>
 		<WeekDays3>5</WeekDays3>
 		<ToolTip>장비변환시  25mm 연장기관총 ★5
 
@@ -1064,7 +1066,7 @@ MAX: 25mm 단장기관총 x1</ToolTip>
 		<ShipName3>五十鈴改二</ShipName3>
 		<WeekDays3>17</WeekDays3>
 		<Upgrade4>25mm三連装機銃</Upgrade4>
-		<ShipName4>鬼怒改二</ShipName4>
+		<ShipName4>鬼怒</ShipName4>
 		<WeekDays4>4</WeekDays4>
 		<ToolTip>장비변환시  25mm 3연장기관총 ★3
 
@@ -1231,6 +1233,9 @@ MAX: 없음</ToolTip>
 		<Upgrade3>Ro.44水上戦闘機</Upgrade3>
 		<ShipName3>Roma改</ShipName3>
 		<WeekDays3>34</WeekDays3>
+		<Upgrade4>Ro.44水上戦闘機</Upgrade4>
+		<ShipName4>Zara due</ShipName4>
+		<WeekDays4>567</WeekDays4>
 		<ToolTip>장비변환시  Ro.44 수상전투기
 
 0~5: 영식 수상정찰기 x1
@@ -1293,7 +1298,7 @@ MAX: 없음</ToolTip>
 		<WeekDays3>127</WeekDays3>
 		<Upgrade4>特大発動艇</Upgrade4>
 		<ShipName4>鬼怒改二</ShipName4>
-		<WeekDays4>67</WeekDays4>
+		<WeekDays4>1567</WeekDays4>
 		<ToolTip>장비변환시  대발동정(89식 중전차&amp;육전대), 특대발동정
 
 0~5: 드럼통(수송용) x1
@@ -1496,11 +1501,11 @@ MAX: 없음</ToolTip>
 	</RemodelSlot>
 	<RemodelSlot>
 		<SlotItemName>潜水艦搭載電探&amp;水防式望遠鏡</SlotItemName>
-		<AllWeekdays>345</AllWeekdays>
+		<AllWeekdays>2345</AllWeekdays>
 		<StartScrew>7</StartScrew>
 		<MidScrew>8</MidScrew>
 		<ShipName1>伊401改</ShipName1>
-		<WeekDays1>345</WeekDays1>
+		<WeekDays1>2345</WeekDays1>
 		<ToolTip>장비변환 없음
 
 0~5: 22호대수상전탐 x2
@@ -1509,11 +1514,11 @@ MAX: 없음</ToolTip>
 	</RemodelSlot>
 	<RemodelSlot>
 		<SlotItemName>203mm/53 連装砲</SlotItemName>
-		<AllWeekdays>34</AllWeekdays>
+		<AllWeekdays>1234</AllWeekdays>
 		<StartScrew>3</StartScrew>
 		<MidScrew>4</MidScrew>
 		<ShipName1>Zara due</ShipName1>
-		<WeekDays1>34</WeekDays1>
+		<WeekDays1>1234</WeekDays1>
 		<ToolTip>장비변환 없음
 
 0~5: 20.3cm 연장포 x2
@@ -1527,11 +1532,11 @@ MAX: 없음</ToolTip>
 		<MidScrew>0</MidScrew>
 		<LastScrew>0</LastScrew>
 		<ShipName1>Верный</ShipName1>
-		<WeekDays1>4</WeekDays1>
+		<WeekDays1>1234</WeekDays1>
 		<ShipName2>酒匂</ShipName2>
-		<WeekDays2>45</WeekDays2>
+		<WeekDays2>2345</WeekDays2>
 		<ShipName3>Zara due</ShipName3>
-		<WeekDays3>34</WeekDays3>
+		<WeekDays3>234</WeekDays3>
 		<ToolTip>장비변환시  함본신설계 증설벌지(중형함)
 
 0~5: 증설벌지(중형함) x1
@@ -1667,6 +1672,19 @@ MAX: 없음</ToolTip>
 
 0~5: 시덴改2 x1
 6~9: 시덴改2 x1
+MAX: 없음</ToolTip>
+	</RemodelSlot>
+	<RemodelSlot>
+		<SlotItemName>41cm三連装砲改</SlotItemName>
+		<AllWeekdays>234</AllWeekdays>
+		<StartScrew>6</StartScrew>
+		<MidScrew>7</MidScrew>
+		<ShipName1>長門改二</ShipName1>
+		<WeekDays1>234</WeekDays1>
+		<ToolTip>장비변환 없음
+
+0~5: 41cm 연장포 x2
+6~9: 46cm 3연장포 x2
 MAX: 없음</ToolTip>
 	</RemodelSlot>
 </RemodelSlots>
