@@ -783,13 +783,13 @@ MAX: 10cm 연장고각포 x1</ToolTip>
 		<WeekDays2>1267</WeekDays2>
 		<ShipName3>矢矧</ShipName3>
 		<WeekDays3>123</WeekDays3>
-		<Upgrade3>8cm高角砲改＋増設機銃</Upgrade3>
+		<Upgrade3>8cm高角砲改+増設機銃</Upgrade3>
 		<ShipName4>鈴谷改二</ShipName4>
 		<WeekDays4>345</WeekDays4>
-		<Upgrade4>8cm高角砲改＋増設機銃</Upgrade4>
+		<Upgrade4>8cm高角砲改+増設機銃</Upgrade4>
 		<ShipName5>熊野改二</ShipName5>
 		<WeekDays5>234</WeekDays5>
-		<Upgrade5>8cm高角砲改＋増設機銃</Upgrade5>
+		<Upgrade5>8cm高角砲改+増設機銃</Upgrade5>
 		<ToolTip>장비변환  8cm 고각포改+증설기관총
 
 0~5: 10cm 연장고각포 x1
@@ -1129,7 +1129,7 @@ MAX: 없음</ToolTip>
 		<Upgrade2>32号対水上電探改</Upgrade2>
 		<ShipName2>日向</ShipName2>
 		<WeekDays2>123</WeekDays2>
-		<Upgrade2>32号対水上電探改</Upgrade3>
+		<Upgrade3>32号対水上電探改</Upgrade3>
 		<ShipName3>日向改</ShipName3>
 		<WeekDays3>23</WeekDays3>
 		<ToolTip>장비변환시  32호 대수상 레이더改
