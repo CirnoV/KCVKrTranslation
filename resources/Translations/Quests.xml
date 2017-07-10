@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.2.59">
+<Quests Version="1.2.60">
 	<Quest>
 		<ID>SF</ID>
 		<JP-Name>初夏の整理整頓</JP-Name>
@@ -1936,7 +1936,7 @@
 		<JP-Name>新編「第四水雷戦隊」を編成せよ！</JP-Name>
 		<TR-Name>신편 「제4수뢰전대」를 편성하라!</TR-Name>
 		<JP-Detail>編成任務：第一艦隊旗艦に「由良改二」を配備、随伴艦に二駆「村雨」「夕立」「春雨」「五月雨」&lt;br&gt;他1隻の駆逐艦を配備、新編「第四水雷戦隊」を編成せよ！</JP-Detail>
-		<TR-Detail>유라改2 기함, 시구레, 유다치, 하루사메, 사미다레, 그 외 구축함 1척 편성</TR-Detail>
+		<TR-Detail>유라改2 기함, 무라사메, 유다치, 하루사메, 사미다레, 그 외 구축함 1척 편성</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>664</ID>
