@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.1.55">
+<Equipment Version="1.1.56">
 	<Item>
 		<JP-Name>12cm単装砲</JP-Name>
 		<TR-Name>12cm 단장포</TR-Name>
@@ -1264,5 +1264,9 @@
 	<Item>
 		<JP-Name>零式水上偵察機11形乙</JP-Name>
 		<TR-Name>영식 수상정찰기 11형乙</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>戦闘糧食(特別なおにぎり)</JP-Name>
+		<TR-Name>전투식량(특별 주먹밥)</TR-Name>
 	</Item>
 </Equipment>
