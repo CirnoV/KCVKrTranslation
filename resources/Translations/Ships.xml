@@ -2368,4 +2368,64 @@
 		<JP-Name>文月改二</JP-Name>
 		<TR-Name>후미즈키改2</TR-Name>
 	</Ship>
+	<Ship>
+		<JP-Name>伊504</JP-Name>
+		<TR-Name>이-504</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>Luigi Torelli</JP-Name>
+		<TR-Name>루이지 토렐리</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>UIT-25</JP-Name>
+		<TR-Name>UIT-25</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>松輪</JP-Name>
+		<TR-Name>마츠와</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>松輪改</JP-Name>
+		<TR-Name>마츠와改</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>Ark Royal</JP-Name>
+		<TR-Name>아크로열</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>Ark Royal改</JP-Name>
+		<TR-Name>아크로열改</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>Richelieu</JP-Name>
+		<TR-Name>리슐리외</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>Richelieu改</JP-Name>
+		<TR-Name>리슐리외改</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>旗風</JP-Name>
+		<TR-Name>하타카제</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>旗風改</JP-Name>
+		<TR-Name>하타카제改</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>天霧</JP-Name>
+		<TR-Name>아마기리</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>天霧改</JP-Name>
+		<TR-Name>아마기리改</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>狭霧</JP-Name>
+		<TR-Name>사기리</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>狭霧改</JP-Name>
+		<TR-Name>사기리改</TR-Name>
+	</Ship>
 </Ships>

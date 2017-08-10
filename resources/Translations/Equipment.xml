@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.1.58">
+<Equipment Version="1.1.59">
 	<Item>
 		<JP-Name>12cm単装砲</JP-Name>
 		<TR-Name>12cm 단장포</TR-Name>
@@ -1276,5 +1276,45 @@
 	<Item>
 		<JP-Name>Swordfish Mk.II(熟練)</JP-Name>
 		<TR-Name>Swordfish Mk.II(숙련)</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>Swordfish Mk.III(熟練)</JP-Name>
+		<TR-Name>Swordfish Mk.III(숙련)</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>38cm四連装砲</JP-Name>
+		<TR-Name>38cm 4연장포</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>38cm四連装砲改</JP-Name>
+		<TR-Name>38cm 4연장포改</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>15.2cm三連装砲</JP-Name>
+		<TR-Name>15.2cm 3연장포</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>Skua</JP-Name>
+		<TR-Name>Skua</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>Fulmar</JP-Name>
+		<TR-Name>Fulmar</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>Spitfire Mk.I</JP-Name>
+		<TR-Name>Spitfire Mk.I</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>Spitfire Mk.V</JP-Name>
+		<TR-Name>Spitfire Mk.V</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>Seafire LF.Mk.III</JP-Name>
+		<TR-Name>Seafire LF.Mk.III</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>Spitfire Mk.IX(熟練)</JP-Name>
+		<TR-Name>Spitfire Mk.IX(숙련)</TR-Name>
 	</Item>
 </Equipment>
