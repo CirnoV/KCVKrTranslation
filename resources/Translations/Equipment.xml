@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.1.60">
+<Equipment Version="1.1.61">
 	<Item>
 		<JP-Name>12cm単装砲</JP-Name>
 		<TR-Name>12cm 단장포</TR-Name>
@@ -1323,6 +1323,14 @@
 	</Item>
 	<Item>
 		<JP-Name>深海15inch連装砲後期型</JP-Name>
-		<TR-Name>심해 15inch 4연장포 후기형</TR-Name>
+		<TR-Name>심해 15inch 연장포 후기형</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>F6F-3N</JP-Name>
+		<TR-Name>F6F-3N</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>F6F-5N</JP-Name>
+		<TR-Name>F6F-5N</TR-Name>
 	</Item>
 </Equipment>
