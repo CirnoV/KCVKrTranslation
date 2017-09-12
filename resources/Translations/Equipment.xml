@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.1.61">
+<Equipment Version="1.1.62">
 	<Item>
 		<JP-Name>12cm単装砲</JP-Name>
 		<TR-Name>12cm 단장포</TR-Name>
@@ -1332,5 +1332,21 @@
 	<Item>
 		<JP-Name>F6F-5N</JP-Name>
 		<TR-Name>F6F-5N</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>TBF</JP-Name>
+		<TR-Name>TBF</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>TBM-3D</JP-Name>
+		<TR-Name>TBM-3D</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>夜間作戦航空要員</JP-Name>
+		<TR-Name>야간작전항공요원</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>夜間作戦航空要員+熟練甲板員</JP-Name>
+		<TR-Name>야간작전항공요원+숙련갑판원</TR-Name>
 	</Item>
 </Equipment>
