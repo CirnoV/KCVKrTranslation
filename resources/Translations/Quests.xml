@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.2.61">
+<Quests Version="1.2.62">
 	<Quest>
 		<ID>SF</ID>
 		<JP-Name>初夏の整理整頓</JP-Name>
@@ -1972,5 +1972,104 @@
 		<TR-Name>전선의 항공 정찰을 실시하라!</TR-Name>
 		<JP-Detail>偵察任務：水上機母艦1隻と軽巡2隻を中核とした偵察艦隊を、中部海域グアノ環礁沖海域に展開、&lt;br&gt;航空偵察作戦「K作戦」を反復実施せよ！さらに同方面の敵艦隊を捕捉、敵戦力の撃破に努めよ！</JP-Detail>
 		<TR-Detail>정찰 임무: 수상기모함 1척, 경순 2척을 포함한 함대로 6-3 보스전 A승 이상 2회다</TR-Detail>
+	</Quest>
+
+	<Quest>
+		<ID>861</ID>
+		<JP-Name>強行輸送艦隊、抜錨！</JP-Name>
+		<TR-Name>강행수송함대, 발묘!</TR-Name>
+		<JP-Detail>航路護衛任務：航空戦艦(または補給艦でも可)2隻を中核とした艦隊で、鎮守府近海航路における&lt;br&gt;輸送船団護衛作戦を実施。同輸送護衛作戦を2回成功させよ！</JP-Detail>
+		<TR-Detail>항전 또는 보급함 2척 포함한 함대로 1-6 2회 수행</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>426</ID>
+		<JP-Name>海上通商航路の警戒を厳とせよ！</JP-Name>
+		<TR-Name>해상통상항로의 경계를 엄격히 하라!</TR-Name>
+		<JP-Detail>遠征任務：遠征任務「警備任務」「対潜警戒任務」「海上護衛任務」「強行偵察任務」&lt;br&gt;を実施し、敵の通商破壊部隊を制圧、海上通商航路の安全を確保せよ！</JP-Detail>
+		<TR-Detail>[3] 경비 임무, [4] 대잠 경계 임무, [5] 해상 호위 임무, [10] 강행 정찰 임무  원정을 한 번씩 성공</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>863</ID>
+		<JP-Name>精鋭「第二二駆逐隊」出撃せよ！</JP-Name>
+		<TR-Name>정예 제 22구축대 출격하라!</TR-Name>
+		<JP-Detail>出撃任務：再編した精鋭「第二二駆逐隊」を含む精強な水雷戦隊で北方海域キス島沖に出撃、&lt;br&gt;キス島撤退作戦を完全成功させよ！</JP-Detail>
+		<TR-Detail>「후미즈키改2」 「사츠키改2」 「미나즈키改」 「나가츠키改」를 포함한 수뢰전대로 3-2 보스전 S승리?</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>860</ID>
+		<JP-Name>旗艦「由良」、抜錨！</JP-Name>
+		<TR-Name>기함 유라, 발묘!</TR-Name>
+		<JP-Detail>出撃任務：旗艦に「由良改二」、随伴艦に二駆「村雨」「夕立」「春雨」「五月雨」及び「秋月」から&lt;br&gt;二隻以上を配備した第一艦隊を展開、東部オリョール海及び南方海域前面の敵戦力を撃滅せよ！</JP-Detail>
+		<TR-Detail>유라改2 기함, "시구레, 유다치, 하루사메, 사미다레, 아키즈키" 중 2척을 포함한 함대로 2-3, 5-1 보스전 S승?</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>185</ID>
+		<JP-Name>精強「任務部隊」を編成せよ！</JP-Name>
+		<TR-Name>정예 임무부대를 편성하라!</TR-Name>
+		<JP-Detail>編成任務：第一艦隊旗艦に「Saratoga Mk.II」または同「Mod.2」を配備、随伴艦に&lt;br&gt;軽巡洋艦1隻、駆逐艦2隻以上を配した夜間作戦可能な機動部隊を新編せよ！</JP-Detail>
+		<TR-Detail>1함대에 Saratoga Mk.II 또는 Mod.2 기함, 경순1, 구축2 포함 편성</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>316</ID>
+		<JP-Name>輸送部隊の練度向上に努めよ！</JP-Name>
+		<TR-Name>수송 부대의 숙련도 향상에 노력하라!</TR-Name>
+		<JP-Detail>演習任務：輸送部隊の練度向上を図る！本日中に演習で4回以上「勝利」せよ！</JP-Detail>
+		<TR-Detail>05시부터 다음날 04:59까지 연습전 4회 B승리 이상 기록</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>864</ID>
+		<JP-Name>精強大型航空母艦、抜錨！</JP-Name>
+		<TR-Name>정예 대형 항공모함, 발묘!</TR-Name>
+		<JP-Detail>出撃任務：「Saratoga Mk.II」または同「Mod.2」を旗艦とした「任務部隊」で、南方海域サーモン海域&lt;br&gt;北方及び中部海域MS諸島沖に展開、同海域敵戦力を捕捉撃滅、「MS諸島防衛戦」を成功させよ！</JP-Detail>
+		<TR-Detail>Saratoga Mk.II 또는 Mod.2 기함, 경순1, 구축2 포함 함대로 5-5, 6-2 보스전 S 승리?</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>669</ID>
+		<JP-Name>夜戦型艦上戦闘機の開発</JP-Name>
+		<TR-Name>야전형 함상전투기 개발</TR-Name>
+		<JP-Detail>練度&amp;改修maxの「F6F-3」を秘書艦一番スロットに搭載、 「13号対空電探」x2 「22号対水上電探」x2&lt;br&gt;を廃棄、開発資材x30、改修資材x6、ボーキサイト5,000、「新型航空兵装資材」x1を準備せよ！</JP-Detail>
+		<TR-Detail>숙련도, 개수 max F6F-3을 비서함 1번 슬롯에 탑재, 개발자재 30개와 개수자재 6개, 보크사이트 5000, 신형 항공 병기 자재 하나를 준비하고, 13호 대공 레이더 2개와 22호 대수상 레이더 2개를 폐기</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>852</ID>
+		<JP-Name>改装攻撃型軽空母、前線展開せよ！</JP-Name>
+		<TR-Name>개장 공격형 경항모, 전선 전개하라!</TR-Name>
+		<JP-Detail>改装航空母艦「鈴谷航改二」を旗艦とした精強な機動部隊を編成、同艦隊を中部海域に進出。&lt;br&gt;MS諸島沖、KW環礁沖海域に展開し、同海域の敵機動部隊を捕捉、これを撃滅せよ！</JP-Detail>
+		<TR-Detail>스즈야航改2 기함, 6-2, 6-5 보스전 S승리?</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>666</ID>
+		<JP-Name>精鋭「瑞雲」隊の編成</JP-Name>
+		<TR-Name>정예 즈이운 부대 편성</TR-Name>
+		<JP-Detail>秘書艦「日向改」の四番スロットに改修max「瑞雲(六三四空)」を搭載して、ドラム缶(輸送用)x2を廃棄。&lt;br&gt;さらに「九九式艦爆」x2「瑞雲」x2を用意せよ！　※新飛行隊を編成する「熟練搭乗員」が必要です。</JP-Detail>
+		<TR-Detail>비서함 휴가改 의 4번 슬롯에 개수 max 즈이운(634 해군항공대) 를 탑재, 99식 함상폭격기 2개와 즈이운 2개와 숙련탑승원을 준비하고, 드럼통(수송용) 2개 폐기</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>865</ID>
+		<JP-Name>夜間作戦空母、前線に出撃せよ！</JP-Name>
+		<TR-Name>야간작전 항공모함, 전선에 출격하라!</TR-Name>
+		<JP-Detail>出撃任務：「Saratoga Mk.II」を旗艦とした第一艦隊を KW環礁沖海域に展開、敵機動部隊を迎撃！&lt;br&gt;「空母機動部隊迎撃戦」を見事成功させよ！　夜戦作戦空母、抜錨！　前線に出撃せよ！</JP-Detail>
+		<TR-Detail>Saratoga Mk.II 기함 (Mod.II 안됨), 6-5 보스전 S승리?</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>181</ID>
+		<JP-Name>新編「第七戦隊」を編成せよ！</JP-Name>
+		<TR-Name>신편 제 7전대를 편성하라!</TR-Name>
+		<JP-Detail>編成任務：第一艦隊旗艦に新改装された改鈴谷型「熊野改二」、同二番艦に「鈴谷改二」、&lt;br&gt;僚艦に「最上改」「三隈改」を配した新編第七戦隊を配備せよ！</JP-Detail>
+		<TR-Detail>1함대 기함에 쿠마노改2, 2번함에 스즈야改2, 수반함으로 모가미改, 미쿠마改를 포함한 함대 편성</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>660</ID>
+		<JP-Name>精鋭「水戦」隊の増勢</JP-Name>
+		<TR-Name>정예 수전 부대의 증세</TR-Name>
+		<JP-Detail>精鋭飛行隊の増勢：練度max及び改修maxの「二式水戦改」を一番スロットに搭載した秘書艦で、&lt;br&gt;「零式艦戦21型」x2「瑞雲」x2を廃棄！　※新飛行隊を編成する「熟練搭乗員」が必要です。</JP-Detail>
+		<TR-Detail>숙련도, 개수 max 2식 수상전투기改를 비서함 1번 슬롯에 탑재, 숙련탑승원을 준비하고, 영식 함상전투기 21형 2개, 즈이운 2개 폐기</TR-Detail>
+	</Quest>
+	<Quest>
+		<ID>858</ID>
+		<JP-Name>新編「第七戦隊」、出撃せよ！</JP-Name>
+		<TR-Name>신편 제 7전대, 출격하라!</TR-Name>
+		<JP-Detail>出撃任務：新編「第七戦隊」を出撃！　カレー洋リランカ島沖「深海東洋艦隊漸減作戦」、&lt;br&gt;MS諸島沖「MS諸島防衛戦」において、敵艦隊主力を捕捉、これを撃滅せよ！</JP-Detail>
+		<TR-Detail>쿠마노改2 기함, 2번함에 스즈야改2, 수반함으로 모가미改, 미쿠마改를 포함한 함대로 4-5, 6-2 보스전 S승리?</TR-Detail>
 	</Quest>
 </Quests>
