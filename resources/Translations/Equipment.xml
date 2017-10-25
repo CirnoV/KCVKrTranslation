@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.1.63">
+<Equipment Version="1.1.64">
 	<Item>
 		<JP-Name>12cm単装砲</JP-Name>
 		<TR-Name>12cm 단장포</TR-Name>
@@ -1360,5 +1360,9 @@
 	<Item>
 		<JP-Name>HF/DF+Type144/147 ASDIC</JP-Name>
 		<TR-Name>HF/DF+Type144/147 ASDIC</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>12.7cm連装砲C型改二</JP-Name>
+		<TR-Name>12.7cm 연장포C형 改2</TR-Name>
 	</Item>
 </Equipment>
