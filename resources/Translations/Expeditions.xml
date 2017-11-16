@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Expeditions Version="1.0.26">
+<Expeditions Version="1.0.27">
 	<Expedition>
 		<ID>1</ID>
 		<TR-Name>연습 항해</TR-Name>
@@ -575,8 +575,8 @@
 		<NeedShip>4척(상세 불명)</NeedShip>
 		<FormedNeedShip>4;</FormedNeedShip>
 		<Time>0;25</Time>
-		<FuelLoss>80</FuelLoss>
-		<ArmoLoss>70</ArmoLoss>
+		<FuelLoss>35</FuelLoss>
+		<ArmoLoss>0</ArmoLoss>
 		<Fuel>45</Fuel>
 		<Armo>45</Armo>
 	</Expedition>
@@ -588,8 +588,8 @@
 		<NeedShip>4척(구축+해방함 합계 4척)</NeedShip>
 		<FormedNeedShip>4;</FormedNeedShip>
 		<Time>0;55</Time>
-		<FuelLoss>80</FuelLoss>
-		<ArmoLoss>70</ArmoLoss>
+		<FuelLoss>50</FuelLoss>
+		<ArmoLoss>20</ArmoLoss>
 		<Fuel>70</Fuel>
 		<Armo>40</Armo>
 		<Bo>10</Bo>
@@ -602,11 +602,24 @@
 		<NeedShip>5척(상세 불명)</NeedShip>
 		<FormedNeedShip>5;</FormedNeedShip>
 		<Time>2;15</Time>
-		<FuelLoss>80</FuelLoss>
-		<ArmoLoss>70</ArmoLoss>
+		<FuelLoss>65</FuelLoss>
+		<ArmoLoss>35</ArmoLoss>
 		<Fuel>120</Fuel>
 		<Metal>60</Metal>
 		<Bo>60</Bo>
+	</Expedition>
+	<Expedition>
+		<ID>110</ID>
+		<DisplayID>B1</DisplayID>
+		<TR-Name>남서방면 항공정찰 작전</TR-Name>
+		<TR-Detail>색적 능력이 높은 수상기모함 및 경순을 포함하는 함대로 적 정세를 정찰하라!</TR-Detail>
+		<NeedShip>6척(상세 불명)</NeedShip>
+		<FormedNeedShip>6;</FormedNeedShip>
+		<Time>0;35</Time>
+		<FuelLoss>45</FuelLoss>
+		<ArmoLoss>15</ArmoLoss>
+		<Metal>10</Metal>
+		<Bo>30</Bo>
 	</Expedition>
 
 	<Expedition>
