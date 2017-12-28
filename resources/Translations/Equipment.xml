@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.1.66">
+<Equipment Version="1.1.67">
 	<Item>
 		<JP-Name>12cm単装砲</JP-Name>
 		<TR-Name>12cm 단장포</TR-Name>
@@ -1400,5 +1400,21 @@
 	<Item>
 		<JP-Name>遊撃部隊 艦隊司令部</JP-Name>
 		<TR-Name>유격부대 함대사령부</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>12.7cm連装砲D型改二</JP-Name>
+		<TR-Name>12.7cm 연장포D형 改2</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>北方迷彩(+北方装備)</JP-Name>
+		<TR-Name>북방미채(+북방장비)</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>深海14inch海峡連装砲</JP-Name>
+		<TR-Name>심해 14inch 해협연장포</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>深海待伏魚雷</JP-Name>
+		<TR-Name>심해대복어뢰</TR-Name>
 	</Item>
 </Equipment>
