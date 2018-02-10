@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.2.65">
+<Quests Version="1.2.66">
 	<Quest>
 		<ID>SF</ID>
 		<JP-Name>初夏の整理整頓</JP-Name>
@@ -2161,7 +2161,7 @@
 		<JP-Name>新編「四航戦」、全力出撃！</JP-Name>
 		<TR-Name>신편 「4항전」 전력 출격!</TR-Name>
 		<JP-Detail>航空戦艦「伊勢改」「日向改」及び軽巡「大淀改」と1隻以上の駆逐艦を含む新編第四航空戦隊を編成、&lt;br&gt;鎮守府近海航路、沖ノ島沖及び北方AL海域戦闘哨戒、カレー洋リランカ島沖の作戦に投入せよ！</JP-Detail>
-		<TR-Detail>이세改 휴가改 오요도改 구축1 포함한 함대로 1-6, 2-5, 3-5, 4-5 보스전 S승?</TR-Detail>
+		<TR-Detail>이세改 휴가改 오요도改 구축1 포함한 함대로 1-6, 2-5, 3-5, 4-5 보스전 A승리 이상</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>673</ID>
