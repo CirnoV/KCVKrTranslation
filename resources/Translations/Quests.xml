@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.2.64">
+<Quests Version="1.2.65">
 	<Quest>
 		<ID>SF</ID>
 		<JP-Name>初夏の整理整頓</JP-Name>
@@ -2147,7 +2147,7 @@
 		<JP-Name>精鋭「第二一駆逐隊」、抜錨準備！</JP-Name>
 		<TR-Name>정예 「제21구축대」, 발묘 준비!</TR-Name>
 		<JP-Detail>精鋭駆逐隊編成任務：捷一号作戦を支援する。同決戦正面の基地航空への資材輸送任務のため、&lt;br&gt;「若葉改」「初春改二」「初霜改二」を含む3～4隻の精鋭「第二一駆逐隊」の編成を完了せよ！</JP-Detail>
-		<TR-Detail>와카바改, 하츠하루改, 하츠시모改2를 포함한 함대를 편성</TR-Detail>
+		<TR-Detail>와카바改, 하츠하루改2, 하츠시모改2를 포함한 함대를 편성</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>878</ID>
@@ -2210,7 +2210,7 @@
 		<JP-Name>精鋭「第二一駆」、猛特訓！</JP-Name>
 		<TR-Name>정예 「제21구축대」, 맹훈련!</TR-Name>
 		<JP-Detail>駆逐隊演習任務：精鋭「第二一駆逐隊」3隻を含む艦隊を編成。作戦に先立ち、猛特訓を開始する！&lt;br&gt;同艦隊で、本日中に演習で4回勝利せよ！</JP-Detail>
-		<TR-Detail>와카바改, 하츠하루改, 하츠시모改2를 포함한 함대로 연습전 4회 승리</TR-Detail>
+		<TR-Detail>와카바改, 하츠하루改2, 하츠시모改2를 포함한 함대로 연습전 4회 승리</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>678</ID>
