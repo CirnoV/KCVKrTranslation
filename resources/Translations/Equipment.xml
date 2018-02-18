@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.1.70">
+<Equipment Version="1.1.71">
 	<Item>
 		<JP-Name>12cm単装砲</JP-Name>
 		<TR-Name>12cm 단장포</TR-Name>
@@ -1432,5 +1432,37 @@
 	<Item>
 		<JP-Name>FM-2</JP-Name>
 		<TR-Name>FM-2</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>紫電改(三四三空) 戦闘301</JP-Name>
+		<TR-Name>시덴改(343항공대) 301전투기대</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>10cm連装高角砲改+増設機銃</JP-Name>
+		<TR-Name>10cm 연장고각포改+증설기총</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>SK レーダー</JP-Name>
+		<TR-Name>SK 레이더</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>SK&SG レーダー</JP-Name>
+		<TR-Name>SK&SG 레이더</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>QF 4.7inch砲 Mk.XII改</JP-Name>
+		<TR-Name>QF 4.7inch포 Mk.XII改</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>51cm連装砲</JP-Name>
+		<TR-Name>51cm 연장포</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>130mm B-13連装砲</JP-Name>
+		<TR-Name>130mm B-13연장포</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>533mm 三連装魚雷</JP-Name>
+		<TR-Name>533mm 삼연장어뢰</TR-Name>
 	</Item>
 </Equipment>
