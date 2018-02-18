@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.1.71">
+<Equipment Version="1.1.72">
 	<Item>
 		<JP-Name>12cm単装砲</JP-Name>
 		<TR-Name>12cm 단장포</TR-Name>
@@ -1446,8 +1446,8 @@
 		<TR-Name>SK 레이더</TR-Name>
 	</Item>
 	<Item>
-		<JP-Name>SK&SG レーダー</JP-Name>
-		<TR-Name>SK&SG 레이더</TR-Name>
+		<JP-Name>SK&amp;SG レーダー</JP-Name>
+		<TR-Name>SK&amp;SG 레이더</TR-Name>
 	</Item>
 	<Item>
 		<JP-Name>QF 4.7inch砲 Mk.XII改</JP-Name>
