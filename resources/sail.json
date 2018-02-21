@@ -1,22 +1,22 @@
 [
     {
         "area": 1, 
-        "color": "#3b8a30", 
+        "color": "#a2a2a2", 
         "name": "1분류"
     }, 
     {
         "area": 2, 
-        "color": "#ab6e35", 
+        "color": "#9baf53", 
         "name": "2분류"
     }, 
     {
         "area": 3, 
-        "color": "#d2aeae", 
+        "color": "#bdbe27", 
         "name": "3분류"
     }, 
     {
         "area": 4, 
-        "color": "#40a013", 
+        "color": "#3e7fd7", 
         "name": "4분류"
     }, 
     {
