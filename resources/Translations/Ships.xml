@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Ships Version="1.0.94">
+<Ships Version="1.0.95">
 	<Ship>
 		<JP-Name>U-511</JP-Name>
 		<TR-Name>U-511</TR-Name>
@@ -1362,19 +1362,19 @@
 	</Ship>
 	<Ship>
 		<JP-Name>千代田甲</JP-Name>
-		<TR-Name>치요다 甲</TR-Name>
+		<TR-Name>치요다甲</TR-Name>
 	</Ship>
 	<Ship>
 		<JP-Name>千代田航</JP-Name>
-		<TR-Name>치요다 航</TR-Name>
+		<TR-Name>치요다航</TR-Name>
 	</Ship>
 	<Ship>
 		<JP-Name>千代田航改</JP-Name>
-		<TR-Name>치요다 航改</TR-Name>
+		<TR-Name>치요다航改</TR-Name>
 	</Ship>
 	<Ship>
 		<JP-Name>千代田航改二</JP-Name>
-		<TR-Name>치요다 航改2</TR-Name>
+		<TR-Name>치요다航改2</TR-Name>
 	</Ship>
 	<Ship>
 		<JP-Name>千代田改</JP-Name>
@@ -1398,19 +1398,19 @@
 	</Ship>
 	<Ship>
 		<JP-Name>千歳甲</JP-Name>
-		<TR-Name>치토세 甲</TR-Name>
+		<TR-Name>치토세甲</TR-Name>
 	</Ship>
 	<Ship>
 		<JP-Name>千歳航</JP-Name>
-		<TR-Name>치토세 航</TR-Name>
+		<TR-Name>치토세航</TR-Name>
 	</Ship>
 	<Ship>
 		<JP-Name>千歳航改</JP-Name>
-		<TR-Name>치토세 航改</TR-Name>
+		<TR-Name>치토세航改</TR-Name>
 	</Ship>
 	<Ship>
 		<JP-Name>千歳航改二</JP-Name>
-		<TR-Name>치토세 航改2</TR-Name>
+		<TR-Name>치토세航改2</TR-Name>
 	</Ship>
 	<Ship>
 		<JP-Name>千歳改</JP-Name>
@@ -2250,11 +2250,11 @@
 	</Ship>
 	<Ship>
 		<JP-Name>鈴谷航改二</JP-Name>
-		<TR-Name>스즈야 航改2</TR-Name>
+		<TR-Name>스즈야航改2</TR-Name>
 	</Ship>
 	<Ship>
 		<JP-Name>熊野航改二</JP-Name>
-		<TR-Name>쿠마노 航改2</TR-Name>
+		<TR-Name>쿠마노航改2</TR-Name>
 	</Ship>
 	<Ship>
 		<JP-Name>Гангут</JP-Name>
@@ -2611,5 +2611,13 @@
 	<Ship>
 		<JP-Name>護衛棲水姫-壊</JP-Name>
 		<TR-Name>호위서수희-괴</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>瑞鳳改二</JP-Name>
+		<TR-Name>즈이호改2</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>瑞鳳改二乙</JP-Name>
+		<TR-Name>즈이호改2乙</TR-Name>
 	</Ship>
 </Ships>
