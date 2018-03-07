@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Expeditions Version="1.0.29">
+<Expeditions Version="1.0.30">
 	<Expedition>
 		<ID>1</ID>
 		<TR-Name>연습 항해</TR-Name>
@@ -121,7 +121,7 @@
 	<Expedition>
 		<ID>10</ID>
 		<TR-Name>강행 정찰 임무</TR-Name>
-		<TR-Detail>수상기모함등을 활용하여 적함대의 동향을 파악하자!</TR-Detail>
+		<TR-Detail>수상정찰기 탑재함 등을 활용하여 적함대의 동향을 파악하자!</TR-Detail>
 		<FlagLv>3</FlagLv>
 		<NeedShip>3척(경순2)</NeedShip>
 		<FormedNeedShip>3;3*2</FormedNeedShip>
