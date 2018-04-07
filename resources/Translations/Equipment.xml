@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.1.74">
+<Equipment Version="1.1.75">
 	<Item>
 		<JP-Name>12cm単装砲</JP-Name>
 		<TR-Name>12cm 단장포</TR-Name>
@@ -1446,8 +1446,8 @@
 		<TR-Name>SK 레이더</TR-Name>
 	</Item>
 	<Item>
-		<JP-Name>SK&amp;SG レーダー</JP-Name>
-		<TR-Name>SK&amp;SG 레이더</TR-Name>
+		<JP-Name>SK+SG レーダー</JP-Name>
+		<TR-Name>SK+SG 레이더</TR-Name>
 	</Item>
 	<Item>
 		<JP-Name>QF 4.7inch砲 Mk.XII改</JP-Name>
@@ -1476,5 +1476,17 @@
 	<Item>
 		<JP-Name>夜復讐深海艦攻</JP-Name>
 		<TR-Name>야간 복수 심해 함상공격기</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>5inch単装砲 Mk.30</JP-Name>
+		<TR-Name>5inch 단장포 Mk.30</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>深海14inch連装砲改</JP-Name>
+		<TR-Name>심해 14inch 연장포改</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>深海16inch三連装砲改</JP-Name>
+		<TR-Name>심해 16inch 삼연장포改</TR-Name>
 	</Item>
 </Equipment>

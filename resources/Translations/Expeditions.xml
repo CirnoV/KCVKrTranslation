@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Expeditions Version="1.0.30">
+<Expeditions Version="1.0.31">
 	<Expedition>
 		<ID>1</ID>
 		<TR-Name>연습 항해</TR-Name>
 		<TR-Detail>진수부 근해를 항해하여 함대 숙련도를 높이자!</TR-Detail>
 		<FlagLv>1</FlagLv>
-		<NeedShip>2척(0)</NeedShip>
+		<NeedShip>최소 2척</NeedShip>
 		<FormedNeedShip>2;</FormedNeedShip>
 		<Time>0;15</Time>
 		<Armo>30</Armo>
@@ -17,7 +17,7 @@
 		<TR-Name>장거리 연습 항해</TR-Name>
 		<TR-Detail>외해까지 발길을 뻗쳐 함대의 숙련도를 높이자!</TR-Detail>
 		<FlagLv>2</FlagLv>
-		<NeedShip>4척(0)</NeedShip>
+		<NeedShip>최소 4척</NeedShip>
 		<FormedNeedShip>4;</FormedNeedShip>
 		<Time>0;30</Time>
 		<Armo>100</Armo>
@@ -30,7 +30,7 @@
 		<TR-Name>경비 임무</TR-Name>
 		<TR-Detail>진수부의 담당해역을 순찰하여 영해의 안전을 지키자!</TR-Detail>
 		<FlagLv>3</FlagLv>
-		<NeedShip>3척(0)</NeedShip>
+		<NeedShip>최소 3척</NeedShip>
 		<FormedNeedShip>3;</FormedNeedShip>
 		<Time>0;20</Time>
 		<Armo>30</Armo>
@@ -44,8 +44,8 @@
 		<TR-Name>대잠 경계 임무</TR-Name>
 		<TR-Detail>수뢰전대를 편성해 영해내를 색적, 대잠 경계임무를 하자!</TR-Detail>
 		<FlagLv>3</FlagLv>
-		<NeedShip>3척(경순1 구축2)</NeedShip>
-		<FormedNeedShip>3;2*2,3*1</FormedNeedShip>
+		<NeedShip>최소 3척. 경순1 구축/해방2 or 구축1 해방3</NeedShip>
+		<FormedNeedShip>3;2*2,3*1;1*2,3*1;1*3,2*1</FormedNeedShip>
 		<Time>0;50</Time>
 		<Armo>60</Armo>
 		<FuelLoss>50</FuelLoss>
@@ -56,8 +56,8 @@
 		<TR-Name>해상 호위 임무</TR-Name>
 		<TR-Detail>호송의 안전을 위해 선단과 동행하여 호위하자!</TR-Detail>
 		<FlagLv>3</FlagLv>
-		<NeedShip>4척(경순1 구축2)</NeedShip>
-		<FormedNeedShip>4;2*2,3*1</FormedNeedShip>
+		<NeedShip>최소 4척. 경순1 구축/해방2 or 구축1 해방3</NeedShip>
+		<FormedNeedShip>4;2*2,3*1;1*2,3*1;1*3,2*1</FormedNeedShip>
 		<Time>1;30</Time>
 		<Armo>200</Armo>
 		<FuelLoss>50</FuelLoss>
@@ -71,7 +71,7 @@
 		<TR-Name>방공 사격 연습</TR-Name>
 		<TR-Detail>적 함재기 내습에 대비해 대공 사격이나 회피훈련을 하자!</TR-Detail>
 		<FlagLv>4</FlagLv>
-		<NeedShip>4척(0)</NeedShip>
+		<NeedShip>최소 4척</NeedShip>
 		<FormedNeedShip>4;</FormedNeedShip>
 		<Time>0;40</Time>
 		<FuelLoss>30</FuelLoss>
@@ -83,7 +83,7 @@
 		<TR-Name>관함식 예행</TR-Name>
 		<TR-Detail>관함식의 예행항해를 실시하자!</TR-Detail>
 		<FlagLv>5</FlagLv>
-		<NeedShip>6척(0)</NeedShip>
+		<NeedShip>최소 6척</NeedShip>
 		<FormedNeedShip>6;</FormedNeedShip>
 		<Time>1;0</Time>
 		<FuelLoss>50</FuelLoss>
@@ -96,7 +96,7 @@
 		<TR-Name>관함식</TR-Name>
 		<TR-Detail>이제 평소의 성과를 보일때! 관함식을 거행하자!</TR-Detail>
 		<FlagLv>6</FlagLv>
-		<NeedShip>6척(0)</NeedShip>
+		<NeedShip>최소 6척</NeedShip>
 		<FormedNeedShip>6;</FormedNeedShip>
 		<Time>3;0</Time>
 		<Armo>100</Armo>
@@ -111,8 +111,8 @@
 		<TR-Name>유조선 호위 임무</TR-Name>
 		<TR-Detail>유전 지대에서 돌아오는 유조선을 호위하자!</TR-Detail>
 		<FlagLv>3</FlagLv>
-		<NeedShip>4척(경순1 구축2)</NeedShip>
-		<FormedNeedShip>4;2*2,3*1</FormedNeedShip>
+		<NeedShip>최소 4척. 경순1 구축/해방2 or 구축1 해방3</NeedShip>
+		<FormedNeedShip>4;2*2,3*1;1*2,3*1</FormedNeedShip>
 		<Time>4;0</Time>
 		<FuelLoss>50</FuelLoss>
 		<ArmoLoss>0</ArmoLoss>
@@ -123,7 +123,7 @@
 		<TR-Name>강행 정찰 임무</TR-Name>
 		<TR-Detail>수상정찰기 탑재함 등을 활용하여 적함대의 동향을 파악하자!</TR-Detail>
 		<FlagLv>3</FlagLv>
-		<NeedShip>3척(경순2)</NeedShip>
+		<NeedShip>최소 3척. 경순2</NeedShip>
 		<FormedNeedShip>3;3*2</FormedNeedShip>
 		<Time>1;30</Time>
 		<Armo>50</Armo>
@@ -136,7 +136,7 @@
 		<TR-Name>보크 사이트 수송 임무</TR-Name>
 		<TR-Detail>자원집적지에서 모항에 보크사이트를 운반하자!</TR-Detail>
 		<FlagLv>6</FlagLv>
-		<NeedShip>4척(구축2)</NeedShip>
+		<NeedShip>최소 4척. 구축2</NeedShip>
 		<FormedNeedShip>4;2*2</FormedNeedShip>
 		<Time>5;0</Time>
 		<FuelLoss>50</FuelLoss>
@@ -148,7 +148,7 @@
 		<TR-Name>자원 수송 임무</TR-Name>
 		<TR-Detail>자원국에서 수입되는 자원을 모항까지 호위하자!</TR-Detail>
 		<FlagLv>4</FlagLv>
-		<NeedShip>4척(구축2)</NeedShip>
+		<NeedShip>최소 4척. 구축2</NeedShip>
 		<FormedNeedShip>4;2*2</FormedNeedShip>
 		<Time>8;0</Time>
 		<Armo>250</Armo>
@@ -163,7 +163,7 @@
 		<TR-Name>쥐 수송 작전</TR-Name>
 		<TR-Detail>쾌속의 구축함을 집중운용하여 격전의 제도에 물자를 수송!</TR-Detail>
 		<FlagLv>5</FlagLv>
-		<NeedShip>6척(경순1 구축4)</NeedShip>
+		<NeedShip>최소 6척. 경순1 구축4</NeedShip>
 		<FormedNeedShip>6;2*4,3*1</FormedNeedShip>
 		<Time>4;0</Time>
 		<Armo>300</Armo>
@@ -176,7 +176,7 @@
 		<TR-Name>포위 해병대 철수 작전</TR-Name>
 		<TR-Detail>기동력있는 소함정부대를 결집, 포위하에 있는 부대를 수용하라!</TR-Detail>
 		<FlagLv>6</FlagLv>
-		<NeedShip>6척(경순1 구축3)</NeedShip>
+		<NeedShip>최소 6척.경순1 구축3</NeedShip>
 		<FormedNeedShip>6;2*3,3*1</FormedNeedShip>
 		<Time>6;0</Time>
 		<Armo>240</Armo>
@@ -189,24 +189,21 @@
 		<TR-Name>미끼 기동 부대 지원 전략</TR-Name>
 		<TR-Detail>적 기동 부대의 전력을 유인하는 항공모함을 포함한 미끼 부대로 주력 함대를 지원하라!</TR-Detail>
 		<FlagLv>9</FlagLv>
-		<NeedShip>6척(공모2 구축2)</NeedShip>
-		<FormedNeedShip>6;2*2,11*2</FormedNeedShip>
+		<NeedShip>최소 6척. 공모/경모/수모2 구축2</NeedShip>
+		<FormedNeedShip>6;2*2,7*2;2*2,11*2;2*2,16*2;2*2,7*1,11*1;2*2,7*1,16*1;2*2,11*1,16*1</FormedNeedShip>
 		<Time>12;0</Time>
 		<FuelLoss>50</FuelLoss>
 		<ArmoLoss>40</ArmoLoss>
 		<Metal>300</Metal>
 		<Bo>400</Bo>
 		<Detail>경모,수상기모함 가능. 잠수항모 불가</Detail>
-		<Special1>7;11</Special1>
-		<Special2>16;11</Special2>
-		<Special3>18;11</Special3>
 	</Expedition>
 	<Expedition>
 		<ID>16</ID>
 		<TR-Name>함대 결전 원호 전략</TR-Name>
 		<TR-Detail>유력한 함대를 편성해 적의 배후 측면을 기습해 주력 함대 결전을 원호하라!</TR-Detail>
 		<FlagLv>11</FlagLv>
-		<NeedShip>6척(경순1 구축2)</NeedShip>
+		<NeedShip>최소 6척. 경순1 구축2</NeedShip>
 		<FormedNeedShip>6;2*2,3*1</FormedNeedShip>
 		<Time>15;0</Time>
 		<Armo>500</Armo>
@@ -221,7 +218,7 @@
 		<TR-Name>원정 정찰 작전</TR-Name>
 		<TR-Detail>정예수뢰전대를 편성해 북방 해역의 적 정세를 강행정찰하라!</TR-Detail>
 		<FlagLv>20</FlagLv>
-		<NeedShip>6척(경순1 구축3)</NeedShip>
+		<NeedShip>최소 6척. 경순1 구축3</NeedShip>
 		<FormedNeedShip>6;2*3,3*1</FormedNeedShip>
 		<Time>0;45</Time>
 		<Armo>70</Armo>
@@ -235,24 +232,21 @@
 		<TR-Name>항공기 수송 작전</TR-Name>
 		<TR-Detail>유력한 "항공모함"다수를 배치한 함대를 편성해 전선에 항공기를 수송하라!</TR-Detail>
 		<FlagLv>15</FlagLv>
-		<NeedShip>6척(공모3 구축2)</NeedShip>
-		<FormedNeedShip>6;2*2,11*3</FormedNeedShip>
+		<NeedShip>최소 6척. 공모/경모/수모3 구축2</NeedShip>
+		<FormedNeedShip>6;2*2,7*3;2*2,11*3;2*2,16*3;2*2,7*2,11*1;2*2,7*2,16*1;2*2,7*1,11*2;2*2,7*1,11*1,16*1;2*2,7*1,16*2;2*2,11*2,16*1;2*2,11*1,16*2</FormedNeedShip>
 		<Time>5;0</Time>
 		<FuelLoss>50</FuelLoss>
 		<ArmoLoss>20</ArmoLoss>
 		<Metal>300</Metal>
 		<Bo>100</Bo>
 		<Detail>경모,수상기모함 가능. 잠수항모 불가</Detail>
-		<Special1>7;11</Special1>
-		<Special2>16;11</Special2>
-		<Special3>18;11</Special3>
 	</Expedition>
 	<Expedition>
 		<ID>19</ID>
 		<TR-Name>북호 전략</TR-Name>
 		<TR-Detail>숙련도가 높은 "항공전함"복수를 중심으로 한 강행수송선단을 출항시켜라!</TR-Detail>
 		<FlagLv>20</FlagLv>
-		<NeedShip>6척(항전2 구축2)</NeedShip>
+		<NeedShip>최소 6척. 항전2 구축2</NeedShip>
 		<FormedNeedShip>6;2*2,10*2</FormedNeedShip>
 		<Time>6;0</Time>
 		<FuelLoss>50</FuelLoss>
@@ -266,8 +260,8 @@
 		<TR-Name>잠수함 초계 임무</TR-Name>
 		<TR-Detail>잠수함과 그 지원함정으로 구성된 함대로 북방 해역의 초계임무에 나가라!</TR-Detail>
 		<FlagLv>1</FlagLv>
-		<NeedShip>2척(잠수함1 경순1)</NeedShip>
-		<FormedNeedShip>2;3*1,13*1</FormedNeedShip>
+		<NeedShip>최소 2척. 잠수함/잠모1 경순1</NeedShip>
+		<FormedNeedShip>2;3*1,13*1;3*1,14*1</FormedNeedShip>
 		<Time>2;0</Time>
 		<FuelLoss>50</FuelLoss>
 		<ArmoLoss>40</ArmoLoss>
@@ -278,7 +272,7 @@
 		<TR-Name>북방 쥐 수송 작전</TR-Name>
 		<TR-Detail>수뢰전대에 드럼통(수송용)을 적재하고 북쪽방면의 아군에게 식량을 추진하라!</TR-Detail>
 		<FlagLv>15</FlagLv>
-		<NeedShip>5척(경순1 구축4)</NeedShip>
+		<NeedShip>최소 5척. 경순1 구축4</NeedShip>
 		<FormedNeedShip>5;2*4,3*1</FormedNeedShip>
 		<Time>2;20</Time>
 		<Armo>270</Armo>
@@ -294,7 +288,7 @@
 		<TR-Name>함대 연습</TR-Name>
 		<TR-Detail>숙련도를 향상시키기 위한 함대 훈련을 한다.(자원 획득 목적의 원정은 아닙니다)</TR-Detail>
 		<FlagLv>30</FlagLv>
-		<NeedShip>6척(중순1 경순1 구축2)</NeedShip>
+		<NeedShip>최소 6척. 중순1 경순1 구축2</NeedShip>
 		<FormedNeedShip>6;2*2,3*1,5*1</FormedNeedShip>
 		<Time>3;</Time>
 		<Armo>10</Armo>
@@ -308,7 +302,7 @@
 		<TR-Name>항공 전함 운용 연습</TR-Name>
 		<TR-Detail>숙련도가 높은 "항공 전함"복수를 중심으로 한 함대의 종합 훈련을 실시한다!</TR-Detail>
 		<FlagLv>50</FlagLv>
-		<NeedShip>6척(항전2 구축2)</NeedShip>
+		<NeedShip>최소 6척. 항전2 구축2</NeedShip>
 		<FormedNeedShip>6;2*2,10*2</FormedNeedShip>
 		<Time>4;</Time>
 		<Armo>20</Armo>
@@ -323,7 +317,7 @@
 		<TR-Name>북방항로 해상호위</TR-Name>
 		<TR-Detail>숙련도가 높은 경순양함이 이끄는 정예호위함대로 북방항로의 해상 호위를 실시하라!</TR-Detail>
 		<FlagLv>50</FlagLv>
-		<NeedShip>6척(1경순,4구축)</NeedShip>
+		<NeedShip>최소 6척. 경순 기함. 경순1 구축4</NeedShip>
 		<FormedNeedShip>6;2*4,3*1</FormedNeedShip>
 		<Time>8;20</Time>
 		<FuelLoss>80</FuelLoss>
@@ -339,7 +333,7 @@
 		<TR-Name>통상 파괴 작전</TR-Name>
 		<TR-Detail>쾌속, 타격력 있는 중순을 중심으로 한 함대로 적 후방 보급선을 차단하라!</TR-Detail>
 		<FlagLv>25</FlagLv>
-		<NeedShip>4척(중순2 구축2)</NeedShip>
+		<NeedShip>최소 4척. 중순2 구축2</NeedShip>
 		<FormedNeedShip>4;2*2,5*2</FormedNeedShip>
 		<Time>40;</Time>
 		<FuelLoss>50</FuelLoss>
@@ -352,87 +346,79 @@
 		<TR-Name>적 모항 공습 작전</TR-Name>
 		<TR-Detail>적 잠수함 초계 라인을 돌파해 항모를 동반한 적 기동 부대의 모항을 쳐라!</TR-Detail>
 		<FlagLv>30</FlagLv>
-		<NeedShip>4척(공모1 경순1 구축2)</NeedShip>
-		<FormedNeedShip>4;2*2,3*1,11*1</FormedNeedShip>
+		<NeedShip>최소 4척. 공모/경모/수모1 경순1 구축2</NeedShip>
+		<FormedNeedShip>4;2*2,3*1,11*1;2*2,3*1,7*1;2*2,3*1,16*1</FormedNeedShip>
 		<Time>80;</Time>
 		<FuelLoss>80</FuelLoss>
 		<ArmoLoss>80</ArmoLoss>
 		<Bo>900</Bo>
 		<Detail>경모,수상기모함 가능. 잠수항모 불가</Detail>
-		<Special1>7;11</Special1>
-		<Special2>16;11</Special2>
-		<Special3>18;11</Special3>
 	</Expedition>
 	<Expedition>
 		<ID>27</ID>
 		<TR-Name>잠수함 통상 파괴 작전</TR-Name>
 		<TR-Detail>잠수함 2척 이상이 포함된 함대로 적 후방으로 돌아가 통상 파괴 작전을 실시!</TR-Detail>
 		<FlagLv>1</FlagLv>
-		<NeedShip>2척(잠수함2)</NeedShip>
-		<FormedNeedShip>2;13*2</FormedNeedShip>
+		<NeedShip>최소 2척. 잠수함/잠모2</NeedShip>
+		<FormedNeedShip>2;13*2;13*1,14*1;14*2</FormedNeedShip>
 		<Time>20;</Time>
 		<FuelLoss>80</FuelLoss>
 		<ArmoLoss>80</ArmoLoss>
 		<Metal>800</Metal>
 		<Detail>잠수항모 가능</Detail>
-		<Special1>14;13</Special1>
 	</Expedition>
 	<Expedition>
 		<ID>28</ID>
 		<TR-Name>서방 해역 봉쇄 작전</TR-Name>
 		<TR-Detail>잠수함 3척 이상으로 구성된 함대로 서쪽해역 적 수상함의 활동을 봉쇄하라!</TR-Detail>
 		<FlagLv>30</FlagLv>
-		<NeedShip>3척(잠수함3)</NeedShip>
-		<FormedNeedShip>3;13*3</FormedNeedShip>
+		<NeedShip>최소 3척. 잠수함/잠모3</NeedShip>
+		<FormedNeedShip>3;13*3;13*2,14*1;13*1,14*2;14*3</FormedNeedShip>
 		<Time>25;</Time>
 		<FuelLoss>80</FuelLoss>
 		<ArmoLoss>80</ArmoLoss>
 		<Metal>900</Metal>
 		<Bo>350</Bo>
 		<Detail>잠수항모 가능</Detail>
-		<Special1>14;13</Special1>
 	</Expedition>
 	<Expedition>
 		<ID>29</ID>
 		<TR-Name>잠수함 파견 연습</TR-Name>
 		<TR-Detail>잠수함 3척 이상으로 구성된 함대를 편성해 장거리 파견 훈련을 실시!</TR-Detail>
 		<FlagLv>50</FlagLv>
-		<NeedShip>3척(잠수함3)</NeedShip>
-		<FormedNeedShip>3;13*3</FormedNeedShip>
+		<NeedShip>최소 3척. 잠수함/잠모3</NeedShip>
+		<FormedNeedShip>3;13*3;13*2,14*1;13*1,14*2;14*3</FormedNeedShip>
 		<Time>24;</Time>
 		<FuelLoss>90</FuelLoss>
 		<ArmoLoss>40</ArmoLoss>
 		<Bo>100</Bo>
 		<Detail>잠수항모 가능</Detail>
-		<Special1>14;13</Special1>
 	</Expedition>
 	<Expedition>
 		<ID>30</ID>
 		<TR-Name>잠수함 파견 전략</TR-Name>
 		<TR-Detail>잠수함 4척 이상으로 구성된 함대를 편성해 먼 우군세력과의 연락을 시도하라!</TR-Detail>
 		<FlagLv>55</FlagLv>
-		<NeedShip>4척(잠수함4)</NeedShip>
-		<FormedNeedShip>4;13*4</FormedNeedShip>
+		<NeedShip>최소 4척. 잠수함/잠모4</NeedShip>
+		<FormedNeedShip>4;13*4;13*3,14*1;13*2,14*2;13*1,14*3;14*4</FormedNeedShip>
 		<Time>48;</Time>
 		<FuelLoss>90</FuelLoss>
 		<ArmoLoss>70</ArmoLoss>
 		<Bo>100</Bo>
 		<Detail>잠수항모 가능</Detail>
-		<Special1>14;13</Special1>
 	</Expedition>
 	<Expedition>
 		<ID>31</ID>
 		<TR-Name>해외 함에게 연락 해주기</TR-Name>
 		<TR-Detail>잠수함 4척 이상으로 구성된 함대를 편성·파견하여 해외함과의 접촉을 시도하라!</TR-Detail>
 		<FlagLv>60</FlagLv>
-		<NeedShip>4척(잠수함4)</NeedShip>
-		<FormedNeedShip>4;13*4</FormedNeedShip>
+		<NeedShip>최소 4척. 잠수함/잠모4</NeedShip>
+		<FormedNeedShip>4;13*4;13*3,14*1;13*2,14*2;13*1,14*3;14*4</FormedNeedShip>
 		<Time>2;0</Time>
 		<Armo>30</Armo>
 		<FuelLoss>50</FuelLoss>
 		<ArmoLoss>0</ArmoLoss>
 		<Detail>함대 레벨 총합 Lv200. 잠수항모 가능</Detail>
-		<Special1>14;13</Special1>
 		<TotalLv>200</TotalLv>
 	</Expedition>
 	<Expedition>
@@ -440,7 +426,7 @@
 		<TR-Name>원양 연습 항해</TR-Name>
 		<TR-Detail>연습순양함을 기함으로한 연습함대에서 원양 연습항해를 실시,기초 숙련도 향상에 힘쓰자!</TR-Detail>
 		<FlagLv>5</FlagLv>
-		<NeedShip>3척(연순1,구축2)</NeedShip>
+		<NeedShip>최소 3척. 연순 기함. 연순1 구축2</NeedShip>
 		<FormedNeedShip>3;2*2,21*1</FormedNeedShip>
 		<Time>24;0</Time>
 		<Armo>50</Armo>
@@ -457,7 +443,7 @@
 		<TR-Name>전위 지원 임무</TR-Name>
 		<TR-Detail>남방 해역에 지원 함대를 출격시켜 주력 함대의 진격을 원호하라!(필요:최소 구축 2척)</TR-Detail>
 		<FlagLv>-</FlagLv>
-		<NeedShip>2척(구축2)</NeedShip>
+		<NeedShip>최소 2척. 구축2</NeedShip>
 		<FormedNeedShip>2;2*2</FormedNeedShip>
 		<Detail>일반해역 지원함대</Detail>
 	</Expedition>
@@ -466,7 +452,7 @@
 		<TR-Name>함대 결전 지원 임무</TR-Name>
 		<TR-Detail>남방 해역 결전을 지원하는 별동대를 출격시켜 주력 함대의 함대 결전을 원호하라!(필요:최소 구축 2척)</TR-Detail>
 		<FlagLv>-</FlagLv>
-		<NeedShip>2척(구축2)</NeedShip>
+		<NeedShip>최소 2척. 구축2</NeedShip>
 		<FormedNeedShip>2;2*2</FormedNeedShip>
 		<Detail>보스 지원함대</Detail>
 	</Expedition>
@@ -475,24 +461,21 @@
 		<TR-Name>MO작전</TR-Name>
 		<TR-Detail>항공모함 2척을 기간으로 MO기동 부대를 출격시키고, 남방 해역의 제해권을 확보하라!</TR-Detail>
 		<FlagLv>40</FlagLv>
-		<NeedShip>6척(공모2 중순1 구축1)</NeedShip>
-		<FormedNeedShip>6;2*1,5*1,11*2</FormedNeedShip>
+		<NeedShip>최소 6척. 공모/경모/수모2 중순1 구축1</NeedShip>
+		<FormedNeedShip>6;2*1,5*1,7*2;2*1,5*1,11*2;2*1,5*1,16*2;2*1,5*1,7*1,11*1;2*1,5*1,7*1,16*1;2*1,5*1,11*1,16*1</FormedNeedShip>
 		<Time>7;0</Time>
 		<FuelLoss>80</FuelLoss>
 		<ArmoLoss>80</ArmoLoss>
 		<Metal>240</Metal>
 		<Bo>280</Bo>
 		<Detail>경모,수상기모함 가능. 잠수항모 불가</Detail>
-		<Special1>7;11</Special1>
-		<Special2>16;11</Special2>
-		<Special3>18;11</Special3>
 	</Expedition>
 	<Expedition>
 		<ID>36</ID>
 		<TR-Name>수상 비행기 기지 건설</TR-Name>
 		<TR-Detail>수상기모함 2척을 포함한 함대를 편성, 남방 해역에 초계용 수상기기지를 건설하라!</TR-Detail>
 		<FlagLv>30</FlagLv>
-		<NeedShip>6척(수상모2 경순1 구축1)</NeedShip>
+		<NeedShip>최소 6척. 수상모2 경순1 구축1</NeedShip>
 		<FormedNeedShip>6;2*1,3*1,16*2</FormedNeedShip>
 		<Time>9;0</Time>
 		<FuelLoss>80</FuelLoss>
@@ -507,7 +490,7 @@
 		<TR-Name>도쿄 급행</TR-Name>
 		<TR-Detail>수뢰전대에 드럼통(수송용)을 가득 적제하여 남쪽 방면 아군에게 쥐수송작전을 수행하라!</TR-Detail>
 		<FlagLv>50</FlagLv>
-		<NeedShip>6척(경순1 구축5)</NeedShip>
+		<NeedShip>최소 6척. 경순1 구축5</NeedShip>
 		<FormedNeedShip>6;2*5,3*1</FormedNeedShip>
 		<Time>2;45</Time>
 		<Armo>380</Armo>
@@ -523,7 +506,7 @@
 		<TR-Name>도쿄 급행 (弐)</TR-Name>
 		<TR-Detail>수뢰전대에 드럼통(수송용)을 가능한 한 적재하여 남방 쥐수송작전을 속행하라!</TR-Detail>
 		<FlagLv>65</FlagLv>
-		<NeedShip>6척(구축5)</NeedShip>
+		<NeedShip>최소 6척. 구축5</NeedShip>
 		<FormedNeedShip>6;2*5</FormedNeedShip>
 		<Time>2;55</Time>
 		<FuelLoss>80</FuelLoss>
@@ -539,14 +522,13 @@
 		<TR-Name>원양잠수함작전</TR-Name>
 		<TR-Detail>잠수모함과 다수의 잠수함으로 원양 잠수함 작전을 실시, 적 전력의 감소에 힘써라!</TR-Detail>
 		<FlagLv>3</FlagLv>
-		<NeedShip>5척</NeedShip>
-		<FormedNeedShip>5;20*1,13*4</FormedNeedShip>
+		<NeedShip>최소 5척. 잠수모함1 잠수함/잠모4</NeedShip>
+		<FormedNeedShip>5;13*4,20*1;13*3,14*1,20*1;13*2,14*2,20*1;13*1,14*3,20*1;14*4,20*1</FormedNeedShip>
 		<Time>30;0</Time>
 		<FuelLoss>90</FuelLoss>
 		<ArmoLoss>90</ArmoLoss>
 		<Metal>300</Metal>
 		<Detail>함대 레벨 총합 Lv180 타이게이1척(잠수모함), 잠수함(잠수항모가능)4척</Detail>
-		<Special1>14;13</Special1>
 		<TotalLv>180</TotalLv>
 	</Expedition>
 	<Expedition>
@@ -554,7 +536,7 @@
 		<TR-Name>수상기 전선 수송</TR-Name>
 		<TR-Detail>경순양함을 기함으로 다수의 수상기모함을 이끄는 함대를 편성, 수상기 전선 수송을 실시하라!</TR-Detail>
 		<FlagLv>25</FlagLv>
-		<NeedShip>6척(경순1,수상모2,구축2)</NeedShip>
+		<NeedShip>최소 6척. 경순1 수상모2 구축2</NeedShip>
 		<FormedNeedShip>6;2*2,3*1,16*2</FormedNeedShip>
 		<Time>6;50</Time>
 		<Armo>300</Armo>
@@ -576,7 +558,7 @@
 		<Detail>함대 레벨 총합 Lv10, 기함 Lv5</Detail>
 		<TotalLv>10</TotalLv>
 		<NeedShip>4척 (구축+해방함 합계 3척, 자유 1척)</NeedShip>
-		<FormedNeedShip>4;</FormedNeedShip>
+		<FormedNeedShip>4;2*3;1*1,2*2;1*2,2*1;1*3</FormedNeedShip>
 		<Time>0;25</Time>
 		<FuelLoss>35</FuelLoss>
 		<ArmoLoss>0</ArmoLoss>
@@ -590,14 +572,17 @@
 		<TR-Detail>해방함이나 구축함에 의한 연안 경비 부대로 해협 경비를 실시하라!</TR-Detail>
 		<FlagLv>20</FlagLv>
 		<Detail>기함 Lv20</Detail>
-		<NeedShip>4척 (구축+해방함 합계 4척, 대잠 합 180 이상, 대공 합 70 이상, 이외불명)</NeedShip>
-		<FormedNeedShip>4;</FormedNeedShip>
+		<NeedShip>최소 4척. 최소 대잠180 대공70. 구축/해방4</NeedShip>
+		<FormedNeedShip>4;2*4;1*1,2*3;1*2,2*2;1*3,2*1;1*4</FormedNeedShip>
 		<Time>0;55</Time>
 		<FuelLoss>50</FuelLoss>
 		<ArmoLoss>20</ArmoLoss>
 		<Fuel>70</Fuel>
 		<Armo>40</Armo>
 		<Bo>10</Bo>
+
+		<ASW>180</ASW>
+		<AA>70</AA>
 	</Expedition>
 	<Expedition>
 		<ID>102</ID>
@@ -607,14 +592,16 @@
 		<FlagLv>35</FlagLv>
 		<Detail>함대 레벨 총합 Lv185, 기함 Lv35</Detail>
 		<TotalLv>185</TotalLv>
-		<NeedShip>5척 (1경순, 4구축/해방함 혹은 1~2구축, 4~3해방함, 대잠 합 280 이상)</NeedShip>
-		<FormedNeedShip>5;3*1,2*4</FormedNeedShip>
+		<NeedShip>최소 5척. 최소 대잠280. 경순1, 구축/해방4 or 구축1~2, 해방4~3</NeedShip>
+		<FormedNeedShip>5;2*4,3*1;1*4,3*1;2*3,1*1,3*1;2*2,1*2,3*1;2*1,1*3,3*1;2*1,1*4;2*2,1*3</FormedNeedShip>
 		<Time>2;15</Time>
 		<FuelLoss>65</FuelLoss>
 		<ArmoLoss>35</ArmoLoss>
 		<Fuel>120</Fuel>
 		<Metal>60</Metal>
 		<Bo>60</Bo>
+
+		<ASW>280</ASW>
 	</Expedition>
 	<Expedition>
 		<ID>110</ID>
@@ -624,29 +611,35 @@
 		<FlagLv>40</FlagLv>
 		<Detail>함대 레벨 총합 Lv150, 기함 Lv40</Detail>
 		<TotalLv>150</TotalLv>
-		<NeedShip>6척 (1수모, 1경순, 2구축/해방, 2자유, 대잠 합 200 이상, 대공 합 200 이상, 색적 합 140 이상)</NeedShip>
-		<FormedNeedShip>6;16*1,3*1,2*2</FormedNeedShip>
+		<NeedShip>최소 6척. 최소 대잠200 대공200 색적140. 수모1 경순1 구축/해방2</NeedShip>
+		<FormedNeedShip>6;2*2,3*1,16*1;1*1,2*1,3*1,16*1;1*2,3*1,16*1</FormedNeedShip>
 		<Time>0;35</Time>
 		<FuelLoss>45</FuelLoss>
 		<ArmoLoss>15</ArmoLoss>
 		<Metal>10</Metal>
 		<Bo>30</Bo>
+
+		<ASW>200</ASW>
+		<AA>200</AA>
+		<LoS>140</LoS>
 	</Expedition>
 	<Expedition>
 		<ID>111</ID>
-		<DisplayID>B1</DisplayID>
+		<DisplayID>B2</DisplayID>
 		<TR-Name>적 정박지 강습 반격작전</TR-Name>
 		<TR-Detail>중순 1, 경순 1과 정예 구축대에 의한 최정예 함대로 적 정박지를 강습하라!</TR-Detail>
-		<Detail>함대 레벨 총합 Lv??, 기함 Lv??</Detail>
+		<Detail>함대 레벨 총합 Lv290, 기함 Lv45</Detail>
 		<TotalLv>150</TotalLv>
-		<NeedShip>6척 (1중순, 1경순, 4구축, 화력 합 360 이상)</NeedShip>
-		<FormedNeedShip>6;5*1,3*1,2*4</FormedNeedShip>
+		<NeedShip>최소 6척. 최소 화력360. 중순1 경순1 구축3</NeedShip>
+		<FormedNeedShip>6;2*3,3*1,5*1</FormedNeedShip>
 		<Time>8;20</Time>
 		<FuelLoss>80</FuelLoss>
 		<ArmoLoss>65</ArmoLoss>
 		<Fuel>300</Fuel>
 		<Ammo>200</Ammo>
 		<Metal>100</Metal>
+
+		<Firepower>360</Firepower>
 	</Expedition>
 
 	<Expedition>
