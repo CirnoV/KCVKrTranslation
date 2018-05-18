@@ -2,8 +2,8 @@
 <Versions>
 	<Item>
 		<Name>App</Name>
-		<Version>4.2.11.18</Version>
-		<URL>https://github.com/CirnoV/KanColleViewer/releases/download/v4.2.11r18/KanColleViewer-KR.4.2.11.r18.zip</URL>
+		<Version>4.2.12.1</Version>
+		<URL>https://github.com/CirnoV/KanColleViewer/releases/download/v4.2.12r1/KanColleViewer-KR.4.2.12.r1.zip</URL>
 		<NoticeURL>https://wolfgangkurz.github.io/KanColleAssets/kcvkr.html</NoticeURL>
 	</Item>
 	<Item>
@@ -13,7 +13,7 @@
 	</Item>
 	<Item>
 		<Name>Equipment</Name>
-		<Version>1.1.75</Version>
+		<Version>1.1.76</Version>
 		<URL>https://raw.github.com/CirnoV/KCVKrTranslation/master/resources/Translations/Equipment.xml</URL>
 	</Item>
 	<Item>
@@ -28,12 +28,12 @@
 	</Item>
 	<Item>
 		<Name>Quests</Name>
-		<Version>1.2.67</Version>
+		<Version>1.2.68</Version>
 		<URL>https://raw.github.com/CirnoV/KCVKrTranslation/master/resources/Translations/Quests.xml</URL>
 	</Item>
 	<Item>
 		<Name>Ships</Name>
-		<Version>1.0.97</Version>
+		<Version>1.0.98</Version>
 		<URL>https://raw.github.com/CirnoV/KCVKrTranslation/master/resources/Translations/Ships.xml</URL>
 	</Item>
 	<Item>

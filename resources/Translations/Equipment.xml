@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.1.75">
+<Equipment Version="1.1.76">
 	<Item>
 		<JP-Name>12cm単装砲</JP-Name>
 		<TR-Name>12cm 단장포</TR-Name>
@@ -1488,5 +1488,21 @@
 	<Item>
 		<JP-Name>深海16inch三連装砲改</JP-Name>
 		<TR-Name>심해 16inch 삼연장포改</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>61cm三連装(酸素)魚雷後期型</JP-Name>
+		<TR-Name>61cm 삼연장(산소)어뢰 후기형</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>61cm四連装(酸素)魚雷後期型</JP-Name>
+		<TR-Name>61cm 사연장(산소)어뢰 후기형</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>試製15cm9連装対潜噴進砲</JP-Name>
+		<TR-Name>시제 15cm 9연장 대잠분진포</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>三式爆雷投射機 集中配備</JP-Name>
+		<TR-Name>3식 폭뢰투사기 집중배치</TR-Name>
 	</Item>
 </Equipment>
