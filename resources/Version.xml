@@ -2,8 +2,8 @@
 <Versions>
 	<Item>
 		<Name>App</Name>
-		<Version>4.2.12.2</Version>
-		<URL>https://github.com/CirnoV/KanColleViewer/releases/download/v4.2.12r2/KanColleViewer-KR.4.2.12.r2.zip</URL>
+		<Version>4.2.12.3</Version>
+		<URL>https://github.com/CirnoV/KanColleViewer/releases/download/v4.2.12r3/KanColleViewer-KR.4.2.12.r3.zip</URL>
 		<NoticeURL>https://wolfgangkurz.github.io/KanColleAssets/kcvkr.html</NoticeURL>
 	</Item>
 	<Item>
@@ -13,7 +13,7 @@
 	</Item>
 	<Item>
 		<Name>Equipment</Name>
-		<Version>1.1.76</Version>
+		<Version>1.1.77</Version>
 		<URL>https://raw.github.com/CirnoV/KCVKrTranslation/master/resources/Translations/Equipment.xml</URL>
 	</Item>
 	<Item>
@@ -33,7 +33,7 @@
 	</Item>
 	<Item>
 		<Name>Ships</Name>
-		<Version>1.0.98</Version>
+		<Version>1.0.99</Version>
 		<URL>https://raw.github.com/CirnoV/KCVKrTranslation/master/resources/Translations/Ships.xml</URL>
 	</Item>
 	<Item>
@@ -50,5 +50,10 @@
 		<Name>RemodelSlots</Name>
 		<Version>1.2.17</Version>
 		<URL>https://raw.github.com/CirnoV/KCVKrTranslation/master/resources/Translations/RemodelSlots.xml</URL>
+	</Item>
+	<Item>
+		<Name>Useitems</Name>
+		<Version>1.0.0</Version>
+		<URL>https://raw.github.com/CirnoV/KCVKrTranslation/master/resources/Translations/Useitems.xml</URL>
 	</Item>
 </Versions>

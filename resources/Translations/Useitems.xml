@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Useitems Version="1.0.0">
+	<Useitem>
+		<JP-Name>高速修復材</JP-Name>
+		<TR-Name>고속수복재</TR-Name>
+	</Useitem>
+	<Useitem>
+		<JP-Name>高速建造材</JP-Name>
+		<TR-Name>고속건조재</TR-Name>
+	</Useitem>
+	<Useitem>
+		<JP-Name>開発資材</JP-Name>
+		<TR-Name>개발자재</TR-Name>
+	</Useitem>
+	<Useitem>
+		<JP-Name>改修資材</JP-Name>
+		<TR-Name>개수자재</TR-Name>
+	</Useitem>
+	<Useitem>
+		<JP-Name>家具箱（小）</JP-Name>
+		<TR-Name>가구함(소)</TR-Name>
+	</Useitem>
+	<Useitem>
+		<JP-Name>家具箱（中）</JP-Name>
+		<TR-Name>가구함(중)</TR-Name>
+	</Useitem>
+	<Useitem>
+		<JP-Name>家具箱（大）</JP-Name>
+		<TR-Name>가구함(대)</TR-Name>
+	</Useitem>
+	<Useitem>
+		<JP-Name>燃料</JP-Name>
+		<TR-Name>연료</TR-Name>
+	</Useitem>
+	<Useitem>
+		<JP-Name>弾薬</JP-Name>
+		<TR-Name>탄약</TR-Name>
+	</Useitem>
+	<Useitem>
+		<JP-Name>鋼材</JP-Name>
+		<TR-Name>강재</TR-Name>
+	</Useitem>
+	<Useitem>
+		<JP-Name>ボーキサイト</JP-Name>
+		<TR-Name>보크사이트</TR-Name>
+	</Useitem>
+	<Useitem>
+		<JP-Name>家具コイン</JP-Name>
+		<TR-Name>가구코인</TR-Name>
+	</Useitem>
+	<Useitem>
+		<JP-Name>ドック開放キー</JP-Name>
+		<TR-Name>독 개방 키</TR-Name>
+	</Useitem>
+	<Useitem>
+		<JP-Name>応急修理要員</JP-Name>
+		<TR-Name>응급수리요원</TR-Name>
+	</Useitem>
+	<Useitem>
+		<JP-Name>応急修理女神</JP-Name>
+		<TR-Name>응급수리여신</TR-Name>
+	</Useitem>
+	<Useitem>
+		<JP-Name>特注家具職人</JP-Name>
+		<TR-Name>특주가구장인</TR-Name>
+	</Useitem>
+	<Useitem>
+		<JP-Name>母港拡張</JP-Name>
+		<TR-Name>모항 확장</TR-Name>
+	</Useitem>
+	<Useitem>
+		<JP-Name>給糧艦「間宮」</JP-Name>
+		<TR-Name>급양함 「마미야」</TR-Name>
+	</Useitem>
+	<Useitem>
+		<JP-Name>書類一式＆指輪</JP-Name>
+		<TR-Name>서류 한 벌&amp;반지</TR-Name>
+	</Useitem>
+	<Useitem>
+		<JP-Name>艦娘からのチョコ</JP-Name>
+		<TR-Name>칸무스가 준 쵸코</TR-Name>
+	</Useitem>
+	<Useitem>
+		<JP-Name>勲章</JP-Name>
+		<TR-Name>훈장</TR-Name>
+	</Useitem>
+	<Useitem>
+		<JP-Name>改装設計図</JP-Name>
+		<TR-Name>개장설계도</TR-Name>
+	</Useitem>
+	<Useitem>
+		<JP-Name>給糧艦「伊良湖」</JP-Name>
+		<TR-Name>급양함 「이라코」</TR-Name>
+	</Useitem>
+	<Useitem>
+		<JP-Name>プレゼント箱</JP-Name>
+		<TR-Name>선물상자</TR-Name>
+	</Useitem>
+	<Useitem>
+		<JP-Name>甲種勲章</JP-Name>
+		<TR-Name>갑종훈장</TR-Name>
+	</Useitem>
+	<Useitem>
+		<JP-Name>菱餅</JP-Name>
+		<TR-Name>히시모치</TR-Name>
+	</Useitem>
+	<Useitem>
+		<JP-Name>司令部要員</JP-Name>
+		<TR-Name>사령부요원</TR-Name>
+	</Useitem>
+	<Useitem>
+		<JP-Name>補強増設</JP-Name>
+		<TR-Name>보강증설</TR-Name>
+	</Useitem>
+	<Useitem>
+		<JP-Name>試製甲板カタパルト</JP-Name>
+		<TR-Name>시제 갑판캐터펄트</TR-Name>
+	</Useitem>
+	<Useitem>
+		<JP-Name>戦闘糧食</JP-Name>
+		<TR-Name>전투식량</TR-Name>
+	</Useitem>
+	<Useitem>
+		<JP-Name>洋上補給</JP-Name>
+		<TR-Name>해상보급</TR-Name>
+	</Useitem>
+	<Useitem>
+		<JP-Name>秋刀魚</JP-Name>
+		<TR-Name>꽁치</TR-Name>
+	</Useitem>
+	<Useitem>
+		<JP-Name>秋刀魚の缶詰</JP-Name>
+		<TR-Name>꽁치 통조림</TR-Name>
+	</Useitem>
+	<Useitem>
+		<JP-Name>熟練搭乗員</JP-Name>
+		<TR-Name>숙련 탑승원</TR-Name>
+	</Useitem>
+	<Useitem>
+		<JP-Name>ネ式エンジン</JP-Name>
+		<TR-Name>네식 엔진</TR-Name>
+	</Useitem>
+	<Useitem>
+		<JP-Name>お飾り材料</JP-Name>
+		<TR-Name>장식 재료</TR-Name>
+	</Useitem>
+	<Useitem>
+		<JP-Name>設営隊</JP-Name>
+		<TR-Name>설영대</TR-Name>
+	</Useitem>
+	<Useitem>
+		<JP-Name>新型航空機設計図</JP-Name>
+		<TR-Name>신형 항공기 설계도</TR-Name>
+	</Useitem>
+	<Useitem>
+		<JP-Name>新型砲熕兵装資材</JP-Name>
+		<TR-Name>신형 포공병장 자재</TR-Name>
+	</Useitem>
+	<Useitem>
+		<JP-Name>戦闘糧食(特別なおにぎり)</JP-Name>
+		<TR-Name>전투식량(특별한 주먹밥)</TR-Name>
+	</Useitem>
+	<Useitem>
+		<JP-Name>新型航空兵装資材</JP-Name>
+		<TR-Name>신형 항공병장 자재</TR-Name>
+	</Useitem>
+	<Useitem>
+		<JP-Name>戦闘詳報</JP-Name>
+		<TR-Name>전투상보</TR-Name>
+	</Useitem>
+	<Useitem>
+		<JP-Name>海峡章</JP-Name>
+		<TR-Name>해협장</TR-Name>
+	</Useitem>
+	<Useitem>
+		<JP-Name>Xmas Select Gift Box</JP-Name>
+		<TR-Name>Xmas Select Gift Box</TR-Name>
+	</Useitem>
+	<Useitem>
+		<JP-Name>捷号章</JP-Name>
+		<TR-Name>첩호장</TR-Name>
+	</Useitem>
+	<Useitem>
+		<JP-Name>お米</JP-Name>
+		<TR-Name>쌀</TR-Name>
+	</Useitem>
+	<Useitem>
+		<JP-Name>梅干</JP-Name>
+		<TR-Name>우메보시</TR-Name>
+	</Useitem>
+	<Useitem>
+		<JP-Name>海苔</JP-Name>
+		<TR-Name>김</TR-Name>
+	</Useitem>
+	<Useitem>
+		<JP-Name>お茶</JP-Name>
+		<TR-Name>차</TR-Name>
+	</Useitem>
+	<Useitem>
+		<JP-Name>鳳翔さんの夕食券</JP-Name>
+		<TR-Name>호쇼씨의 석식권</TR-Name>
+	</Useitem>
+</Useitems>
