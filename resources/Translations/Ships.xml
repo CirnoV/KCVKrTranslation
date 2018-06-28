@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Ships Version="1.0.99">
+<Ships Version="1.0.100">
 	<Ship>
 		<JP-Name>U-511</JP-Name>
 		<TR-Name>U-511</TR-Name>
@@ -2654,11 +2654,11 @@
 	</Ship>
 	<Ship>
 		<JP-Name>Samuel B.Roberts</JP-Name>
-		<TR-Name>사무엘 B 로버츠</TR-Name>
+		<TR-Name>사무엘 B. 로버츠</TR-Name>
 	</Ship>
 	<Ship>
 		<JP-Name>Samuel B.Roberts改</JP-Name>
-		<TR-Name>사무엘 B 로버츠改</TR-Name>
+		<TR-Name>사무엘 B. 로버츠改</TR-Name>
 	</Ship>
 	<Ship>
 		<JP-Name>陽炎改二</JP-Name>
