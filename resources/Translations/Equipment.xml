@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.1.79">
+<Equipment Version="1.1.80">
 	<Item>
 		<JP-Name>12cm単装砲</JP-Name>
 		<TR-Name>12cm 단장포</TR-Name>
@@ -642,7 +642,7 @@
 	</Item>
 	<Item>
 		<JP-Name>16inch三連装砲 Mk.7</JP-Name>
-		<TR-Name>16인치 삼연장포 Mk.7</TR-Name>
+		<TR-Name>16inch 삼연장포 Mk.7</TR-Name>
 	</Item>
 	<Item>
 		<JP-Name>203mm/53 連装砲</JP-Name>
@@ -730,7 +730,7 @@
 	</Item>
 	<Item>
 		<JP-Name>16inch三連装砲 Mk.7+GFCS</JP-Name>
-		<TR-Name>16인치 삼연장포 Mk.7+GFCS</TR-Name>
+		<TR-Name>16inch 삼연장포 Mk.7+GFCS</TR-Name>
 	</Item>
 	<Item>
 		<JP-Name>Re.2001 OR改</JP-Name>
@@ -1175,6 +1175,22 @@
 	<Item>
 		<JP-Name>12.7cm連装砲B型改四(戦時改修)+高射装置</JP-Name>
 		<TR-Name>12.7cm 연장포B형 改4(전시개수)+고사장치</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>16inch Mk.I三連装砲</JP-Name>
+		<TR-Name>16inch Mk.I 삼연장포</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>16inch Mk.I三連装砲+AFCT改</JP-Name>
+		<TR-Name>16inch Mk.I 삼연장포+AFCT改</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>16inch Mk.I三連装砲改+FCR type284</JP-Name>
+		<TR-Name>16inch Mk.I 삼연장포改+FCR type284</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>20連装7inch UP Rocket Launchers</JP-Name>
+		<TR-Name>20연장 7inch UP 로켓런처</TR-Name>
 	</Item>
 
 	<Item>
