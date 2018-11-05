@@ -1196,7 +1196,40 @@
 		<JP-Name>20連装7inch UP Rocket Launchers</JP-Name>
 		<TR-Name>20연장 7inch UP 로켓런처</TR-Name>
 	</Item>
-	
+	<Item>
+		<JP-Name>九七式艦攻(九三一空/熟練)</JP-Name>
+		<TR-Name>97식 함상공격기(931공/숙련)</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>Bofors 15.2cm連装砲 Model 1930</JP-Name>
+		<TR-Name>Bofors 15.2cm 연장포 Model 1930</TR-Name>
+	</Item>
+	<!--This shows up as "s9Osprey" in the viewer, should I let the JP-Name be so or leave it as is?-->
+	<Item>
+		<JP-Name>S9 Osprey</JP-Name>
+		<TR-Name>S9 Osprey</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>Ju87C改二(KMX搭載機)</JP-Name>
+		<TR-Name>Ju87C改2(KMX탑재기)</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>Ju87C改二(KMX搭載機/熟練)</JP-Name>
+		<TR-Name>Ju87C改2(KMX탑재기/숙련)</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>GFCS Mk.37</JP-Name>
+		<TR-Name>GFCS Mk.37</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>5inch単装砲 Mk.30改+GFCS Mk.37</JP-Name>
+		<TR-Name>5inch 단장포 Mk.30改+GFCS Mk.37</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>甲標的 丙型</JP-Name>
+		<TR-Name>갑표적 丙형</TR-Name>
+	</Item>
+		
 <!--Enemy equipments from here on-->
 	
 	<Item>
