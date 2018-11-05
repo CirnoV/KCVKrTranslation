@@ -1196,7 +1196,9 @@
 		<JP-Name>20連装7inch UP Rocket Launchers</JP-Name>
 		<TR-Name>20연장 7inch UP 로켓런처</TR-Name>
 	</Item>
-
+	
+<!--Enemy equipments from here on-->
+	
 	<Item>
 		<JP-Name>5inch単装砲</JP-Name>
 		<TR-Name>5inch 단장포</TR-Name>
