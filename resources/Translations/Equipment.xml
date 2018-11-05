@@ -1204,7 +1204,6 @@
 		<JP-Name>Bofors 15.2cm連装砲 Model 1930</JP-Name>
 		<TR-Name>Bofors 15.2cm 연장포 Model 1930</TR-Name>
 	</Item>
-	<!--This shows up as "s9Osprey" in the viewer, should I let the JP-Name be so or leave it as is?-->
 	<Item>
 		<JP-Name>S9 Osprey</JP-Name>
 		<TR-Name>S9 Osprey</TR-Name>
