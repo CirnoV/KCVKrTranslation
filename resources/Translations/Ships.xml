@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Ships Version="1.0.102">
+<Ships Version="1.0.103">
 	<Ship>
 		<JP-Name>U-511</JP-Name>
 		<TR-Name>U-511</TR-Name>
@@ -2739,5 +2739,65 @@
 	<Ship>
 		<JP-Name>谷風丁改</JP-Name>
 		<TR-Name>타니카제丁改</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>神鷹改</JP-Name>
+		<TR-Name>신요改</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>巻雲改二</JP-Name>
+		<TR-Name>마키구모改2</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>戦艦棲姫改</JP-Name>
+		<TR-Name>전함서희改</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>潜水新棲姫 バカンスmode</JP-Name>
+		<TR-Name>잠수신서희 바캉스 mode</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>集積地棲姫 バカンスmode</JP-Name>
+		<TR-Name>집적지서희 바캉스 mode</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>集積地棲姫 バカンスmode-壊</JP-Name>
+		<TR-Name>집적지서희 바캉스 mode-괴</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>泊地水鬼 バカンスmode</JP-Name>
+		<TR-Name>박지수귀 바캉스 mode</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>護衛独還姫</JP-Name>
+		<TR-Name>호위독환희</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>護衛独還姫-壊</JP-Name>
+		<TR-Name>호위독환희-괴</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>船渠棲姫</JP-Name>
+		<TR-Name>선거서희</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>船渠棲姫-壊</JP-Name>
+		<TR-Name>선거서희-괴</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>戦艦仏棲姫 バカンスmode</JP-Name>
+		<TR-Name>전함불서희 바캉스 mode</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>戦艦仏棲姫-壊 バカンスmode</JP-Name>
+		<TR-Name>전함불서희-괴 바캉스 mode</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>欧州水姫</JP-Name>
+		<TR-Name>유럽수희</TR-Name>
+	</Ship>
+	<Ship>
+		<JP-Name>欧州水姫-壊</JP-Name>
+		<TR-Name>유럽수희-괴</TR-Name>
 	</Ship>
 </Ships>
