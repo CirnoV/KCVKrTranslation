@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Equipment Version="1.1.83">
+<Equipment Version="1.1.84">
 	<Item>
 		<JP-Name>12cm単装砲</JP-Name>
 		<TR-Name>12cm 단장포</TR-Name>
@@ -1196,7 +1196,41 @@
 		<JP-Name>20連装7inch UP Rocket Launchers</JP-Name>
 		<TR-Name>20연장 7inch UP 로켓런처</TR-Name>
 	</Item>
-
+	<Item>
+		<JP-Name>九七式艦攻(九三一空/熟練)</JP-Name>
+		<TR-Name>97식 함상공격기(931공/숙련)</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>Bofors 15.2cm連装砲 Model 1930</JP-Name>
+		<TR-Name>Bofors 15.2cm 연장포 Model 1930</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>S9 Osprey</JP-Name>
+		<TR-Name>S9 Osprey</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>Ju87C改二(KMX搭載機)</JP-Name>
+		<TR-Name>Ju87C改2(KMX탑재기)</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>Ju87C改二(KMX搭載機/熟練)</JP-Name>
+		<TR-Name>Ju87C改2(KMX탑재기/숙련)</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>GFCS Mk.37</JP-Name>
+		<TR-Name>GFCS Mk.37</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>5inch単装砲 Mk.30改+GFCS Mk.37</JP-Name>
+		<TR-Name>5inch 단장포 Mk.30改+GFCS Mk.37</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>甲標的 丙型</JP-Name>
+		<TR-Name>갑표적 丙형</TR-Name>
+	</Item>
+		
+<!--Enemy equipments from here on-->
+	
 	<Item>
 		<JP-Name>5inch単装砲</JP-Name>
 		<TR-Name>5inch 단장포</TR-Name>
@@ -1536,5 +1570,13 @@
 	<Item>
 		<JP-Name>深海16inch三連装砲改</JP-Name>
 		<TR-Name>심해 16inch 삼연장포改</TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>深海攻撃哨戒鷹改二</JP-Name>
+		<TR-Name>심해 공격 초계 매改2 </TR-Name>
+	</Item>
+	<Item>
+		<JP-Name>深海16inch三連装砲改二</JP-Name>
+		<TR-Name>심해 16inch 삼연장포改2</TR-Name>
 	</Item>
 </Equipment>
