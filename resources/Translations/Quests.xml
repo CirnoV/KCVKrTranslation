@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.2.70">
+<Quests Version="1.2.71">
 	<Quest>
 		<ID>SF</ID>
 		<JP-Name>初夏の整理整頓</JP-Name>
@@ -1016,7 +1016,7 @@
 	<Quest>
 		<ID>259</ID>
 		<TR-Name>「수상타격부대」남쪽으로! - 월간임무</TR-Name>
-		<TR-Detail>전함3척과 경순1척을 기반으로 한 수상타격대로 5-1 S승 1회(고속전함으로는 달성 불가)</TR-Detail>
+		<TR-Detail>일본 저속 전함 3척과 경순 1척을 기반으로 한 수상타격대로 5-1 S승 1회</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>258</ID>
