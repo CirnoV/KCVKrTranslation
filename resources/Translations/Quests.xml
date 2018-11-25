@@ -26,7 +26,7 @@
 		<JP-Name>二人でする初めての任務！</JP-Name>
 		<TR-Name>둘이 같이 하는 첫 임무!</TR-Name>
 		<JP-Detail>強い絆を結んだ艦娘を旗艦とした第一艦隊でリランカ島へ出撃、敵中枢を撃滅せよ！</JP-Detail>
-		<TR-Detail>100Lv이상 칸무스를 1함대 기함으로 하고 4-3 보스전 S승리 달성</TR-Detail>
+		<TR-Detail>100Lv 이상 칸무스를 1함대 기함으로 하고 4-3 보스전 S승리 달성</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>WA02</ID>
@@ -131,28 +131,28 @@
 		<JP-Name>南方海域珊瑚諸島沖の制空権を握れ！</JP-Name>
 		<TR-Name>남방해역 산호섬 앞바다 제공권 장악</TR-Name>
 		<JP-Detail>南方海域珊瑚諸島沖に出撃し、敵機動部隊本体を捕捉撃滅、これに完全勝利せよ！</JP-Detail>
-		<TR-Detail>5-2보스함대에서 2회 S승리</TR-Detail>
+		<TR-Detail>5-2 보스함대에서 2회 S승리</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>B71</ID>
 		<JP-Name>鎮守府近海航路の安全確保を強化せよ！</JP-Name>
 		<TR-Name>진수부근해항로의 안전을 확보하라!</TR-Name>
 		<JP-Detail>水雷戦隊を含む新編戦隊を鎮守府近海航路に出撃させ、同航路の安全確保に努めよ！</JP-Detail>
-		<TR-Detail>경순양함을 기함으로한 수뢰전대(구축함 4척)로 1-6 클리어</TR-Detail>
+		<TR-Detail>경순양함을 기함으로 한 수뢰전대(구축함 4척)로 1-6 클리어</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>B70</ID>
 		<JP-Name>新編艦隊、南西諸島防衛線へ急行せよ！</JP-Name>
 		<TR-Name>신편 함대, 남서제독방위선으로 급행하라!</TR-Name>
 		<JP-Detail>水雷戦隊を含む新編艦隊を南西諸島防衛線に展開、同方面に来襲する敵艦隊を撃破せよ！</JP-Detail>
-		<TR-Detail>경순양함을 기함으로한 수뢰전대(구축함 4척)로 1-4보스전 A승리</TR-Detail>
+		<TR-Detail>경순양함을 기함으로 한 수뢰전대(구축함 4척)로 1-4보스전 A승리</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>B22</ID>
 		<JP-Name>「第三十駆逐隊(第一次)」出撃せよ！</JP-Name>
 		<TR-Name>제30구축대(1차)출격!</TR-Name>
 		<JP-Detail>「第三十駆逐隊(第一次)」を含む艦隊で出撃し、キス島沖の主力艦隊と交戦せよ！</JP-Detail>
-		<TR-Detail>무츠키,키사라기,야요이,모치즈키를 포함한 함대로 3-2 보스전에서 C패배 이상 달성 (남은 2척은 자유배치)</TR-Detail>
+		<TR-Detail>무츠키, 키사라기 ,야요이, 모치즈키를 포함한 함대로 3-2 보스전에서 C패배 이상 달성 (남은 2척은 자유배치)</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>B21</ID>
@@ -201,14 +201,14 @@
 		<JP-Name>「第五航空戦隊」出撃せよ！</JP-Name>
 		<TR-Name>제5항공전대 출격</TR-Name>
 		<JP-Detail>「翔鶴」「瑞鶴」を基幹とする第五航空戦隊で、北方海域モーレイ海の敵を撃滅せよ！</JP-Detail>
-		<TR-Detail>쇼우카쿠, 즈이카쿠가 포함된 함대로 3-1해역의 보스전 승리 (남은 4척은 자유배치)</TR-Detail>
+		<TR-Detail>쇼카쿠, 즈이카쿠가 포함된 함대로 3-1해역의 보스전 승리 (남은 4척은 자유배치)</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>B14</ID>
 		<JP-Name>「西村艦隊」出撃せよ！</JP-Name>
 		<TR-Name>니시무라 함대 출격</TR-Name>
 		<JP-Detail>「扶桑」「山城」「最上」「時雨」を基幹とする西村艦隊で、オリョール海の敵を撃滅せよ！</JP-Detail>
-		<TR-Detail>후소우, 야마시로, 모가미, 시구레를 함대 배치 후 2-3 보스전 승리 (남은 2척은 자유배치)</TR-Detail>
+		<TR-Detail>후소, 야마시로, 모가미, 시구레를 함대 배치 후 2-3 보스전 승리 (남은 2척은 자유배치)</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>B13</ID>
@@ -234,7 +234,7 @@
 	<Quest>
 		<ID>B10</ID>
 		<JP-Name>敵空母を撃沈せよ！</JP-Name>
-		<TR-Name>적 공모 격침!(정규공모 아카기 획득 임무)</TR-Name>
+		<TR-Name>적 공모 격침! (정규공모 아카기 획득 임무)</TR-Name>
 		<JP-Detail>敵機動部隊を捕捉し、これを邀撃、敵空母を轟沈せよ！</JP-Detail>
 		<TR-Detail>정규공모 또는 경공모가 포함된 적 함대 격파(함대에 항모가 "없어도" 아카기 획득 가능)</TR-Detail>
 	</Quest>
@@ -348,7 +348,7 @@
 		<JP-Name>潜水艦隊を編成せよ！</JP-Name>
 		<TR-Name>잠수함대 편성</TR-Name>
 		<JP-Detail>伊号潜水艦2隻からなる潜水艦隊を編成せよ！</JP-Detail>
-		<TR-Detail>이168, 이58, 이19, 이8, 이401 중 2척을 함대에 배치</TR-Detail>
+		<TR-Detail>잠수함 2척을 함대에 배치</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>A24</ID>
@@ -362,7 +362,7 @@
 		<JP-Name>「第五航空戦隊」を編成せよ！</JP-Name>
 		<TR-Name>제5항공전대 편성</TR-Name>
 		<JP-Detail>「翔鶴」「瑞鶴」を基幹とし、駆逐艦2隻を加えた第五航空戦隊を編成せよ！</JP-Detail>
-		<TR-Detail>쇼우카쿠, 즈이카쿠와 구축함 2척을 함대에 배치</TR-Detail>
+		<TR-Detail>쇼카쿠, 즈이카쿠와 구축함 2척을 함대에 배치</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>A22</ID>
@@ -397,7 +397,7 @@
 		<JP-Name>「伊勢」型戦艦姉妹の全２隻を編成せよ！</JP-Name>
 		<TR-Name>「이세」급 전함 자매 총 2 척을 편성하라!</TR-Name>
 		<JP-Detail>伊勢型戦艦「伊勢」「日向」を同一艦隊に配属せよ！</JP-Detail>
-		<TR-Detail>이세, 휴우가를 같은 함대에 배치</TR-Detail>
+		<TR-Detail>이세, 휴가를 같은 함대에 배치</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>A17</ID>
@@ -491,7 +491,7 @@
 	<Quest>
 		<ID>808</ID>
 		<TR-Name>제 27구축대 출격!</TR-Name>
-		<TR-Detail>시라츠유改를 기함으로 하고 시구레, 하루사메, 사미다레+자유2척으로 구성된 함대로 2-3보스전 S승리 달성</TR-Detail>
+		<TR-Detail>시라츠유改를 기함으로 하고 시구레, 하루사메, 사미다레 + 자유2척으로 구성된 함대로 2-3 보스전 S승리 달성</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>807</ID>
@@ -501,16 +501,16 @@
 	<Quest>
 		<ID>806</ID>
 		<TR-Name>기함 카스미 출격! 적의 함대를 격멸하라!</TR-Name>
-		<TR-Detail>카스미 改2(改2을도 가능)기함,구축2+자유3편성으로 2-5 보스전 S승리 달성</TR-Detail>
+		<TR-Detail>카스미 改2(改2을도 가능)기함,구축2 + 자유3편성으로 2-5 보스전 S승리 달성</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>805</ID>
 		<TR-Name>기함 카스미 북방해역을 순찰하라!</TR-Name>
-		<TR-Detail>카스미 改2(改2을도 가능)을 기함으로 하고 구축3+자유2로 3-1 보스전 승리?</TR-Detail>
+		<TR-Detail>카스미 改2(改2을도 가능)을 기함으로 하고 구축3 + 자유2로 3-1 보스전 B승리 이상</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>801</ID>
-		<TR-Name>근하신년! 구뢰전대 출격하라!</TR-Name>
+		<TR-Name>근하신년! 수뢰전대 출격하라!</TR-Name>
 		<TR-Detail>1-2, 1-3, 1-4 각각 보스전 S승리</TR-Detail>
 	</Quest>
 	<Quest>
@@ -521,7 +521,7 @@
 	<Quest>
 		<ID>803</ID>
 		<TR-Name>시대가 왔다! 항공화력함인 정월!</TR-Name>
-		<TR-Detail>항공전함을 기함으로 항전2척+항순2척+자유2척으로 4-2 보스전 3회 S승 (시운 / Ro.43 수상정찰기 / OS2U 선택보상)</TR-Detail>
+		<TR-Detail>항공전함을 기함으로 항전 2척 + 항순 2척 + 자유 2척으로 4-2 보스전 3회 S승 (시운 / Ro.43 수상정찰기 / OS2U 선택보상)</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>804</ID>
@@ -631,12 +631,12 @@
 	<Quest>
 		<ID>615</ID>
 		<TR-Name>기종전환</TR-Name>
-		<TR-Detail>「99식 함상폭격기(에구사대)」를 탑제한 항공모함을 기함으로 두고 스이세이2개 폐기(임무 완료전까지 장비변경,잠금 및 기함변경 시 실패)</TR-Detail>
+		<TR-Detail>「99식 함상폭격기(에구사대)」를 탑재한 항공모함을 기함으로 두고 스이세이2개 폐기(임무 완료전까지 장비변경,잠금 및 기함변경 시 실패)</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>614</ID>
 		<TR-Name>기종전환</TR-Name>
-		<TR-Detail>97식함공(토모나가대)를 탑재한 항공모함을 기함으로 두고 텐잔 두개를 폐기(임무 완료전까지 장비변경,잠금 및 기함변경 시 실패)</TR-Detail>
+		<TR-Detail>97식함공(토모나가대)를 탑재한 항공모함을 기함으로 두고 텐잔 두개를 폐기(임무 완료전까지 장비 변경, 잠금 및 기함변경 시 실패)</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>613</ID>
@@ -726,27 +726,27 @@
 	<Quest>
 		<ID>413</ID>
 		<TR-Name>(계속)항공화력함의 운용을 강화하라!</TR-Name>
-		<TR-Detail>23번원정을 세번 더 성공(항공화력함의 운용을 강화하라!까지 포함하면 4회)</TR-Detail>
+		<TR-Detail>23번원정을 세번 더 성공 (항공화력함의 운용을 강화하라!까지 포함하면 4회)</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>412</ID>
 		<TR-Name>항공 화력함의 운용을 강화하라!</TR-Name>
-		<TR-Detail>23번 원정 성공(기함 50 총레벨 200 총 6 항전2 구축2 그 외 2)</TR-Detail>
+		<TR-Detail>23번 원정 성공</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>411</ID>
 		<TR-Name>남방쥐수송을 계속 실시하라!</TR-Name>
-		<TR-Detail>37또는 38번 추가6회 성공(남쪽으로 수송 작전을 성공시켜라!까지 포함7회)-조건 :37번(기함50,총Lv200,총6,1경5구축.드럼4)38번(기함65,총Lv240,구축5 기타 1,드럼통8개)</TR-Detail>
+		<TR-Detail>37또는 38번 추가 6회 성공 (남쪽으로 수송 작전을 성공시켜라!까지 포함 7회)</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>410</ID>
 		<TR-Name>남쪽으로 수송 작전을 성공시켜라!</TR-Name>
-		<TR-Detail>37번(기함50,합계Lv200,총6,1경5구축.드럼통4개)38번(기함65,합계Lv240,구축5 기타 1,드럼통8개)원정 성공(드럼통은 각각 1개씩 최소 4척에 들어가야함)</TR-Detail>
+		<TR-Detail>37 또는 38번 원정 성공</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>409</ID>
 		<TR-Name>잠수함 파견에 의한 해외함과의 접촉작전(Z1획득)</TR-Name>
-		<TR-Detail>31번 원정을 기함60이상, 잠수함 4대이상, 함대 총 레벨 200이상 세 조건을 맞추어 성공</TR-Detail>
+		<TR-Detail>31번 원정을 기함 레벨 60이상, 잠수함 4대 이상, 함대 총 레벨 200이상 세 조건을 맞추어 성공</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>408</ID>
@@ -781,7 +781,7 @@
 	<Quest>
 		<ID>310</ID>
 		<TR-Name>FS작전에 대비하고 함대 련도 향상에 힘쓰자!</TR-Name>
-		<TR-Detail>오늘 중 연습전 4회 승리(05:00부터 다음날04:59까지)</TR-Detail>
+		<TR-Detail>오늘 중 연습전 4회 승리 (05:00부터 다음날 04:59까지)</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>309</ID>
@@ -916,32 +916,32 @@
 	<Quest>
 		<ID>279</ID>
 		<TR-Name>제1수뢰전대 북방 케호작전 재돌입!</TR-Name>
-		<TR-Detail>아부쿠마改2를 기함으로 하고 히비키, 유우구모,나가나미,아키구모,시마카제로 구성된 함대로 3-2보스전에서 S승리 달성</TR-Detail>
+		<TR-Detail>아부쿠마改2를 기함으로 하고 히비키, 유구모, 나가나미, 아키구모, 시마카제로 구성된 함대로 3-2보스전에서 S승리 달성</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>278</ID>
 		<TR-Name>제1수뢰전대 케호작전 돌입하라!</TR-Name>
-		<TR-Detail>아부쿠마를 기함으로 하고 히비키,하츠시모,와카바,사미다레,시마카제로 구성된 함대로 3-2 보스전에서 승리달성</TR-Detail>
+		<TR-Detail>아부쿠마를 기함으로 하고 히비키, 하츠시모, 와카바, 사미다레, 시마카제로 구성된 함대로 3-2 보스전에서 승리달성</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>277</ID>
 		<TR-Name>제6구축대 대잠초계를 철저히 하는거예요!</TR-Name>
-		<TR-Detail>아카츠키,히비키,이나즈마,이카즈치로 구성된 함대로 1-5보스전 A승리 이상 달성(B이하 불가,상기 4척만으로 구성)</TR-Detail>
+		<TR-Detail>아카츠키, 히비키, 이나즈마, 이카즈치로 구성된 함대로 1-5보스전 A승리 이상 달성(B이하 불가,상기 4척만으로 구성)</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>276</ID>
 		<TR-Name>해상진입부대, 출발하라!</TR-Name>
-		<TR-Detail>히에이,키리시마,나가라,아카츠키,이나즈마,이카즈치로 구성된 함대로 5-1보스전 S승 달성</TR-Detail>
+		<TR-Detail>히에이, 키리시마, 나가라, 아카츠키, 이나즈마, 이카즈치로 구성된 함대로 5-1보스전 S승 달성</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>275</ID>
 		<TR-Name>출항! 제 18전대</TR-Name>
-		<TR-Detail>2-3 보스전 S승 달성.편성임무와 동일하게 텐류+타츠다 이외의 함이 추가로 편성되어있어도 무방.기함지정 없음</TR-Detail>
+		<TR-Detail>텐류, 타츠타를 포함한 함대로 2-3 보스전 S승 달성</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>274</ID>
 		<TR-Name>제6구축대 대잠초계인거예요!</TR-Name>
-		<TR-Detail>아카츠키,히비키,이나즈마,이카즈치로 구성된 함대로 1-5보스전 승리 또는 C패배 달성(상기 4척만으로 구성)</TR-Detail>
+		<TR-Detail>아카츠키, 히비키, 이나즈마, 이카즈치로 구성된 함대로 1-5 보스전 승리 또는 C패배 달성(상기 4척만으로 구성)</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>273</ID>
@@ -961,27 +961,27 @@
 	<Quest>
 		<ID>270</ID>
 		<TR-Name>「제22구축대」출격하라!</TR-Name>
-		<TR-Detail>「제22구축대」(사츠키,후미즈키,나가즈키+구축함1척)를 포함한 함대로 1-4 보스전 S승리(그 외 자유편성)</TR-Detail>
+		<TR-Detail>「제22구축대」(사츠키, 후미즈키, 나가츠키 + 구축함 1척)를 포함한 함대로 1-4 보스전 S승리(그 외 자유편성)</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>269</ID>
 		<TR-Name>「제21구축대」출격하라!</TR-Name>
-		<TR-Detail>「제21구축대」(하츠하루,네노히,와카바,하츠시모)를 포함한 함대로 3-1 보스전 S승리(그 외 자유편성)</TR-Detail>
+		<TR-Detail>「제21구축대」(하츠하루, 네노히, 와카바, 하츠시모)를 포함한 함대로 3-1 보스전 S승리(그 외 자유편성)</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>268</ID>
 		<TR-Name>「제11구축대」대잠초계!</TR-Name>
-		<TR-Detail>「제11구축대」(후부키,시라유키,하츠유키,무라쿠모)로 구성된 함대로 1-5 보스전 C패배 이상 달성</TR-Detail>
+		<TR-Detail>「제11구축대」(후부키, 시라유키, 하츠유키, 무라쿠모)로 구성된 함대로 1-5 보스전 C패배 이상 달성</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>267</ID>
 		<TR-Name>「제11구축대」출격하라!</TR-Name>
-		<TR-Detail>「제11구축대」(후부키,시라유키,하츠유키,무라쿠모)를 포함한 함대로 2-3 보스전 승리(그 외 자유편성)※기함자유</TR-Detail>
+		<TR-Detail>「제11구축대」(후부키, 시라유키, 하츠유키, 무라쿠모)를 포함한 함대로 2-3 보스전 승리(그 외 자유편성)※기함자유</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>266</ID>
 		<TR-Name>「수상반격부대」돌입하라! - 월간임무</TR-Name>
-		<TR-Detail>구축함을 기함으로,중순 1척과 경순1척,구축함 4척으로 구성된 함대로 2-5 보스 S승리 (윗길 색적주의!)</TR-Detail>
+		<TR-Detail>구축함을 기함으로 중순 1척과 경순 1척, 구축함 4척으로 구성된 함대로 2-5 보스 S승리 (윗길 색적주의!)</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>265</ID>
@@ -1001,7 +1001,7 @@
 	<Quest>
 		<ID>262</ID>
 		<TR-Name>「니시무라 함대」남방해역에 진출하라!</TR-Name>
-		<TR-Detail>「니시무라 함대」(후소,야마시로,모가미,시구레,미치시오)를 중심으로 한 함대로 5-1 보스전 S승 (1척 자유편성,기함자유)</TR-Detail>
+		<TR-Detail>「니시무라 함대」(후소, 야마시로, 모가미, 시구레, 미치시오)를 중심으로 한 함대로 5-1 보스전 S승 (1척 자유편성, 기함 자유)</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>261</ID>
@@ -1011,7 +1011,7 @@
 	<Quest>
 		<ID>260</ID>
 		<TR-Name>「전함부대」북방해역에 돌입하라!</TR-Name>
-		<TR-Detail>전함2척(항공전함 불가)와 경공모1척(정규공모 불가)를 기반으로 한 함대로 3-5 S승(전함,경공모 기준 초과시 실패)</TR-Detail>
+		<TR-Detail>전함 2척(항공전함 불가)와 경공모1척(정규공모 불가)를 기반으로 한 함대로 3-5 S승(전함,경공모 기준 초과시 실패)</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>259</ID>
@@ -1021,7 +1021,7 @@
 	<Quest>
 		<ID>258</ID>
 		<TR-Name>「제2전대」발묘!</TR-Name>
-		<TR-Detail>「제2전대」(나가토형과 후소형 4척)을 포함한 함대로 4-2 보스전 S승 2회 달성</TR-Detail>
+		<TR-Detail>「제2전대」(나가토급과 후소급 4척)을 포함한 함대로 4-2 보스전 S승 2회 달성</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>257</ID>
@@ -1036,12 +1036,12 @@
 	<Quest>
 		<ID>255</ID>
 		<TR-Name>「수뢰전대」바시섬 앞바다 긴급전개</TR-Name>
-		<TR-Detail>경순양함을 기함으로한 수뢰전대(경순양함 최대2척,그외 구축함)으로 2-2 보스전 S승리</TR-Detail>
+		<TR-Detail>경순양함을 기함으로한 수뢰전대 (경순양함 최대 2척, 그외 구축함)으로 2-2 보스전 S승리</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>254</ID>
 		<TR-Name>「경항모」전대 출격하라!</TR-Name>
-		<TR-Detail>경항모1~2척、경순1척、구축함3～4척의 함대로 2-1 보스전 S승리</TR-Detail>
+		<TR-Detail>경항모 1~2척、경순 1척、구축함 3~4척의 함대로 2-1 보스전 S승리</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>253</ID>
@@ -1051,7 +1051,7 @@
 	<Quest>
 		<ID>252</ID>
 		<TR-Name>전함 하루나 출격하라!</TR-Name>
-		<TR-Detail>개2개조가 끝난 하루나를 포함한 함대로 5-1 보스전 S승리(기함으로 설정할 필요X)</TR-Detail>
+		<TR-Detail>하루나改2를 포함한 함대로 5-1 보스전 S승리(기함으로 설정할 필요X)</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>251</ID>
@@ -1076,7 +1076,7 @@
 	<Quest>
 		<ID>247</ID>
 		<TR-Name>「항공전함」 출항하라!</TR-Name>
-		<TR-Detail>항공전함2대를 포함한 함대로 4-4보스전 승리</TR-Detail>
+		<TR-Detail>항공전함 2대를 포함한 함대로 4-4 보스전 승리</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>245</ID>
@@ -1141,7 +1141,7 @@
 	<Quest>
 		<ID>214</ID>
 		<TR-Name>아호작전 - 주간</TR-Name>
-		<TR-Detail>월요일 05시부터 다음주 월요일 04:59까지 출격36회/보스전투24회/보스전투승리12회/S랭크승리6회 모두달성</TR-Detail>
+		<TR-Detail>월요일 05시부터 다음주 월요일 04:59까지 출격 36회/보스전투 24회/보스전투승리 12회/S랭크승리 6회 모두달성</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>213</ID>
@@ -1176,7 +1176,7 @@
 	<Quest>
 		<ID>172</ID>
 		<TR-Name>제 27구축대를 편성하라!</TR-Name>
-		<TR-Detail>시라츠유改를 기함으로 하고 시구레,하루사메,사미다레 4척으로 구성된 함대를 편성</TR-Detail>
+		<TR-Detail>시라츠유改를 기함으로 하고 시구레, 하루사메, 사미다레 4척으로 구성된 함대를 편성</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>171</ID>
@@ -1201,7 +1201,7 @@
 	<Quest>
 		<ID>167</ID>
 		<TR-Name>신 항공전대를 편성하라!</TR-Name>
-		<TR-Detail>2차개장을 마친 쇼카쿠改2,즈이카쿠改2와 함께 호위 구축함 2척으로 이루어진 함대를 편성</TR-Detail>
+		<TR-Detail>2차개장을 마친 쇼카쿠改2, 즈이카쿠改2와 함께 호위 구축함 2척으로 이루어진 함대를 편성</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>166</ID>
@@ -1271,7 +1271,7 @@
 	<Quest>
 		<ID>153</ID>
 		<TR-Name>제18전대를 새롭게 편성하라!</TR-Name>
-		<TR-Detail>텐류,타츠다를 포함한 함대를 구성. 다른 함이 있어도 무방. 기함 지정 없음</TR-Detail>
+		<TR-Detail>텐류, 타츠타를 포함한 함대를 구성. 다른 함이 있어도 무방. 기함 지정 없음</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>152</ID>
@@ -1321,12 +1321,12 @@
 	<Quest>
 		<ID>143</ID>
 		<TR-Name>「신형정규모함」을 배치하라!</TR-Name>
-		<TR-Detail>운류형 항공모함 1번함 「운류」를 제1함대 기함에 배치</TR-Detail>
+		<TR-Detail>운류급 항공모함 1번함 「운류」를 제1함대 기함에 배치</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>142</ID>
 		<TR-Name>정예「제3전대」전함 집결하라!</TR-Name>
-		<TR-Detail>2차개조를 모두 마친 콩고형 전함 4척으로 함대를 편성</TR-Detail>
+		<TR-Detail>2차개조를 모두 마친 콩고급 전함 4척으로 함대를 편성</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>141</ID>
@@ -1341,7 +1341,7 @@
 	<Quest>
 		<ID>139</ID>
 		<TR-Name>잠수함대「제6함대」를 편성하라！</TR-Name>
-		<TR-Detail>「다이게이」와 여러 잠수함(4대이상)으로 구성된 제6함대를 편성</TR-Detail>
+		<TR-Detail>「타이게이」와 여러 잠수함(4대이상)으로 구성된 제6함대를 편성</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>138</ID>
@@ -1370,7 +1370,7 @@
 	</Quest>
 	<Quest>
 		<ID>118</ID>
-		<TR-Name>콩고형 고속전함부대 편성</TR-Name>
+		<TR-Name>콩고급 고속전함부대 편성</TR-Name>
 		<TR-Detail>콩고, 히에이, 하루나, 키리시마를 같은 함대에 배치</TR-Detail>
 	</Quest>
 	<Quest>
@@ -1390,7 +1390,7 @@
 	</Quest>
 	<Quest>
 		<ID>109</ID>
-		<TR-Name>센다이형 경순양함 자매 3척 함대 편성</TR-Name>
+		<TR-Name>센다이급 경순양함 자매 3척 함대 편성</TR-Name>
 		<TR-Detail>센다이, 진츠, 나카를 같은 함대에 배치</TR-Detail>
 	</Quest>
 	<Quest>
@@ -1420,7 +1420,7 @@
 	</Quest>
 	<Quest>
 		<ID>811</ID>
-		<TR-Name>난세이 제도 방어선을 강화하라!</TR-Name>
+		<TR-Name>남서 제도 방어선을 강화하라!</TR-Name>
 		<TR-Detail>1-4보스전 5회 S승리 달성</TR-Detail>
 	</Quest>
 	<Quest>
@@ -1541,7 +1541,7 @@
 	<Quest>
 		<ID>825</ID>
 		<JP-Name>水雷戦隊、南西諸島海域を哨戒せよ！</JP-Name>
-		<TR-Name>수뢰 전대, 난세이제도 해역을 초계하라!</TR-Name>
+		<TR-Name>수뢰 전대, 남서제도 해역을 초계하라!</TR-Name>
 		<JP-Detail>水雷戦隊を基幹とした有力な艦隊で南西諸島海域バシー島沖及び東部オリョール海を哨戒、&lt;br&gt;同海域に遊弋する敵艦隊を捕捉、これを撃滅せよ！</JP-Detail>
 		<TR-Detail>경순양함 기함과 구축함 4척을 포함한 수뢰전대로 2-2 및 2-3 보스전 S승리 (나머지 한 척 수상기모함 가능, 자유편성)</TR-Detail>
 	</Quest>
@@ -1810,7 +1810,7 @@
 		<JP-Name>洋上航空戦力を拡充せよ！</JP-Name>
 		<TR-Name>해상 항공 전력을 확충하라!</TR-Name>
 		<JP-Detail>航空母艦、または水上機母艦を旗艦とした有力な艦隊を編成、北方AL海域、&lt;br&gt;西方海域カスガダマ沖 、中部海域MS諸島沖に展開し、各海域の敵艦隊を撃滅せよ！</JP-Detail>
-		<TR-Detail>항모 또는 수상기모함 기함으로 3-5, 4-4, 6-2 보스전 S승?</TR-Detail>
+		<TR-Detail>항모 또는 수상기모함 기함으로 3-5, 4-4, 6-2 보스전 S승</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>659</ID>
@@ -1838,21 +1838,21 @@
 		<JP-Name>改装航空巡洋艦、出撃！</JP-Name>
 		<TR-Name>개장 항공순양함, 출격!</TR-Name>
 		<JP-Detail>改装航空巡洋艦「鈴谷改二」を旗艦とした精強な艦隊を編成、同艦隊を南方海域に展開、&lt;br&gt;南方海域前面、及びサブ島沖海域に遊弋する敵艦隊群を捕捉、これを撃破せよ！</JP-Detail>
-		<TR-Detail>스즈야改2 기함으로 5-1, 5-3 보스전 S승리?</TR-Detail>
+		<TR-Detail>스즈야改2 기함으로 5-1, 5-3 보스전 A승리 이상</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>853</ID>
 		<JP-Name>鎮守府海域警戒を厳とせよ！</JP-Name>
-		<TR-Name>진수부 해상 경계를 확실히하라!</TR-Name>
+		<TR-Name>진수부 해상 경계를 확실히 하라!</TR-Name>
 		<JP-Detail>巡洋艦クラスを旗艦に配備、2隻以上の駆逐艦を擁する警戒艦隊を編成せよ。同警戒艦隊を以て、&lt;br&gt;鎮守府海域(南西諸島/製油所地帯沿岸/南西諸島防衛線/鎮守府近海)の警戒任務にあたれ！</JP-Detail>
-		<TR-Detail>순양함 기함, 구축함 2척 이상 함대로 1-2, 1-3, 1-4, 1-5 보스전 S승리?</TR-Detail>
+		<TR-Detail>순양함(경/중/항/연/뇌순) 기함, 구축함 2척 이상 함대로 1-2, 1-3, 1-4, 1-5 보스전 A승리 이상</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>854</ID>
 		<JP-Name>戦果拡張任務！「Z作戦」前段作戦</JP-Name>
 		<TR-Name>전과 확장 임무! "Z작전" 전단 작전</TR-Name>
 		<JP-Detail>戦果拡張作戦：我が第一艦隊に精鋭艦艇を集中配備、同精鋭艦隊を以て、南西諸島の沖ノ島海域、&lt;br&gt;中部海域哨戒線、グアノ環礁沖の敵艦隊を撃破、中部北海域ピーコック島の敵戦力を破砕殲滅せよ！</JP-Detail>
-		<TR-Detail>2-4, 6-1, 6-3, 6-4 보스전 승리?</TR-Detail>
+		<TR-Detail>2-4, 6-1, 6-3 보스전 A승리 이상, 6-4 보스전 S승리</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>180</ID>
@@ -1901,14 +1901,14 @@
 		<JP-Name>輸送作戦を成功させ、帰還せよ！</JP-Name>
 		<TR-Name>수송 작전을 성공시키고, 귀환하라!</TR-Name>
 		<JP-Detail>「鬼怒改二」を旗艦、僚艦に「浦波改」他駆逐艦3隻の計5隻の艦隊で&lt;br&gt;バシー島沖における柳輸送作戦を実施、同輸送作戦を完全成功させ、帰還せよ！</JP-Detail>
-		<TR-Detail>"키누改2" 기함으로, "우라나미改" 및 구축 3척 포함하여 총 5척 함대로 2-2 보스전 S 승리?</TR-Detail>
+		<TR-Detail>"키누改2" 기함으로, "우라나미改" 및 구축 3척 포함하여 5척 이상의 함대로 2-2 보스전 S승리</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>425</ID>
 		<JP-Name>海上護衛総隊、遠征開始！</JP-Name>
 		<TR-Name>해상 호위 총대, 원정 개시!</TR-Name>
 		<JP-Detail>遠征任務：遠征任務「対潜警戒任務」「海上護衛任務」「タンカー護衛任務」を実施、&lt;br&gt;軽巡、駆逐艦、海防艦などから編成された護衛艦隊で各遠征を成功させよ！</JP-Detail>
-		<TR-Detail>[4]대잠 경계 임무, [5]해상 호위 임무, [9]유조선 호위 임무 한 번 씩 성공</TR-Detail>
+		<TR-Detail>[4]대잠 경계 임무, [5]해상 호위 임무, [9]유조선 호위 임무 한 번씩 성공</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>857</ID>
@@ -1993,14 +1993,14 @@
 		<JP-Name>精鋭「第二二駆逐隊」出撃せよ！</JP-Name>
 		<TR-Name>정예 제 22구축대 출격하라!</TR-Name>
 		<JP-Detail>出撃任務：再編した精鋭「第二二駆逐隊」を含む精強な水雷戦隊で北方海域キス島沖に出撃、&lt;br&gt;キス島撤退作戦を完全成功させよ！</JP-Detail>
-		<TR-Detail>「후미즈키改2」 「사츠키改2」 「미나즈키改」 「나가츠키改」를 포함한 수뢰전대로 3-2 보스전 S승리?</TR-Detail>
+		<TR-Detail>「후미즈키改2」 「사츠키改2」 「미나즈키改」 「나가츠키改」를 포함한 수뢰전대로 3-2 보스전 S승리</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>860</ID>
 		<JP-Name>旗艦「由良」、抜錨！</JP-Name>
 		<TR-Name>기함 유라, 발묘!</TR-Name>
 		<JP-Detail>出撃任務：旗艦に「由良改二」、随伴艦に二駆「村雨」「夕立」「春雨」「五月雨」及び「秋月」から&lt;br&gt;二隻以上を配備した第一艦隊を展開、東部オリョール海及び南方海域前面の敵戦力を撃滅せよ！</JP-Detail>
-		<TR-Detail>유라改2 기함, "무라사메, 유다치, 하루사메, 사미다레, 아키즈키" 중 2척을 포함한 함대로 2-3, 5-1 보스전 S승?</TR-Detail>
+		<TR-Detail>유라改2 기함, "무라사메, 유다치, 하루사메, 사미다레, 아키즈키" 중 2척을 포함한 함대로 2-3, 5-1 보스전 S승</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>185</ID>
@@ -2021,7 +2021,7 @@
 		<JP-Name>精強大型航空母艦、抜錨！</JP-Name>
 		<TR-Name>정예 대형 항공모함, 발묘!</TR-Name>
 		<JP-Detail>出撃任務：「Saratoga Mk.II」または同「Mod.2」を旗艦とした「任務部隊」で、南方海域サーモン海域&lt;br&gt;北方及び中部海域MS諸島沖に展開、同海域敵戦力を捕捉撃滅、「MS諸島防衛戦」を成功させよ！</JP-Detail>
-		<TR-Detail>Saratoga Mk.II 또는 Mod.2 기함, 경순1, 구축2 포함 함대로 5-5, 6-2 보스전 S 승리?</TR-Detail>
+		<TR-Detail>Saratoga Mk.II 또는 Mod.2 기함, 경순1, 구축2 포함 함대로 5-5, 6-2 보스전 S승리</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>669</ID>
@@ -2035,7 +2035,7 @@
 		<JP-Name>改装攻撃型軽空母、前線展開せよ！</JP-Name>
 		<TR-Name>개장 공격형 경항모, 전선 전개하라!</TR-Name>
 		<JP-Detail>改装航空母艦「鈴谷航改二」を旗艦とした精強な機動部隊を編成、同艦隊を中部海域に進出。&lt;br&gt;MS諸島沖、KW環礁沖海域に展開し、同海域の敵機動部隊を捕捉、これを撃滅せよ！</JP-Detail>
-		<TR-Detail>스즈야航改2 기함, 6-2, 6-5 보스전 S승리?</TR-Detail>
+		<TR-Detail>스즈야航改2 기함, 6-2, 6-5 보스전 S승리</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>666</ID>
@@ -2049,7 +2049,7 @@
 		<JP-Name>夜間作戦空母、前線に出撃せよ！</JP-Name>
 		<TR-Name>야간작전 항공모함, 전선에 출격하라!</TR-Name>
 		<JP-Detail>出撃任務：「Saratoga Mk.II」を旗艦とした第一艦隊を KW環礁沖海域に展開、敵機動部隊を迎撃！&lt;br&gt;「空母機動部隊迎撃戦」を見事成功させよ！　夜戦作戦空母、抜錨！　前線に出撃せよ！</JP-Detail>
-		<TR-Detail>Saratoga Mk.II 기함 (Mod.II 안됨), 6-5 보스전 S승리?</TR-Detail>
+		<TR-Detail>Saratoga Mk.II 기함 (Mod.II 안됨), 6-5 보스전 S승리</TR-Detail>
 	</Quest>
 	<Quest>
 		<ID>181</ID>
